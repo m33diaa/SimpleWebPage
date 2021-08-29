@@ -1,0 +1,421 @@
+.mediaViewInfo {
+	--web-view-name: Donate;
+	--web-view-id: Donate;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial;
+}
+:root {
+	--web-view-ids: Donate;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Donate {
+	position: absolute;
+	width: 1920px;
+	height: 1426px;
+	font-family: arial;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Donate;
+	--web-view-id: Donate;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Background_trn_pv {
+	position: absolute;
+	width: 2603px;
+	height: 1464px;
+	left: -683px;
+	top: -292px;
+	overflow: visible;
+}
+#Group_13_pw {
+	position: absolute;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 1083px;
+	overflow: visible;
+}
+#Rectangle_1522_px {
+	fill: rgba(94,56,178,1);
+}
+.Rectangle_1522_px {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8_py {
+	position: absolute;
+	width: 1567px;
+	height: 238px;
+	left: 177px;
+	top: 65px;
+	overflow: visible;
+}
+#MEE_I_A_pz {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,176,192,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_p {
+	left: 0px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 863px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,176,192,1);
+}
+#Facebook_Instagram_TikTok_Mail_p {
+	left: 1190px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,176,192,1);
+}
+#icons8_facebook_circled_32_p {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1190px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_p {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1282px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_tiktok_32_p {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1374px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_mail_32_p {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1466px;
+	top: 166px;
+	overflow: visible;
+}
+#Cy2_p {
+	opacity: 0.79;
+	position: absolute;
+	width: 491px;
+	height: 981px;
+	left: 38px;
+	top: 179px;
+	overflow: visible;
+}
+#Bng2_p {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 736px;
+	height: 736px;
+	left: -77px;
+	top: 613px;
+	overflow: visible;
+}
+#Line_13_p {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_13_p {
+	overflow: visible;
+	position: absolute;
+	width: 104.5px;
+	height: 3px;
+	left: 1666px;
+	top: 66.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NG_H_p {
+	left: 850px;
+	top: 255px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+}
+#CHUYN_MC_qa {
+	left: 619px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_qb {
+	left: 883px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ThuatNgu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_qc {
+	left: 1330px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChiaSeCungCuu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#logo_ti_gin_qd {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Main.html;
+	cursor: pointer;
+}
+#PODCAST_qe {
+	left: 1119px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Search_Bar_qf {
+	opacity: 0.69;
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 644px;
+	top: 98px;
+	overflow: visible;
+}
+#Rectangle_1515_qg {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1515_qg {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Search_qh {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_176_qi {
+	fill: transparent;
+}
+.Rectangle_176_qi {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_99_qj {
+	fill: rgba(34,34,34,1);
+}
+.Path_99_qj {
+	overflow: visible;
+	position: absolute;
+	width: 15.9px;
+	height: 15.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bn_ang_C_Thc_Mc_G__qk {
+	left: 273px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Runda, arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(34,34,34,1);
+}
+#Microphone_ql {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 708px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_313_qm {
+	fill: transparent;
+}
+.Rectangle_313_qm {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_124_qn {
+	fill: rgba(34,34,34,1);
+}
+.Path_124_qn {
+	overflow: visible;
+	position: absolute;
+	width: 12.562px;
+	height: 16px;
+	left: 2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11_qo {
+	fill: transparent;
+	stroke: rgba(34,34,34,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11_qo {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 25.316px;
+	left: 43.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NG_H_qp {
+	left: 1666px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
