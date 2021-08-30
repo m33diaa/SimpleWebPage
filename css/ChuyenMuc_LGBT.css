@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_ky {
+#Background_trn_la {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -63,7 +63,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_k {
+#CHUYN_MC_lc {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_k {
+#THUT_NG_ld {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -99,7 +99,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_k {
+#CHIA_S_CNG_CU_le {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -117,7 +117,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_k {
+#logo_ti_gin_lf {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -126,10 +126,10 @@
 	overflow: visible;
 	--web-animation: fadein 1s wind-up;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_k {
+#PODCAST_lg {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -147,7 +147,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_k {
+#Search_Bar_lh {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -156,10 +156,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_k {
+#Rectangle_1515_li {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_k {
+.Rectangle_1515_li {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -168,7 +168,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_k {
+#Search_lj {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -176,10 +176,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_k {
+#Rectangle_176_lk {
 	fill: transparent;
 }
-.Rectangle_176_k {
+.Rectangle_176_lk {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -187,10 +187,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_k {
+#Path_99_ll {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_k {
+.Path_99_ll {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -199,7 +199,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__la {
+#Bn_ang_C_Thc_Mc_G__lm {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -215,7 +215,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_lb {
+#Microphone_ln {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -223,10 +223,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_lc {
+#Rectangle_313_lo {
 	fill: transparent;
 }
-.Rectangle_313_lc {
+.Rectangle_313_lo {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -234,10 +234,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_ld {
+#Path_124_lp {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_ld {
+.Path_124_lp {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -246,7 +246,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_le {
+#Line_11_lq {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -255,7 +255,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_le {
+.Line_11_lq {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -264,7 +264,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_lf {
+#NG_H_lr {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -282,26 +282,34 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Rectangle_1522_lg {
+#Group_35 {
+	position: absolute;
+	width: 1920px;
+	height: 349px;
+	left: 0px;
+	top: 1077px;
+	overflow: visible;
+}
+#Rectangle_1522_lt {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_lg {
+.Rectangle_1522_lt {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
 	height: 349px;
 	left: 0px;
-	top: 1077px;
+	top: 0px;
 }
-#Group_9_lh {
+#Group_9_lu {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
 	left: 177px;
-	top: 1139px;
+	top: 62px;
 	overflow: visible;
 }
-#MEE_I_A_li {
+#MEE_I_A_lv {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -315,7 +323,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_lj {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_lw {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -331,7 +339,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_lk {
+#Facebook_Instagram_TikTok_Mail_lx {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -347,7 +355,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_ll {
+#icons8_facebook_circled_32_ly {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -355,7 +363,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_lm {
+#icons8_instagram_logo_32_lz {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -363,7 +371,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_ln {
+#icons8_tiktok_32_l {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -371,7 +379,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_lo {
+#icons8_mail_32_l {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -379,7 +387,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#Rectangle_1523_lp {
+#Rectangle_1523_l {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(255,255,255,1);
 	stroke-width: 2px;
@@ -388,7 +396,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_1523_lp {
+.Rectangle_1523_l {
 	position: absolute;
 	overflow: visible;
 	width: 454px;
@@ -422,7 +430,7 @@
 	font-size: 26px;
 	color: rgba(255,255,255,1);
 }
-#Line_12_ls {
+#Line_12_l {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 2px;
@@ -431,7 +439,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ls {
+.Line_12_l {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -440,7 +448,7 @@
 	top: 428.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_lt {
+#Vit_bnh_lun_l {
 	left: 0px;
 	top: 456px;
 	position: absolute;
@@ -462,7 +470,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Line_13_lv {
+#Line_13_l {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -471,7 +479,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_lv {
+.Line_13_l {
 	overflow: visible;
 	position: absolute;
 	width: 170px;

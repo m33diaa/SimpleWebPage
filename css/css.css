@@ -49,31 +49,6 @@
 	top: 0px;
 	overflow: visible;
 }
-#Qa_cu_h {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 1200px;
-	height: 1200px;
-	left: -240px;
-	top: -233px;
-	overflow: visible;
-}
-#n__t__thm_nt__v_cho_nhng_kin_t {
-	left: 233px;
-	top: 379px;
-	position: absolute;
-	overflow: visible;
-	width: 1456px;
-	white-space: nowrap;
-	line-height: 53px;
-	margin-top: -14px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
 #Group_13 {
 	position: absolute;
 	width: 1920px;
@@ -82,10 +57,10 @@
 	top: 1083px;
 	overflow: visible;
 }
-#Rectangle_1522_h {
+#Rectangle_1522_ia {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_h {
+.Rectangle_1522_ia {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -93,7 +68,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_h {
+#Group_8_ib {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -101,7 +76,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_h {
+#MEE_I_A_ic {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -115,7 +90,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_h {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_id {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -131,7 +106,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_h {
+#Facebook_Instagram_TikTok_Mail_ie {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -147,7 +122,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_h {
+#icons8_facebook_circled_32_if {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -155,7 +130,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ia {
+#icons8_instagram_logo_32_ig {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -163,7 +138,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_ib {
+#icons8_tiktok_32_ih {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -171,7 +146,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_ic {
+#icons8_mail_32_ii {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -179,7 +154,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#Line_13_id {
+#Line_13_ij {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -188,7 +163,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_id {
+.Line_13_ij {
 	overflow: visible;
 	position: absolute;
 	width: 242.5px;
@@ -197,16 +172,41 @@
 	top: 66.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ko_ie {
+#Group_28 {
+	position: absolute;
+	width: 1259.468px;
+	height: 1444.061px;
+	left: -299.468px;
+	top: -233px;
+	overflow: visible;
+}
+#Group_21 {
+	position: absolute;
+	width: 1259.468px;
+	height: 1444.061px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Qa_cu_im {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 1200px;
+	height: 1200px;
+	left: 59.468px;
+	top: 0px;
+	overflow: visible;
+}
+#Ko_in {
 	mix-blend-mode: lighten;
 	position: absolute;
 	width: 1076.468px;
 	height: 1076.468px;
-	left: -299.468px;
-	top: 134.593px;
+	left: 0px;
+	top: 367.593px;
 	overflow: visible;
 }
-#CHIA_S_CNG_CU_if {
+#CHIA_S_CNG_CU_io {
 	left: 697px;
 	top: 211px;
 	position: absolute;
@@ -220,43 +220,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_ig {
-	left: 619px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 168px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ChuyenMuc.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG_ih {
-	left: 883px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 140px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ThuatNgu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU_ii {
+#CHIA_S_CNG_CU_ip {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -270,19 +234,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_ij {
-	position: absolute;
-	width: 291px;
-	height: 291px;
-	left: 123px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Main.html;
-	cursor: pointer;
-}
-#PODCAST_ik {
+#PODCAST_iq {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -300,7 +252,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_il {
+#Search_Bar_ir {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -309,10 +261,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_im {
+#Rectangle_1515_is {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_im {
+.Rectangle_1515_is {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -321,7 +273,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_in {
+#Search_it {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -329,10 +281,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_io {
+#Rectangle_176_iu {
 	fill: transparent;
 }
-.Rectangle_176_io {
+.Rectangle_176_iu {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -340,10 +292,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_ip {
+#Path_99_iv {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_ip {
+.Path_99_iv {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -352,7 +304,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__iq {
+#Bn_ang_C_Thc_Mc_G__iw {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -368,7 +320,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_ir {
+#Microphone_ix {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -376,10 +328,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_is {
+#Rectangle_313_iy {
 	fill: transparent;
 }
-.Rectangle_313_is {
+.Rectangle_313_iy {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -387,10 +339,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_it {
+#Path_124_iz {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_it {
+.Path_124_iz {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -399,7 +351,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_iu {
+#Line_11_i {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -408,7 +360,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_iu {
+.Line_11_i {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -417,7 +369,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_iv {
+#NG_H_i {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -427,6 +379,70 @@
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: Donate.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#n__t__thm_nt__v_cho_nhng_kin_t {
+	left: 233px;
+	top: 379px;
+	position: absolute;
+	overflow: visible;
+	width: 1456px;
+	white-space: nowrap;
+	line-height: 53px;
+	margin-top: -14px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#logo_ti_gin_i {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#CHUYN_MC_i {
+	left: 619px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_i {
+	left: 883px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ThuatNgu.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Century Gothic, arial;

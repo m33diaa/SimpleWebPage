@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_ly {
+#Background_trn_mb {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -63,7 +63,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_l {
+#CHUYN_MC_md {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_l {
+#THUT_NG_me {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -99,7 +99,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_l {
+#CHIA_S_CNG_CU_mf {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -117,7 +117,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_l {
+#logo_ti_gin_mg {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -126,10 +126,10 @@
 	overflow: visible;
 	--web-animation: fadein 1s wind-up;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_l {
+#PODCAST_mh {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -147,7 +147,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_l {
+#Search_Bar_mi {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -156,10 +156,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_l {
+#Rectangle_1515_mj {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_l {
+.Rectangle_1515_mj {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -168,7 +168,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_l {
+#Search_mk {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -176,10 +176,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_l {
+#Rectangle_176_ml {
 	fill: transparent;
 }
-.Rectangle_176_l {
+.Rectangle_176_ml {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -187,10 +187,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_l {
+#Path_99_mm {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_l {
+.Path_99_mm {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -199,7 +199,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__ma {
+#Bn_ang_C_Thc_Mc_G__mn {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -215,7 +215,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_mb {
+#Microphone_mo {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -223,10 +223,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_mc {
+#Rectangle_313_mp {
 	fill: transparent;
 }
-.Rectangle_313_mc {
+.Rectangle_313_mp {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -234,10 +234,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_md {
+#Path_124_mq {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_md {
+.Path_124_mq {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -246,7 +246,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_me {
+#Line_11_mr {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -255,7 +255,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_me {
+.Line_11_mr {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -264,7 +264,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_mf {
+#NG_H_ms {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -282,26 +282,34 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Rectangle_1522_mg {
+#Group_36 {
+	position: absolute;
+	width: 1920px;
+	height: 349px;
+	left: 0px;
+	top: 1077px;
+	overflow: visible;
+}
+#Rectangle_1522_mu {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_mg {
+.Rectangle_1522_mu {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
 	height: 349px;
 	left: 0px;
-	top: 1077px;
+	top: 0px;
 }
-#Group_9_mh {
+#Group_9_mv {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
 	left: 177px;
-	top: 1139px;
+	top: 62px;
 	overflow: visible;
 }
-#MEE_I_A_mi {
+#MEE_I_A_mw {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -315,7 +323,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_mj {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_mx {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -331,7 +339,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_mk {
+#Facebook_Instagram_TikTok_Mail_my {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -347,7 +355,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_ml {
+#icons8_facebook_circled_32_mz {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -355,7 +363,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_mm {
+#icons8_instagram_logo_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -363,7 +371,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_mn {
+#icons8_tiktok_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -371,7 +379,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_mo {
+#icons8_mail_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -379,7 +387,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#Rectangle_1523_mp {
+#Rectangle_1523_m {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(255,255,255,1);
 	stroke-width: 2px;
@@ -388,7 +396,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_1523_mp {
+.Rectangle_1523_m {
 	position: absolute;
 	overflow: visible;
 	width: 454px;
@@ -422,7 +430,7 @@
 	font-size: 26px;
 	color: rgba(255,255,255,1);
 }
-#Line_12_ms {
+#Line_12_m {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 2px;
@@ -431,7 +439,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ms {
+.Line_12_m {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -440,7 +448,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_mt {
+#Vit_bnh_lun_m {
 	left: 0px;
 	top: 457px;
 	position: absolute;
@@ -462,7 +470,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Line_13_mv {
+#Line_13_m {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -471,7 +479,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_mv {
+.Line_13_m {
 	overflow: visible;
 	position: absolute;
 	width: 170px;

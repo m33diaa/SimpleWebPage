@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_iy {
+#Background_trn_i {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -49,26 +49,34 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1522_iz {
+#Group_33 {
+	position: absolute;
+	width: 1920px;
+	height: 349px;
+	left: 0px;
+	top: 1077px;
+	overflow: visible;
+}
+#Rectangle_1522_ja {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_iz {
+.Rectangle_1522_ja {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
 	height: 349px;
 	left: 0px;
-	top: 1077px;
+	top: 0px;
 }
-#Group_9_i {
+#Group_9_jb {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
 	left: 177px;
-	top: 1139px;
+	top: 62px;
 	overflow: visible;
 }
-#MEE_I_A_i {
+#MEE_I_A_jc {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -82,7 +90,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_i {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_jd {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -98,7 +106,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_i {
+#Facebook_Instagram_TikTok_Mail_je {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -114,7 +122,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_i {
+#icons8_facebook_circled_32_jf {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -122,7 +130,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_i {
+#icons8_instagram_logo_32_jg {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -130,7 +138,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_i {
+#icons8_tiktok_32_jh {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -138,7 +146,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_i {
+#icons8_mail_32_ji {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -160,7 +168,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_i {
+#CHUYN_MC_jk {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -178,7 +186,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_ja {
+#THUT_NG_jl {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -196,7 +204,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_jb {
+#CHIA_S_CNG_CU_jm {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -214,7 +222,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_jc {
+#logo_ti_gin_jn {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -223,10 +231,10 @@
 	overflow: visible;
 	--web-animation: fadein 1s wind-up;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_jd {
+#PODCAST_jo {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -244,7 +252,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_je {
+#Search_Bar_jp {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -253,10 +261,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_jf {
+#Rectangle_1515_jq {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_jf {
+.Rectangle_1515_jq {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -265,7 +273,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_jg {
+#Search_jr {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -273,10 +281,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_jh {
+#Rectangle_176_js {
 	fill: transparent;
 }
-.Rectangle_176_jh {
+.Rectangle_176_js {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -284,10 +292,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_ji {
+#Path_99_jt {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_ji {
+.Path_99_jt {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -296,7 +304,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__jj {
+#Bn_ang_C_Thc_Mc_G__ju {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -312,7 +320,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_jk {
+#Microphone_jv {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -320,10 +328,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_jl {
+#Rectangle_313_jw {
 	fill: transparent;
 }
-.Rectangle_313_jl {
+.Rectangle_313_jw {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -331,10 +339,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_jm {
+#Path_124_jx {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_jm {
+.Path_124_jx {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -343,7 +351,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_jn {
+#Line_11_jy {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -352,7 +360,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_jn {
+.Line_11_jy {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -361,7 +369,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_jo {
+#NG_H_jz {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -408,7 +416,7 @@
 	--web-action-target: DDSH_1.html;
 	cursor: pointer;
 }
-#Thumbnail_jr {
+#Thumbnail_j {
 	position: absolute;
 	width: 450px;
 	height: 280px;
@@ -462,7 +470,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Line_13_jv {
+#Line_13_j {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -471,7 +479,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_jv {
+.Line_13_j {
 	overflow: visible;
 	position: absolute;
 	width: 170px;

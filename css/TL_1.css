@@ -49,7 +49,7 @@
 	top: 57px;
 	overflow: visible;
 }
-#Group_4_fa {
+#Group_4_ff {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -57,10 +57,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_fb {
+#Path_125_fg {
 	fill: rgba(31,101,102,1);
 }
-.Path_125_fb {
+.Path_125_fg {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -69,7 +69,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_fc {
+#logo_ti_gin_fh {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -78,10 +78,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_fd {
+#icons8_back_48px_fi {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -93,7 +93,7 @@
 	--web-action-target: ChuyenMuc_TL.html;
 	cursor: pointer;
 }
-#Group_10_fe {
+#Group_10_fj {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -101,10 +101,10 @@
 	top: 5560px;
 	overflow: visible;
 }
-#Rectangle_1522_ff {
+#Rectangle_1522_fk {
 	fill: rgba(239,235,220,1);
 }
-.Rectangle_1522_ff {
+.Rectangle_1522_fk {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -112,7 +112,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_fg {
+#Group_8_fl {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -120,7 +120,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_fh {
+#MEE_I_A_fm {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -134,7 +134,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_fi {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_fn {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -150,7 +150,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_fj {
+#Facebook_Instagram_TikTok_Mail_fo {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -166,7 +166,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_fk {
+#icons8_facebook_circled_32_fp {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -174,7 +174,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_fl {
+#icons8_instagram_logo_32_fq {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -182,7 +182,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_fm {
+#icons8_tiktok_32_fr {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -190,7 +190,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_fn {
+#icons8_mail_32_fs {
 	position: absolute;
 	width: 32px;
 	height: 32px;

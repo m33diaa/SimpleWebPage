@@ -57,10 +57,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_eu {
+#Path_125_ez {
 	fill: rgba(105,20,20,1);
 }
-.Path_125_eu {
+.Path_125_ez {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -69,7 +69,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_ev {
+#logo_ti_gin_e {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -78,10 +78,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_ew {
+#icons8_back_48px_e {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -93,7 +93,7 @@
 	--web-action-target: ChuyenMuc_16_.html;
 	cursor: pointer;
 }
-#Group_10_ex {
+#Group_10_e {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -101,10 +101,10 @@
 	top: 7070px;
 	overflow: visible;
 }
-#Rectangle_1522_ey {
+#Rectangle_1522_e {
 	fill: rgba(105,20,20,1);
 }
-.Rectangle_1522_ey {
+.Rectangle_1522_e {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -112,7 +112,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_ez {
+#Group_8_e {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -182,7 +182,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_e {
+#icons8_tiktok_32_fa {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -190,7 +190,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_e {
+#icons8_mail_32_fb {
 	position: absolute;
 	width: 32px;
 	height: 32px;

@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_pv {
+#Background_trn_qd {
 	position: absolute;
 	width: 2603px;
 	height: 1464px;
@@ -49,7 +49,7 @@
 	top: -292px;
 	overflow: visible;
 }
-#Group_13_pw {
+#Group_13_qe {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -57,10 +57,10 @@
 	top: 1083px;
 	overflow: visible;
 }
-#Rectangle_1522_px {
+#Rectangle_1522_qf {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_px {
+.Rectangle_1522_qf {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -68,7 +68,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_py {
+#Group_8_qg {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -76,7 +76,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_pz {
+#MEE_I_A_qh {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -90,7 +90,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_p {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_qi {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -106,7 +106,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_p {
+#Facebook_Instagram_TikTok_Mail_qj {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -122,7 +122,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_p {
+#icons8_facebook_circled_32_qk {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -130,7 +130,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_p {
+#icons8_instagram_logo_32_ql {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -138,7 +138,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_p {
+#icons8_tiktok_32_qm {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -146,7 +146,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_p {
+#icons8_mail_32_qn {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -154,25 +154,33 @@
 	top: 166px;
 	overflow: visible;
 }
-#Cy2_p {
+#Group_30 {
+	position: absolute;
+	width: 736px;
+	height: 1170px;
+	left: -77px;
+	top: 179px;
+	overflow: visible;
+}
+#Cy2_qp {
 	opacity: 0.79;
 	position: absolute;
 	width: 491px;
 	height: 981px;
-	left: 38px;
-	top: 179px;
+	left: 115px;
+	top: 0px;
 	overflow: visible;
 }
-#Bng2_p {
+#Bng2_qq {
 	mix-blend-mode: lighten;
 	position: absolute;
 	width: 736px;
 	height: 736px;
-	left: -77px;
-	top: 613px;
+	left: 0px;
+	top: 434px;
 	overflow: visible;
 }
-#Line_13_p {
+#Line_13_qr {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -181,7 +189,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_p {
+.Line_13_qr {
 	overflow: visible;
 	position: absolute;
 	width: 104.5px;
@@ -190,7 +198,7 @@
 	top: 66.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_p {
+#NG_H_qs {
 	left: 850px;
 	top: 255px;
 	position: absolute;
@@ -204,7 +212,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_qa {
+#CHUYN_MC_qt {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -222,7 +230,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_qb {
+#THUT_NG_qu {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -240,7 +248,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_qc {
+#CHIA_S_CNG_CU_qv {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -258,7 +266,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_qd {
+#logo_ti_gin_qw {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -267,10 +275,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_qe {
+#PODCAST_qx {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -288,7 +296,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_qf {
+#Search_Bar_qy {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -297,10 +305,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_qg {
+#Rectangle_1515_qz {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_qg {
+.Rectangle_1515_qz {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -309,7 +317,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_qh {
+#Search_q {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -317,10 +325,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_qi {
+#Rectangle_176_q {
 	fill: transparent;
 }
-.Rectangle_176_qi {
+.Rectangle_176_q {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -328,10 +336,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_qj {
+#Path_99_q {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_qj {
+.Path_99_q {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -340,7 +348,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__qk {
+#Bn_ang_C_Thc_Mc_G__q {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -356,7 +364,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_ql {
+#Microphone_q {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -364,10 +372,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_qm {
+#Rectangle_313_q {
 	fill: transparent;
 }
-.Rectangle_313_qm {
+.Rectangle_313_q {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -375,10 +383,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_qn {
+#Path_124_q {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_qn {
+.Path_124_q {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -387,7 +395,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_qo {
+#Line_11_q {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -396,7 +404,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_qo {
+.Line_11_q {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -405,7 +413,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_qp {
+#NG_H_q {
 	left: 1666px;
 	top: 31px;
 	position: absolute;

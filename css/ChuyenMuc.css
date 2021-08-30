@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_cd {
+#Group_24 {
 	position: absolute;
 	width: 2116px;
 	height: 1190px;
@@ -49,13 +49,12 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ko_ce {
-	mix-blend-mode: lighten;
+#Background_trn_cg {
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: -299.468px;
-	top: 134.593px;
+	width: 2116px;
+	height: 1190px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 #Cy2 {
@@ -63,7 +62,7 @@
 	position: absolute;
 	width: 331px;
 	height: 662px;
-	left: 1520px;
+	left: 1618px;
 	top: 450px;
 	overflow: visible;
 }
@@ -79,7 +78,7 @@
 	--web-action-target: ChuyenMuc_BVBT.html;
 	cursor: pointer;
 }
-#n__ch {
+#n__cj {
 	position: absolute;
 	width: 272px;
 	height: 272px;
@@ -91,7 +90,7 @@
 	--web-action-target: ChuyenMuc_G.html;
 	cursor: pointer;
 }
-#CHUYN_MC_ci {
+#CHUYN_MC_ck {
 	left: 777px;
 	top: 211px;
 	position: absolute;
@@ -105,58 +104,10 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#n__cj {
-	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 347px;
-	top: 361px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ChuyenMuc_DDSH.html;
-	cursor: pointer;
-}
-#n__ck {
-	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 1261px;
-	top: 726px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ChuyenMuc_TL.html;
-	cursor: pointer;
-}
-#n__cl {
-	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 1261px;
-	top: 361px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ChuyenMuc_LGBT.html;
-	cursor: pointer;
-}
-#n__cm {
-	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 347px;
-	top: 727px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ChuyenMuc_16_.html;
-	cursor: pointer;
-}
-#Rectangle_1522_cn {
+#Rectangle_1522_cl {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_cn {
+.Rectangle_1522_cl {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -172,7 +123,7 @@
 	top: 1148px;
 	overflow: visible;
 }
-#MEE_I_A_cp {
+#MEE_I_A_cn {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -186,7 +137,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_cq {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_co {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -202,7 +153,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_cr {
+#Facebook_Instagram_TikTok_Mail_cp {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -218,7 +169,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_cs {
+#icons8_facebook_circled_32_cq {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -226,7 +177,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ct {
+#icons8_instagram_logo_32_cr {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -234,7 +185,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_cu {
+#icons8_tiktok_32_cs {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -242,7 +193,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_cv {
+#icons8_mail_32_ct {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -250,7 +201,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#CHUYN_MC_cw {
+#CHUYN_MC_cu {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -264,7 +215,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_cx {
+#THUT_NG_cv {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -282,7 +233,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_cy {
+#CHIA_S_CNG_CU_cw {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -300,7 +251,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_cz {
+#logo_ti_gin_cx {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -309,10 +260,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_c {
+#PODCAST_cy {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -330,7 +281,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_c {
+#Search_Bar_cz {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -429,7 +380,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_da {
+#Line_11_c {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -438,7 +389,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_da {
+.Line_11_c {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -447,7 +398,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_db {
+#NG_H_c {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -465,13 +416,38 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Bng2_dc {
+#Group_22 {
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: -299.468px;
+	top: 134.593px;
+	overflow: visible;
+}
+#Group_23 {
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ko_dc {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Bng2_dd {
 	mix-blend-mode: lighten;
 	position: absolute;
 	width: 518px;
 	height: 518px;
-	left: -98px;
-	top: 604px;
+	left: 201.468px;
+	top: 469.407px;
 	overflow: visible;
 }
 #Line_13 {
@@ -491,4 +467,52 @@
 	left: 619px;
 	top: 66.5px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#n__df {
+	position: absolute;
+	width: 272px;
+	height: 272px;
+	left: 347px;
+	top: 361px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc_DDSH.html;
+	cursor: pointer;
+}
+#n__dg {
+	position: absolute;
+	width: 272px;
+	height: 272px;
+	left: 347px;
+	top: 727px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc_16_.html;
+	cursor: pointer;
+}
+#n__dh {
+	position: absolute;
+	width: 272px;
+	height: 272px;
+	left: 1261px;
+	top: 726px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc_TL.html;
+	cursor: pointer;
+}
+#n__di {
+	position: absolute;
+	width: 272px;
+	height: 272px;
+	left: 1261px;
+	top: 361px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ChuyenMuc_LGBT.html;
+	cursor: pointer;
 }

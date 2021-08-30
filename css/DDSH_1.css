@@ -62,7 +62,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_di {
+#logo_ti_gin_dn {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -71,7 +71,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #icons8_back_48px {
@@ -86,7 +86,7 @@
 	--web-action-target: ChuyenMuc_DDSH.html;
 	cursor: pointer;
 }
-#Group_10_dk {
+#Group_10_dp {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -94,10 +94,10 @@
 	top: 5208px;
 	overflow: visible;
 }
-#Rectangle_1522_dl {
+#Rectangle_1522_dq {
 	fill: rgba(241,113,147,1);
 }
-.Rectangle_1522_dl {
+.Rectangle_1522_dq {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +105,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_dm {
+#Group_8_dr {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -113,7 +113,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_dn {
+#MEE_I_A_ds {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +127,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_do {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_dt {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -143,7 +143,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_Instagram_TikTok_Mail_dp {
+#Facebook_Instagram_TikTok_Mail_du {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -159,7 +159,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_dq {
+#icons8_facebook_circled_32_dv {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +167,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_dr {
+#icons8_instagram_logo_32_dw {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +175,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_ds {
+#icons8_tiktok_32_dx {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +183,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_dt {
+#icons8_mail_32_dy {
 	position: absolute;
 	width: 32px;
 	height: 32px;
