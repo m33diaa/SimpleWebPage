@@ -1,0 +1,881 @@
+.mediaViewInfo {
+	--web-view-name: Thuật Ngữ;
+	--web-view-id: Thut_Ng;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial;
+}
+:root {
+	--web-view-ids: Thut_Ng;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Thut_Ng {
+	position: absolute;
+	width: 1920px;
+	height: 2886px;
+	font-family: arial;
+	background-color: rgba(255,176,192,1);
+	overflow: hidden;
+	--web-view-name: Thuật Ngữ;
+	--web-view-id: Thut_Ng;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_25 {
+	position: absolute;
+	width: 4892px;
+	height: 2752px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_trn_ge {
+	position: absolute;
+	width: 4892px;
+	height: 2752px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cy_gf {
+	position: absolute;
+	width: 348px;
+	height: 697px;
+	left: 308px;
+	top: 1789px;
+	overflow: visible;
+}
+#THUT_NG_gg {
+	left: 808px;
+	top: 255px;
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(255,255,255,1);
+}
+#CHUYN_MC_gh {
+	left: 619px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_gi {
+	left: 883px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_gj {
+	left: 1330px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#logo_ti_gin_gk {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#PODCAST_gl {
+	left: 1119px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	--web-animation: fadein 1s wind-up;
+	--web-action-type: page;
+	--web-action-target: Podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Search_Bar_gm {
+	opacity: 0.69;
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 644px;
+	top: 98px;
+	overflow: visible;
+}
+#Rectangle_1515_gn {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1515_gn {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Search_go {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_176_gp {
+	fill: transparent;
+}
+.Rectangle_176_gp {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_99_gq {
+	fill: rgba(34,34,34,1);
+}
+.Path_99_gq {
+	overflow: visible;
+	position: absolute;
+	width: 15.9px;
+	height: 15.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bn_ang_C_Thc_Mc_G__gr {
+	left: 273px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Runda, arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(34,34,34,1);
+}
+#Microphone_gs {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 708px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_313_gt {
+	fill: transparent;
+}
+.Rectangle_313_gt {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_124_gu {
+	fill: rgba(34,34,34,1);
+}
+.Path_124_gu {
+	overflow: visible;
+	position: absolute;
+	width: 12.562px;
+	height: 16px;
+	left: 2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11_gv {
+	fill: transparent;
+	stroke: rgba(34,34,34,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11_gv {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 25.316px;
+	left: 43.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NG_H_gw {
+	left: 1666px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	--web-animation: fadein 1s wind-up;
+	--web-action-type: page;
+	--web-action-target: ungho.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#A {
+	left: 200px;
+	top: 443px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Asexual {
+	left: 363px;
+	top: 479px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 99px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#B {
+	left: 804px;
+	top: 443px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Bicurious_Bisexual_BDSM_Butch {
+	left: 950px;
+	top: 479px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#C {
+	left: 1324px;
+	top: 443px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Closeted________ {
+	left: 1493px;
+	top: 479px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#D {
+	left: 203px;
+	top: 775px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Demisexual {
+	left: 363px;
+	top: 811px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	height: 99px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#E {
+	left: 805px;
+	top: 775px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Ex-gay {
+	left: 950px;
+	top: 811px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#F {
+	left: 1349px;
+	top: 775px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Friend_With_Benefit {
+	left: 1493px;
+	top: 811px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#G {
+	left: 182px;
+	top: 1124px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Gender_Fluid_Gender_identity_G {
+	left: 363px;
+	top: 1160px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 247px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#H {
+	left: 796px;
+	top: 1124px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Heterosexual {
+	left: 950px;
+	top: 1160px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#L {
+	left: 1346px;
+	top: 1124px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#LGBT_LGBTQ {
+	left: 1493px;
+	top: 1160px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#N {
+	left: 190px;
+	top: 1437px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Non-binary_Non-conforming {
+	left: 364px;
+	top: 1473px;
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	height: 146px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#O {
+	left: 779px;
+	top: 1437px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Omnisexual_One_Night_Stand {
+	left: 951px;
+	top: 1473px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#P {
+	left: 1347px;
+	top: 1437px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Pansexual_Panromantic {
+	left: 1494px;
+	top: 1473px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Q {
+	left: 182px;
+	top: 1753px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Queer {
+	left: 364px;
+	top: 1789px;
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	height: 146px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#R {
+	left: 799px;
+	top: 1753px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Romantic_Attraction {
+	left: 951px;
+	top: 1789px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	height: 228px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#S {
+	left: 1339px;
+	top: 1753px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Sex_addict_Soft-butch_Sexual_A {
+	left: 1494px;
+	top: 1789px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	height: 395px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Line_13_hr {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_13_hr {
+	overflow: visible;
+	position: absolute;
+	width: 142px;
+	height: 3px;
+	left: 883.5px;
+	top: 66.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_27 {
+	position: absolute;
+	width: 2223.185px;
+	height: 2223.185px;
+	left: -151.592px;
+	top: 905.408px;
+	overflow: visible;
+}
+#Group_26 {
+	position: absolute;
+	width: 2223.185px;
+	height: 2223.185px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Bng_hu {
+	mix-blend-mode: screen;
+	position: absolute;
+	width: 2223.185px;
+	height: 2223.185px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_10_hv {
+	position: absolute;
+	width: 1920px;
+	height: 343px;
+	left: 151.592px;
+	top: 1641.592px;
+	overflow: visible;
+}
+#Rectangle_1522_hw {
+	fill: rgba(94,56,178,1);
+}
+.Rectangle_1522_hw {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8_hx {
+	position: absolute;
+	width: 1567px;
+	height: 238px;
+	left: 177px;
+	top: 65px;
+	overflow: visible;
+}
+#MEE_I_A_hy {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,176,192,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_hz {
+	left: 0px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 863px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,176,192,1);
+}
+#Facebook_Instagram_TikTok_Mail_h {
+	left: 1190px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Century Gothic, arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,176,192,1);
+}
+#icons8_facebook_circled_32_h {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1190px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_h {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1282px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_tiktok_32_h {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1374px;
+	top: 166px;
+	overflow: visible;
+}
+#icons8_mail_32_h {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1466px;
+	top: 166px;
+	overflow: visible;
+}
+#Cy_h {
+	position: absolute;
+	width: 122px;
+	height: 243px;
+	left: 1050.592px;
+	top: 1160.592px;
+	overflow: visible;
+}
+#Cy2_h {
+	opacity: 0.79;
+	position: absolute;
+	width: 265px;
+	height: 530px;
+	left: 1260.592px;
+	top: 997.592px;
+	overflow: visible;
+}
