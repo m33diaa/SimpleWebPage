@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_lc {
+#Background_trn_le {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -49,7 +49,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#LGBT_ld {
+#LGBT_lf {
 	left: 898px;
 	top: 225px;
 	position: absolute;
@@ -63,7 +63,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_le {
+#CHUYN_MC_lg {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_lf {
+#THUT_NG_lh {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -99,7 +99,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_lg {
+#CHIA_S_CNG_CU_li {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -117,7 +117,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_lh {
+#logo_ti_gin_lj {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -129,7 +129,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_li {
+#PODCAST_lk {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -147,7 +147,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_lj {
+#Search_Bar_ll {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -156,10 +156,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_lk {
+#Rectangle_1515_lm {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_lk {
+.Rectangle_1515_lm {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -168,7 +168,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_ll {
+#Search_ln {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -176,10 +176,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_lm {
+#Rectangle_176_lo {
 	fill: transparent;
 }
-.Rectangle_176_lm {
+.Rectangle_176_lo {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -187,10 +187,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_ln {
+#Path_99_lp {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_ln {
+.Path_99_lp {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -199,7 +199,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__lo {
+#Bn_ang_C_Thc_Mc_G__lq {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -215,7 +215,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_lp {
+#Microphone_lr {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -223,10 +223,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_lq {
+#Rectangle_313_ls {
 	fill: transparent;
 }
-.Rectangle_313_lq {
+.Rectangle_313_ls {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -234,10 +234,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_lr {
+#Path_124_lt {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_lr {
+.Path_124_lt {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -246,7 +246,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_ls {
+#Line_11_lu {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -255,7 +255,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_ls {
+.Line_11_lu {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -264,7 +264,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_lt {
+#NG_H_lv {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -290,10 +290,10 @@
 	top: 1077px;
 	overflow: visible;
 }
-#Rectangle_1522_lv {
+#Rectangle_1522_lx {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_lv {
+.Rectangle_1522_lx {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -301,7 +301,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_9_lw {
+#Group_9_ly {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -309,7 +309,7 @@
 	top: 62px;
 	overflow: visible;
 }
-#MEE_I_A_lx {
+#MEE_I_A_lz {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -323,7 +323,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_ly {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_l {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -339,7 +339,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_lz {
+#Facebook_Instagram_TikTok_Mail_l {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -448,7 +448,7 @@
 	top: 428.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_l {
+#Vit_bnh_lun_ma {
 	left: 0px;
 	top: 456px;
 	position: absolute;
@@ -470,7 +470,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Line_13_ma {
+#Line_13_mc {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -479,7 +479,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_ma {
+.Line_13_mc {
 	overflow: visible;
 	position: absolute;
 	width: 170px;

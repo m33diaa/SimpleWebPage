@@ -46,7 +46,7 @@
 	width: 4550px;
 	height: 2560px;
 	left: -1317px;
-	top: -4px;
+	top: -8px;
 	overflow: visible;
 }
 #Group_13 {
@@ -172,12 +172,20 @@
 	top: 66.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
+#Group_44 {
+	position: absolute;
+	width: 1259.468px;
+	height: 1444.061px;
+	left: -417.468px;
+	top: -219px;
+	overflow: visible;
+}
 #Group_28 {
 	position: absolute;
 	width: 1259.468px;
 	height: 1444.061px;
-	left: -299.468px;
-	top: -233px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 #Group_21 {
@@ -188,7 +196,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Qa_cu_io {
+#Group_42 {
+	position: absolute;
+	width: 1259.468px;
+	height: 1444.061px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Qa_cu_iq {
 	mix-blend-mode: lighten;
 	position: absolute;
 	width: 1200px;
@@ -197,7 +213,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ko_ip {
+#Ko_ir {
 	mix-blend-mode: lighten;
 	position: absolute;
 	width: 1076.468px;
@@ -206,7 +222,7 @@
 	top: 367.593px;
 	overflow: visible;
 }
-#CHIA_S_CNG_CU_iq {
+#CHIA_S_CNG_CU_is {
 	left: 697px;
 	top: 211px;
 	position: absolute;
@@ -220,7 +236,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_ir {
+#CHIA_S_CNG_CU_it {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -234,7 +250,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_is {
+#PODCAST_iu {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -252,7 +268,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_it {
+#Search_Bar_iv {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -261,10 +277,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_iu {
+#Rectangle_1515_iw {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_iu {
+.Rectangle_1515_iw {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -273,7 +289,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_iv {
+#Search_ix {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -281,10 +297,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_iw {
+#Rectangle_176_iy {
 	fill: transparent;
 }
-.Rectangle_176_iw {
+.Rectangle_176_iy {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -292,10 +308,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_ix {
+#Path_99_iz {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_ix {
+.Path_99_iz {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -304,7 +320,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__iy {
+#Bn_ang_C_Thc_Mc_G__i {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -320,7 +336,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_iz {
+#Microphone_i {
 	position: absolute;
 	width: 16px;
 	height: 16px;

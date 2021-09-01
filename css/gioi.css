@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_kb {
+#Background_trn_kd {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -63,7 +63,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_kd {
+#CHUYN_MC_kf {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_ke {
+#THUT_NG_kg {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -99,7 +99,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_kf {
+#CHIA_S_CNG_CU_kh {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -117,7 +117,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_kg {
+#logo_ti_gin_ki {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -129,7 +129,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_kh {
+#PODCAST_kj {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -147,7 +147,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_ki {
+#Search_Bar_kk {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -156,10 +156,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_kj {
+#Rectangle_1515_kl {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_kj {
+.Rectangle_1515_kl {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -168,7 +168,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_kk {
+#Search_km {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -176,10 +176,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_kl {
+#Rectangle_176_kn {
 	fill: transparent;
 }
-.Rectangle_176_kl {
+.Rectangle_176_kn {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -187,10 +187,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_km {
+#Path_99_ko {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_km {
+.Path_99_ko {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -199,7 +199,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__kn {
+#Bn_ang_C_Thc_Mc_G__kp {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -215,7 +215,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_ko {
+#Microphone_kq {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -223,10 +223,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_kp {
+#Rectangle_313_kr {
 	fill: transparent;
 }
-.Rectangle_313_kp {
+.Rectangle_313_kr {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -234,10 +234,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_kq {
+#Path_124_ks {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_kq {
+.Path_124_ks {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -246,7 +246,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_kr {
+#Line_11_kt {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -255,7 +255,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_kr {
+.Line_11_kt {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -264,7 +264,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_ks {
+#NG_H_ku {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -290,10 +290,10 @@
 	top: 1077px;
 	overflow: visible;
 }
-#Rectangle_1522_ku {
+#Rectangle_1522_kw {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_ku {
+.Rectangle_1522_kw {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -301,7 +301,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_9_kv {
+#Group_9_kx {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -309,7 +309,7 @@
 	top: 62px;
 	overflow: visible;
 }
-#MEE_I_A_kw {
+#MEE_I_A_ky {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -323,7 +323,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_kx {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_kz {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -339,7 +339,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_ky {
+#Facebook_Instagram_TikTok_Mail_k {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -355,7 +355,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_kz {
+#icons8_facebook_circled_32_k {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -462,7 +462,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Nhiu_mu_sc_c_k_vin_Hnh_minh_ha_k {
+#Nhiu_mu_sc_c_k_vin_Hnh_minh_ha_la {
 	position: absolute;
 	width: 449.5px;
 	height: 279.375px;
@@ -470,7 +470,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Line_13_k {
+#Line_13_lb {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -479,7 +479,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_k {
+.Line_13_lb {
 	overflow: visible;
 	position: absolute;
 	width: 170px;
