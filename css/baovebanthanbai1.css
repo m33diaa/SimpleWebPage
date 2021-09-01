@@ -49,7 +49,7 @@
 	top: 38px;
 	overflow: visible;
 }
-#Group_4_fx {
+#Group_4_fy {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -57,10 +57,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_fy {
+#Path_125_fz {
 	fill: rgba(0,70,127,1);
 }
-.Path_125_fy {
+.Path_125_fz {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -69,7 +69,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_fz {
+#logo_ti_gin_f {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -182,7 +182,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_f {
+#icons8_tiktok_32_ga {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -190,7 +190,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_ga {
+#icons8_mail_32_gb {
 	position: absolute;
 	width: 32px;
 	height: 32px;

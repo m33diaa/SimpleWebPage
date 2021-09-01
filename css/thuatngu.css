@@ -46,10 +46,10 @@
 	width: 4892px;
 	height: 2752px;
 	left: 0px;
-	top: 0px;
+	top: -1px;
 	overflow: visible;
 }
-#Background_trn_ge {
+#Background_trn_gf {
 	position: absolute;
 	width: 4892px;
 	height: 2752px;
@@ -57,7 +57,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Cy_gf {
+#Cy_gg {
 	position: absolute;
 	width: 348px;
 	height: 697px;
@@ -65,7 +65,7 @@
 	top: 1789px;
 	overflow: visible;
 }
-#THUT_NG_gg {
+#THUT_NG_gh {
 	left: 808px;
 	top: 255px;
 	position: absolute;
@@ -79,7 +79,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_gh {
+#CHUYN_MC_gi {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -97,7 +97,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_gi {
+#THUT_NG_gj {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -111,7 +111,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_gj {
+#CHIA_S_CNG_CU_gk {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -129,7 +129,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_gk {
+#logo_ti_gin_gl {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -141,7 +141,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_gl {
+#PODCAST_gm {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -159,7 +159,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_gm {
+#Search_Bar_gn {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -168,10 +168,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_gn {
+#Rectangle_1515_go {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_gn {
+.Rectangle_1515_go {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -180,7 +180,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_go {
+#Search_gp {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -188,10 +188,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_gp {
+#Rectangle_176_gq {
 	fill: transparent;
 }
-.Rectangle_176_gp {
+.Rectangle_176_gq {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -199,10 +199,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_gq {
+#Path_99_gr {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_gq {
+.Path_99_gr {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -211,7 +211,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__gr {
+#Bn_ang_C_Thc_Mc_G__gs {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -227,7 +227,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_gs {
+#Microphone_gt {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -235,10 +235,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_gt {
+#Rectangle_313_gu {
 	fill: transparent;
 }
-.Rectangle_313_gt {
+.Rectangle_313_gu {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -246,10 +246,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_gu {
+#Path_124_gv {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_gu {
+.Path_124_gv {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -258,7 +258,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_gv {
+#Line_11_gw {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -267,7 +267,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_gv {
+.Line_11_gw {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -276,7 +276,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_gw {
+#NG_H_gx {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -714,7 +714,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Line_13_hr {
+#Line_13_hs {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -723,7 +723,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_hr {
+.Line_13_hs {
 	overflow: visible;
 	position: absolute;
 	width: 142px;
@@ -748,7 +748,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Bng_hu {
+#Bng_hv {
 	mix-blend-mode: screen;
 	position: absolute;
 	width: 2223.185px;
@@ -757,7 +757,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_10_hv {
+#Group_10_hw {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -765,10 +765,10 @@
 	top: 1641.592px;
 	overflow: visible;
 }
-#Rectangle_1522_hw {
+#Rectangle_1522_hx {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_hw {
+.Rectangle_1522_hx {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -776,7 +776,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_hx {
+#Group_8_hy {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -784,7 +784,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_hy {
+#MEE_I_A_hz {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -798,7 +798,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_hz {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_h {
 	left: 0px;
 	top: 85px;
 	position: absolute;

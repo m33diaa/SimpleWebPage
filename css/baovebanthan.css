@@ -41,7 +41,7 @@
 	}
 
 }
-#Background_trn_nd {
+#Background_trn_ne {
 	position: absolute;
 	width: 4906px;
 	height: 2760px;
@@ -63,7 +63,7 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#CHUYN_MC_nf {
+#CHUYN_MC_ng {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -81,7 +81,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_ng {
+#THUT_NG_nh {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -99,7 +99,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_nh {
+#CHIA_S_CNG_CU_ni {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -117,7 +117,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_ni {
+#logo_ti_gin_nj {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -129,7 +129,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_nj {
+#PODCAST_nk {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -147,7 +147,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_nk {
+#Search_Bar_nl {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -156,10 +156,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_nl {
+#Rectangle_1515_nm {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_nl {
+.Rectangle_1515_nm {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -168,7 +168,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_nm {
+#Search_nn {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -176,10 +176,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_nn {
+#Rectangle_176_no {
 	fill: transparent;
 }
-.Rectangle_176_nn {
+.Rectangle_176_no {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -187,10 +187,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_no {
+#Path_99_np {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_no {
+.Path_99_np {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -199,7 +199,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__np {
+#Bn_ang_C_Thc_Mc_G__nq {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -215,7 +215,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_nq {
+#Microphone_nr {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -223,10 +223,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_nr {
+#Rectangle_313_ns {
 	fill: transparent;
 }
-.Rectangle_313_nr {
+.Rectangle_313_ns {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -234,10 +234,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_ns {
+#Path_124_nt {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_ns {
+.Path_124_nt {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -246,7 +246,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_nt {
+#Line_11_nu {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -255,7 +255,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_nt {
+.Line_11_nu {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -264,7 +264,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_nu {
+#NG_H_nv {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -290,10 +290,10 @@
 	top: 1077px;
 	overflow: visible;
 }
-#Rectangle_1522_nw {
+#Rectangle_1522_nx {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_nw {
+.Rectangle_1522_nx {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -301,7 +301,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_9_nx {
+#Group_9_ny {
 	position: absolute;
 	width: 1567px;
 	height: 238px;
@@ -317,7 +317,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#MEE_I_A_nz {
+#MEE_I_A_n {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -438,7 +438,7 @@
 	font-size: 26px;
 	color: rgba(255,255,255,1);
 }
-#Line_12_n {
+#Line_12_oa {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 2px;
@@ -447,7 +447,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_n {
+.Line_12_oa {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -456,7 +456,7 @@
 	top: 428.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_oa {
+#Vit_bnh_lun_ob {
 	left: 0px;
 	top: 456px;
 	position: absolute;
@@ -478,7 +478,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Line_13_oc {
+#Line_13_od {
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
 	stroke-width: 3px;
@@ -487,7 +487,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_13_oc {
+.Line_13_od {
 	overflow: visible;
 	position: absolute;
 	width: 170px;

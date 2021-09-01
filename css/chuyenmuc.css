@@ -41,15 +41,23 @@
 	}
 
 }
+#Group_41 {
+	position: absolute;
+	width: 2317.468px;
+	height: 1212.061px;
+	left: -299.468px;
+	top: -1px;
+	overflow: visible;
+}
 #Group_24 {
 	position: absolute;
 	width: 2116px;
 	height: 1190px;
-	left: -98px;
+	left: 201.468px;
 	top: 0px;
 	overflow: visible;
 }
-#Background_trn_ch {
+#Background_trn_ci {
 	position: absolute;
 	width: 2116px;
 	height: 1190px;
@@ -66,6 +74,40 @@
 	top: 450px;
 	overflow: visible;
 }
+#Group_22 {
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: 0px;
+	top: 135.593px;
+	overflow: visible;
+}
+#Group_23 {
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ko_cm {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 1076.468px;
+	height: 1076.468px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Bng2_cn {
+	mix-blend-mode: lighten;
+	position: absolute;
+	width: 518px;
+	height: 518px;
+	left: 201.468px;
+	top: 469.407px;
+	overflow: visible;
+}
 #n_ {
 	position: absolute;
 	width: 273px;
@@ -78,7 +120,7 @@
 	--web-action-target: baovebanthan.html;
 	cursor: pointer;
 }
-#n__ck {
+#n__cp {
 	position: absolute;
 	width: 272px;
 	height: 272px;
@@ -90,7 +132,7 @@
 	--web-action-target: gioi.html;
 	cursor: pointer;
 }
-#CHUYN_MC_cl {
+#CHUYN_MC_cq {
 	left: 777px;
 	top: 211px;
 	position: absolute;
@@ -104,10 +146,10 @@
 	font-size: 55px;
 	color: rgba(255,255,255,1);
 }
-#Rectangle_1522_cm {
+#Rectangle_1522_cr {
 	fill: rgba(94,56,178,1);
 }
-.Rectangle_1522_cm {
+.Rectangle_1522_cr {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -123,7 +165,7 @@
 	top: 1148px;
 	overflow: visible;
 }
-#MEE_I_A_co {
+#MEE_I_A_ct {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -137,7 +179,7 @@
 	font-size: 40px;
 	color: rgba(255,176,192,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_cp {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_cu {
 	left: 0px;
 	top: 85px;
 	position: absolute;
@@ -153,7 +195,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#Facebook_Instagram_TikTok_Mail_cq {
+#Facebook_Instagram_TikTok_Mail_cv {
 	left: 1190px;
 	top: 3px;
 	position: absolute;
@@ -169,7 +211,7 @@
 	font-size: 25px;
 	color: rgba(255,176,192,1);
 }
-#icons8_facebook_circled_32_cr {
+#icons8_facebook_circled_32_cw {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -177,7 +219,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_cs {
+#icons8_instagram_logo_32_cx {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -185,7 +227,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_tiktok_32_ct {
+#icons8_tiktok_32_cy {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -193,7 +235,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#icons8_mail_32_cu {
+#icons8_mail_32_cz {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -201,7 +243,7 @@
 	top: 166px;
 	overflow: visible;
 }
-#CHUYN_MC_cv {
+#CHUYN_MC_c {
 	left: 619px;
 	top: 30px;
 	position: absolute;
@@ -215,7 +257,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_cw {
+#THUT_NG_c {
 	left: 883px;
 	top: 30px;
 	position: absolute;
@@ -233,7 +275,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_cx {
+#CHIA_S_CNG_CU_c {
 	left: 1330px;
 	top: 30px;
 	position: absolute;
@@ -251,7 +293,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_cy {
+#logo_ti_gin_c {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -263,7 +305,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_cz {
+#PODCAST_c {
 	left: 1119px;
 	top: 32px;
 	position: absolute;
@@ -333,7 +375,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__c {
+#Bn_ang_C_Thc_Mc_G__da {
 	left: 273px;
 	top: 14px;
 	position: absolute;
@@ -349,7 +391,7 @@
 	font-size: 16px;
 	color: rgba(34,34,34,1);
 }
-#Microphone_c {
+#Microphone_db {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -357,10 +399,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_c {
+#Rectangle_313_dc {
 	fill: transparent;
 }
-.Rectangle_313_c {
+.Rectangle_313_dc {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -368,10 +410,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_c {
+#Path_124_dd {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_c {
+.Path_124_dd {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -380,7 +422,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_c {
+#Line_11_de {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -389,7 +431,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_c {
+.Line_11_de {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -398,7 +440,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_da {
+#NG_H_df {
 	left: 1666px;
 	top: 31px;
 	position: absolute;
@@ -415,40 +457,6 @@
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
-}
-#Group_22 {
-	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: -299.468px;
-	top: 134.593px;
-	overflow: visible;
-}
-#Group_23 {
-	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Ko_dd {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Bng2_de {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 518px;
-	height: 518px;
-	left: 201.468px;
-	top: 469.407px;
-	overflow: visible;
 }
 #Line_13 {
 	fill: transparent;
@@ -468,7 +476,7 @@
 	top: 66.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n__dg {
+#n__dh {
 	position: absolute;
 	width: 272px;
 	height: 272px;
@@ -480,7 +488,7 @@
 	--web-action-target: dacdiemsinhhoc.html;
 	cursor: pointer;
 }
-#n__dh {
+#n__di {
 	position: absolute;
 	width: 272px;
 	height: 272px;
@@ -492,7 +500,7 @@
 	--web-action-target: muoisaucong.html;
 	cursor: pointer;
 }
-#n__di {
+#n__dj {
 	position: absolute;
 	width: 272px;
 	height: 272px;
@@ -504,7 +512,7 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#n__dj {
+#n__dk {
 	position: absolute;
 	width: 272px;
 	height: 272px;
