@@ -163,104 +163,6 @@
 	font-size: 26px;
 	color: rgba(173,125,248,1);
 }
-#Group_20 {
-	position: absolute;
-	width: 1128px;
-	height: 32px;
-	left: 639px;
-	top: 33px;
-	overflow: visible;
-}
-#CHUYN_MC {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 148px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chuyenmuc.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG {
-	left: 250px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 133px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: thuatngu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU {
-	left: 722px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 209px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chiase.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#PODCAST {
-	left: 491px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 104px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: podcast.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#NG_H {
-	left: 1040px;
-	top: 1px;
-	position: absolute;
-	overflow: visible;
-	width: 89px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: donate.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
 #Search_Bar {
 	opacity: 0.69;
 	position: absolute;
@@ -487,11 +389,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_8_cb {
+#Path_8_b {
 	opacity: 0.5;
-	fill: url(#Path_8_cb);
+	fill: url(#Path_8_b);
 }
-.Path_8_cb {
+.Path_8_b {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -509,10 +411,10 @@
 	top: 26.291px;
 	overflow: visible;
 }
-#Path_9_ce {
-	fill: url(#Path_9_ce);
+#Path_9_b {
+	fill: url(#Path_9_b);
 }
-.Path_9_ce {
+.Path_9_b {
 	overflow: visible;
 	position: absolute;
 	width: 100.982px;
@@ -521,10 +423,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_10_cg {
-	fill: url(#Path_10_cg);
+#Path_10_ca {
+	fill: url(#Path_10_ca);
 }
-.Path_10_cg {
+.Path_10_ca {
 	mix-blend-mode: screen;
 	overflow: visible;
 	position: absolute;
@@ -534,10 +436,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_ci {
-	fill: url(#Path_11_ci);
+#Path_11_cc {
+	fill: url(#Path_11_cc);
 }
-.Path_11_ci {
+.Path_11_cc {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -555,10 +457,10 @@
 	top: 649.581px;
 	overflow: visible;
 }
-#Ellipse_9_cl {
-	fill: url(#Ellipse_9_cl);
+#Ellipse_9_cf {
+	fill: url(#Ellipse_9_cf);
 }
-.Ellipse_9_cl {
+.Ellipse_9_cf {
 	width: 35.025px;
 	height: 35.025px;
 	position: absolute;
@@ -592,11 +494,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_4_cq {
+#Path_4_ck {
 	opacity: 0.5;
-	fill: url(#Path_4_cq);
+	fill: url(#Path_4_ck);
 }
-.Path_4_cq {
+.Path_4_ck {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -616,7 +518,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_22_cs {
+#Group_22_cm {
 	position: absolute;
 	width: 55.704px;
 	height: 55.704px;
@@ -624,10 +526,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_13_cu {
-	fill: url(#Ellipse_13_cu);
+#Ellipse_13_co {
+	fill: url(#Ellipse_13_co);
 }
-.Ellipse_13_cu {
+.Ellipse_13_co {
 	width: 54.631px;
 	height: 54.631px;
 	position: absolute;
@@ -635,7 +537,7 @@
 	transform: translate(50.346px, -30.38px) matrix(1,0,0,1,0.5366,0.5366) rotate(-1.137deg);
 	transform-origin: center;
 }
-#Group_21_cv {
+#Group_21_cp {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -645,7 +547,7 @@
 	top: 9.324px;
 	overflow: visible;
 }
-#Rectangle_9_cw {
+#Rectangle_9_cq {
 	position: absolute;
 	width: 19.646px;
 	height: 25.238px;
@@ -653,7 +555,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_10_cx {
+#Rectangle_10_cr {
 	position: absolute;
 	width: 19.646px;
 	height: 25.238px;
@@ -661,11 +563,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_8_cz {
+#Path_8_ct {
 	opacity: 0.5;
-	fill: url(#Path_8_cz);
+	fill: url(#Path_8_ct);
 }
-.Path_8_cz {
+.Path_8_ct {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -675,7 +577,7 @@
 	top: 12.449px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Group_23_c {
+#Group_23_cu {
 	position: absolute;
 	width: 53.612px;
 	height: 21.272px;
@@ -683,10 +585,10 @@
 	top: 18.217px;
 	overflow: visible;
 }
-#Path_9_da {
-	fill: url(#Path_9_da);
+#Path_9_cw {
+	fill: url(#Path_9_cw);
 }
-.Path_9_da {
+.Path_9_cw {
 	overflow: visible;
 	position: absolute;
 	width: 56.279px;
@@ -695,10 +597,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_10_da {
-	fill: url(#Path_10_da);
+#Path_10_cy {
+	fill: url(#Path_10_cy);
 }
-.Path_10_da {
+.Path_10_cy {
 	mix-blend-mode: screen;
 	overflow: visible;
 	position: absolute;
@@ -708,10 +610,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_da {
-	fill: url(#Path_11_da);
+#Path_11_c {
+	fill: url(#Path_11_c);
 }
-.Path_11_da {
+.Path_11_c {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -750,7 +652,7 @@
 	transform: translate(265.619px, -79.044px) matrix(1,0,0,1,0.6318,0.6318) rotate(-1.137deg);
 	transform-origin: center;
 }
-#Group_21_db {
+#Group_21_c {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -760,7 +662,7 @@
 	top: 29.259px;
 	overflow: visible;
 }
-#Rectangle_9_dc {
+#Rectangle_9_c {
 	position: absolute;
 	width: 32.324px;
 	height: 32.911px;
@@ -768,7 +670,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_10_dd {
+#Rectangle_10_c {
 	position: absolute;
 	width: 32.324px;
 	height: 32.911px;
@@ -776,11 +678,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_8_df {
+#Path_8_da {
 	opacity: 0.5;
-	fill: url(#Path_8_df);
+	fill: url(#Path_8_da);
 }
-.Path_8_df {
+.Path_8_da {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -790,7 +692,7 @@
 	top: 13.052px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Group_23_dg {
+#Group_23_da {
 	position: absolute;
 	width: 63.125px;
 	height: 25.046px;
@@ -798,10 +700,10 @@
 	top: 16.95px;
 	overflow: visible;
 }
-#Path_9_di {
-	fill: url(#Path_9_di);
+#Path_9_dc {
+	fill: url(#Path_9_dc);
 }
-.Path_9_di {
+.Path_9_dc {
 	overflow: visible;
 	position: absolute;
 	width: 63.67px;
@@ -810,10 +712,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_10_dk {
-	fill: url(#Path_10_dk);
+#Path_10_de {
+	fill: url(#Path_10_de);
 }
-.Path_10_dk {
+.Path_10_de {
 	mix-blend-mode: screen;
 	overflow: visible;
 	position: absolute;
@@ -823,10 +725,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_dm {
-	fill: url(#Path_11_dm);
+#Path_11_dg {
+	fill: url(#Path_11_dg);
 }
-.Path_11_dm {
+.Path_11_dg {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -844,10 +746,10 @@
 	top: 162px;
 	overflow: visible;
 }
-#Ellipse_9_dp {
-	fill: url(#Ellipse_9_dp);
+#Ellipse_9_dj {
+	fill: url(#Ellipse_9_dj);
 }
-.Ellipse_9_dp {
+.Ellipse_9_dj {
 	width: 38.072px;
 	height: 38.072px;
 	position: absolute;
@@ -855,7 +757,7 @@
 	transform: translate(-97.225px, -283.598px) matrix(1,0,0,1,100.0836,286.4566) rotate(-80.581deg);
 	transform-origin: center;
 }
-#Group_11_dq {
+#Group_11_dk {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -865,7 +767,7 @@
 	top: 10.897px;
 	overflow: visible;
 }
-#Rectangle_6_dr {
+#Rectangle_6_dl {
 	position: absolute;
 	width: 7.309px;
 	height: 17.274px;
@@ -873,7 +775,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_7_ds {
+#Rectangle_7_dm {
 	position: absolute;
 	width: 7.309px;
 	height: 17.274px;
@@ -881,11 +783,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_4_du {
+#Path_4_do {
 	opacity: 0.5;
-	fill: url(#Path_4_du);
+	fill: url(#Path_4_do);
 }
-.Path_4_du {
+.Path_4_do {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -903,10 +805,10 @@
 	top: 564.545px;
 	overflow: visible;
 }
-#Ellipse_9_dx {
-	fill: url(#Ellipse_9_dx);
+#Ellipse_9_dr {
+	fill: url(#Ellipse_9_dr);
 }
-.Ellipse_9_dx {
+.Ellipse_9_dr {
 	width: 22.421px;
 	height: 22.421px;
 	position: absolute;
@@ -914,7 +816,7 @@
 	transform: translate(-97.225px, -283.598px) matrix(1,0,0,1,98.9085,285.2815) rotate(-80.581deg);
 	transform-origin: center;
 }
-#Group_11_dy {
+#Group_11_ds {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -924,7 +826,7 @@
 	top: 6.418px;
 	overflow: visible;
 }
-#Rectangle_6_dz {
+#Rectangle_6_dt {
 	position: absolute;
 	width: 4.305px;
 	height: 10.173px;
@@ -932,7 +834,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_7_d {
+#Rectangle_7_du {
 	position: absolute;
 	width: 4.305px;
 	height: 10.173px;
@@ -940,11 +842,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_4_ea {
+#Path_4_dw {
 	opacity: 0.5;
-	fill: url(#Path_4_ea);
+	fill: url(#Path_4_dw);
 }
-.Path_4_ea {
+.Path_4_dw {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -962,10 +864,10 @@
 	top: 222px;
 	overflow: visible;
 }
-#Ellipse_1_d {
-	fill: url(#Ellipse_1_d);
+#Ellipse_1_dz {
+	fill: url(#Ellipse_1_dz);
 }
-.Ellipse_1_d {
+.Ellipse_1_dz {
 	position: absolute;
 	overflow: visible;
 	width: 398px;
@@ -1166,10 +1068,10 @@
 	top: 447px;
 	overflow: visible;
 }
-#Rectangle_3_en {
+#Rectangle_3_eh {
 	fill: rgba(157,121,231,1);
 }
-.Rectangle_3_en {
+.Rectangle_3_eh {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -1178,7 +1080,7 @@
 	left: 0px;
 	top: 0px;
 }
-#c_thm_eo {
+#c_thm_ei {
 	left: 57px;
 	top: 11px;
 	position: absolute;
@@ -1246,10 +1148,10 @@
 	top: 447px;
 	overflow: visible;
 }
-#Rectangle_3_eu {
+#Rectangle_3_eo {
 	fill: rgba(157,121,231,1);
 }
-.Rectangle_3_eu {
+.Rectangle_3_eo {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -1258,7 +1160,7 @@
 	left: 0px;
 	top: 0px;
 }
-#c_thm_ev {
+#c_thm_ep {
 	left: 57px;
 	top: 11px;
 	position: absolute;
@@ -1365,7 +1267,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_22_e {
+#Group_22_ew {
 	position: absolute;
 	width: 106.236px;
 	height: 106.236px;
@@ -1373,10 +1275,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_13_fa {
-	fill: url(#Ellipse_13_fa);
+#Ellipse_13_ey {
+	fill: url(#Ellipse_13_ey);
 }
-.Ellipse_13_fa {
+.Ellipse_13_ey {
 	width: 104.189px;
 	height: 104.189px;
 	position: absolute;
@@ -1384,7 +1286,7 @@
 	transform: translate(314.025px, -78.18px) matrix(1,0,0,1,1.0233,1.0233) rotate(-1.137deg);
 	transform-origin: center;
 }
-#Group_21_e {
+#Group_21_ez {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -1424,7 +1326,7 @@
 	top: 20.534px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Group_23_fa {
+#Group_23_e {
 	position: absolute;
 	width: 102.244px;
 	height: 40.568px;
@@ -1432,10 +1334,10 @@
 	top: 26.291px;
 	overflow: visible;
 }
-#Path_9_fc {
-	fill: url(#Path_9_fc);
+#Path_9_fa {
+	fill: url(#Path_9_fa);
 }
-.Path_9_fc {
+.Path_9_fa {
 	overflow: visible;
 	position: absolute;
 	width: 100.982px;
@@ -1444,10 +1346,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_10_fe {
-	fill: url(#Path_10_fe);
+#Path_10_fa {
+	fill: url(#Path_10_fa);
 }
-.Path_10_fe {
+.Path_10_fa {
 	mix-blend-mode: screen;
 	overflow: visible;
 	position: absolute;
@@ -1457,10 +1359,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_fg {
-	fill: url(#Path_11_fg);
+#Path_11_fa {
+	fill: url(#Path_11_fa);
 }
-.Path_11_fg {
+.Path_11_fa {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -1479,7 +1381,7 @@
 	top: 2516px;
 	overflow: visible;
 }
-#Saly-1_fi {
+#Saly-1_fc {
 	position: absolute;
 	width: 629px;
 	height: 556px;
@@ -1504,7 +1406,7 @@
 	top: 2703px;
 	overflow: visible;
 }
-#Saly-1_fl {
+#Saly-1_ff {
 	position: absolute;
 	width: 430px;
 	height: 380px;
@@ -1523,7 +1425,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_22_fn {
+#Group_22_fh {
 	position: absolute;
 	width: 55.704px;
 	height: 55.704px;
@@ -1531,10 +1433,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_13_fp {
-	fill: url(#Ellipse_13_fp);
+#Ellipse_13_fj {
+	fill: url(#Ellipse_13_fj);
 }
-.Ellipse_13_fp {
+.Ellipse_13_fj {
 	width: 54.631px;
 	height: 54.631px;
 	position: absolute;
@@ -1542,7 +1444,7 @@
 	transform: translate(86.226px, -46.847px) matrix(1,0,0,1,0.5366,0.5366) rotate(-1.137deg);
 	transform-origin: center;
 }
-#Group_21_fq {
+#Group_21_fk {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -1552,7 +1454,7 @@
 	top: 12.542px;
 	overflow: visible;
 }
-#Rectangle_9_fr {
+#Rectangle_9_fl {
 	position: absolute;
 	width: 21.646px;
 	height: 26.401px;
@@ -1560,7 +1462,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_10_fs {
+#Rectangle_10_fm {
 	position: absolute;
 	width: 21.646px;
 	height: 26.401px;
@@ -1568,11 +1470,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_8_fu {
+#Path_8_fo {
 	opacity: 0.5;
-	fill: url(#Path_8_fu);
+	fill: url(#Path_8_fo);
 }
-.Path_8_fu {
+.Path_8_fo {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -1582,7 +1484,7 @@
 	top: 12.505px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Group_23_fv {
+#Group_23_fp {
 	position: absolute;
 	width: 53.612px;
 	height: 21.272px;
@@ -1590,10 +1492,10 @@
 	top: 17.948px;
 	overflow: visible;
 }
-#Path_9_fx {
-	fill: url(#Path_9_fx);
+#Path_9_fr {
+	fill: url(#Path_9_fr);
 }
-.Path_9_fx {
+.Path_9_fr {
 	overflow: visible;
 	position: absolute;
 	width: 57.291px;
@@ -1602,10 +1504,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_10_fz {
-	fill: url(#Path_10_fz);
+#Path_10_ft {
+	fill: url(#Path_10_ft);
 }
-.Path_10_fz {
+.Path_10_ft {
 	mix-blend-mode: screen;
 	overflow: visible;
 	position: absolute;
@@ -1615,10 +1517,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_11_ga {
-	fill: url(#Path_11_ga);
+#Path_11_fv {
+	fill: url(#Path_11_fv);
 }
-.Path_11_ga {
+.Path_11_fv {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -1638,10 +1540,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_9_ga {
-	fill: url(#Ellipse_9_ga);
+#Ellipse_9_fy {
+	fill: url(#Ellipse_9_fy);
 }
-.Ellipse_9_ga {
+.Ellipse_9_fy {
 	width: 35.671px;
 	height: 35.671px;
 	position: absolute;
@@ -1649,7 +1551,7 @@
 	transform: translate(100.926px, -289.481px) matrix(1,0,0,1,99.9034,286.2763) rotate(-80.581deg);
 	transform-origin: center;
 }
-#Group_11_f {
+#Group_11_fz {
 	opacity: 0.27;
 	mix-blend-mode: soft-light;
 	position: absolute;
@@ -1782,4 +1684,102 @@
 	left: 1326px;
 	top: 183px;
 	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: donate.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
 }
