@@ -5,7 +5,6 @@
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 :root {
 	--web-view-ids: Podcast;
@@ -19,8 +18,7 @@
 #Podcast {
 	position: absolute;
 	width: 1920px;
-	height: 1426px;
-	font-family: arial;
+	height: 1424px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Podcast;
@@ -29,7 +27,6 @@
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 @keyframes fadein {
 
@@ -41,240 +38,188 @@
 	}
 
 }
-#Group_29 {
+#Group_3_jh {
+	opacity: 0.3;
+	transform: matrix(1,0,0,1,-283.3556,278.6752) rotate(-32deg);
+	transform-origin: center;
 	position: absolute;
-	width: 2642.965px;
-	height: 2092.953px;
-	left: -683px;
-	top: -321.199px;
-	overflow: visible;
-}
-#Background_trn_pk {
-	position: absolute;
-	width: 2603px;
-	height: 1464px;
-	left: 0px;
-	top: 29.199px;
-	overflow: visible;
-}
-#Bng_pl {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 2091.97px;
-	height: 2092.953px;
-	left: 550.994px;
-	top: 0px;
-	overflow: visible;
-}
-#Group_13_pm {
-	position: absolute;
-	width: 1920px;
-	height: 343px;
-	left: 0px;
-	top: 1083px;
-	overflow: visible;
-}
-#Rectangle_1522_pn {
-	fill: rgba(94,56,178,1);
-}
-.Rectangle_1522_pn {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 343px;
+	width: 566.712px;
+	height: 866.65px;
 	left: 0px;
 	top: 0px;
-}
-#Group_8_po {
-	position: absolute;
-	width: 1567px;
-	height: 238px;
-	left: 177px;
-	top: 65px;
 	overflow: visible;
 }
-#MEE_I_A_pp {
-	left: 1px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 171px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(255,176,192,1);
-}
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_pq {
-	left: 0px;
-	top: 85px;
-	position: absolute;
-	overflow: visible;
-	width: 863px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -2.5px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
-}
-#Facebook_Instagram_TikTok_Mail_pr {
-	left: 1190px;
-	top: 3px;
-	position: absolute;
-	overflow: visible;
-	width: 378px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -2.5px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
-}
-#icons8_facebook_circled_32_ps {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1190px;
-	top: 166px;
-	overflow: visible;
-}
-#icons8_instagram_logo_32_pt {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1282px;
-	top: 166px;
-	overflow: visible;
-}
-#icons8_tiktok_32_pu {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1374px;
-	top: 166px;
-	overflow: visible;
-}
-#icons8_mail_32_pv {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1466px;
-	top: 166px;
-	overflow: visible;
-}
-#Line_13_pw {
-	fill: transparent;
-	stroke: rgba(255,255,255,1);
-	stroke-width: 3px;
+#Path_1_ji {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
 	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Line_13_pw {
+.Path_1_ji {
 	overflow: visible;
 	position: absolute;
-	width: 117.5px;
-	height: 3px;
-	left: 1119px;
-	top: 66.5px;
+	width: 898.011px;
+	height: 1010.633px;
+	left: 46.624px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Group_43 {
+#Path_2_jj {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_2_jj {
+	overflow: visible;
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: -314.468px;
-	top: 122px;
+	width: 740.066px;
+	height: 791.963px;
+	left: 79.735px;
+	top: 178.006px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_jk {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_3_jk {
+	overflow: visible;
+	position: absolute;
+	width: 397.062px;
+	height: 510.319px;
+	left: 157.517px;
+	top: 369.843px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_2_jl {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_2_jl {
+	position: absolute;
+	overflow: visible;
+	width: 168.385px;
+	height: 147.673px;
+	left: 352.729px;
+	top: 283.793px;
+}
+#Path_8188_jm {
+	opacity: 0.07;
+	fill: rgba(178,0,255,1);
+}
+.Path_8188_jm {
+	overflow: visible;
+	position: absolute;
+	width: 587.48px;
+	height: 608.281px;
+	transform: matrix(1,0,0,1,-131.9854,753.6113) rotate(40deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Web_1920__1_jn {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 581px;
 	overflow: visible;
 }
-#Ko_py {
-	mix-blend-mode: lighten;
+#Group_15534_jo {
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
+	width: 3518.466px;
+	height: 827.758px;
+	left: -509.156px;
+	top: -511.453px;
+	overflow: visible;
+}
+#Customer_Quote_jp {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
+	transform-origin: center;
+	position: absolute;
+	width: 3134.023px;
+	height: 556.728px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-#PODCAST_pz {
-	left: 835px;
-	top: 215px;
-	position: absolute;
-	overflow: visible;
-	width: 252px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 55px;
-	color: rgba(255,255,255,1);
+#Subtraction_13_jq {
+	fill: rgba(176,97,255,1);
 }
-#CHUYN_MC_p {
-	left: 619px;
-	top: 30px;
-	position: absolute;
+.Subtraction_13_jq {
 	overflow: visible;
-	width: 168px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chuyenmuc.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG_p {
-	left: 883px;
-	top: 30px;
 	position: absolute;
-	overflow: visible;
-	width: 140px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: thuatngu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
+	width: 3151.543px;
+	height: 665.765px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
 }
-#CHIA_S_CNG_CU_p {
-	left: 1330px;
-	top: 30px;
+#Customer_Quote_jr {
+	opacity: 0.72;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
+	transform-origin: center;
 	position: absolute;
+	width: 1993.065px;
+	height: 409.585px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
-	width: 240px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chiase.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_p {
+#Subtraction_13_js {
+	fill: rgba(130,87,230,1);
+}
+.Subtraction_13_js {
+	overflow: visible;
+	position: absolute;
+	width: 2033.909px;
+	height: 749.455px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Customer_Quote_jt {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
+	transform-origin: center;
+	position: absolute;
+	width: 3134.023px;
+	height: 556.728px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Subtraction_13_ju {
+	fill: rgba(150,97,255,1);
+}
+.Subtraction_13_ju {
+	overflow: visible;
+	position: absolute;
+	width: 3170.619px;
+	height: 827.758px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_jv {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -286,21 +231,209 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_p {
-	left: 1119px;
-	top: 32px;
+#PODCAST_jw {
+	left: 846px;
+	top: 289px;
 	position: absolute;
 	overflow: visible;
-	width: 115px;
+	width: 229px;
 	white-space: nowrap;
 	text-align: right;
-	font-family: Century Gothic, arial;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(124,83,218,1);
+}
+#Group_10_jx {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 1149px;
+	overflow: visible;
+}
+#Group_8_jy {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MEE_I_A_jz {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_j {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_httpswwwfacebookcomxu_j {
+	left: 1050px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#icons8_facebook_circled_32_j {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1050px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_j {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1142px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_tiktok_32_j {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1234px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_mail_32_j {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1326px;
+	top: 164px;
+	overflow: visible;
+}
+#Group_20_j {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_j {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_p {
+#THUT_NG_j {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_j {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST_ka {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H_kb {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: donate.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Search_Bar_kc {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -309,10 +442,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_p {
+#Rectangle_1515_kd {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_p {
+.Rectangle_1515_kd {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -321,7 +454,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_p {
+#Search_ke {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -329,10 +462,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_p {
+#Rectangle_176_kf {
 	fill: transparent;
 }
-.Rectangle_176_p {
+.Rectangle_176_kf {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -340,10 +473,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_p {
+#Path_99_kg {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_p {
+.Path_99_kg {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -352,23 +485,23 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__qa {
+#Bn_ang_C_Thc_Mc_G__kh {
 	left: 273px;
-	top: 14px;
+	top: 16px;
 	position: absolute;
 	overflow: visible;
-	width: 196px;
+	width: 206px;
 	white-space: nowrap;
 	line-height: 30px;
 	margin-top: -7px;
 	text-align: left;
-	font-family: Runda, arial;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(34,34,34,1);
+	color: rgba(136,103,224,1);
 }
-#Microphone_qb {
+#Microphone_ki {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -376,10 +509,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_qc {
+#Rectangle_313_kj {
 	fill: transparent;
 }
-.Rectangle_313_qc {
+.Rectangle_313_kj {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -387,10 +520,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_qd {
+#Path_124_kk {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_qd {
+.Path_124_kk {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -399,7 +532,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_qe {
+#Line_11_kl {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -408,7 +541,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_qe {
+.Line_11_kl {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -416,22 +549,4 @@
 	left: 43.5px;
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
-}
-#NG_H_qf {
-	left: 1666px;
-	top: 31px;
-	position: absolute;
-	overflow: visible;
-	width: 102px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ungho.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
 }

@@ -1,14 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Chuyên Mục;
-	--web-view-id: Chuyn_Mc;
+	--web-view-name: Chuyên mục;
+	--web-view-id: Chuyn_mc;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 :root {
-	--web-view-ids: Chuyn_Mc;
+	--web-view-ids: Chuyn_mc;
 }
 * {
 	margin: 0;
@@ -16,20 +15,18 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Chuyn_Mc {
+#Chuyn_mc {
 	position: absolute;
 	width: 1920px;
 	height: 1424px;
-	font-family: arial;
-	background-color: rgba(255,176,192,1);
+	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Chuyên Mục;
-	--web-view-id: Chuyn_Mc;
+	--web-view-name: Chuyên mục;
+	--web-view-id: Chuyn_mc;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 @keyframes fadein {
 
@@ -41,259 +38,126 @@
 	}
 
 }
-#Group_41 {
+#Group_15519 {
 	position: absolute;
-	width: 2317.468px;
-	height: 1212.061px;
-	left: -299.468px;
-	top: -1px;
+	width: 3518.466px;
+	height: 827.758px;
+	left: -509.156px;
+	top: -511.453px;
 	overflow: visible;
 }
-#Group_24 {
+#Customer_Quote {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
+	transform-origin: center;
 	position: absolute;
-	width: 2116px;
-	height: 1190px;
-	left: 201.468px;
-	top: 0px;
-	overflow: visible;
-}
-#Background_trn_ci {
-	position: absolute;
-	width: 2116px;
-	height: 1190px;
+	width: 3134.023px;
+	height: 556.728px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-#Cy2 {
-	opacity: 0.79;
-	position: absolute;
-	width: 331px;
-	height: 662px;
-	left: 1618px;
-	top: 450px;
-	overflow: visible;
+#Subtraction_13 {
+	fill: rgba(176,97,255,1);
 }
-#Group_22 {
+.Subtraction_13 {
+	overflow: visible;
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
+	width: 3151.543px;
+	height: 665.765px;
 	left: 0px;
-	top: 135.593px;
-	overflow: visible;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
 }
-#Group_23 {
+#Customer_Quote_bb {
+	opacity: 0.72;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
+	transform-origin: center;
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
+	width: 1993.065px;
+	height: 409.585px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-#Ko_cm {
-	mix-blend-mode: lighten;
+#Subtraction_13_bc {
+	fill: rgba(130,87,230,1);
+}
+.Subtraction_13_bc {
+	overflow: visible;
 	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
+	width: 2033.91px;
+	height: 749.455px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Customer_Quote_bd {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
+	transform-origin: center;
+	position: absolute;
+	width: 3134.023px;
+	height: 556.728px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
-#Bng2_cn {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 518px;
-	height: 518px;
-	left: 201.468px;
-	top: 469.407px;
-	overflow: visible;
+#Subtraction_13_be {
+	fill: rgba(150,97,255,1);
 }
-#n_ {
-	position: absolute;
-	width: 273px;
-	height: 273px;
-	left: 804px;
-	top: 726px;
+.Subtraction_13_be {
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: baovebanthan.html;
-	cursor: pointer;
-}
-#n__cp {
 	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 804px;
-	top: 361px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: gioi.html;
-	cursor: pointer;
-}
-#CHUYN_MC_cq {
-	left: 777px;
-	top: 211px;
-	position: absolute;
-	overflow: visible;
-	width: 367px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 55px;
-	color: rgba(255,255,255,1);
-}
-#Rectangle_1522_cr {
-	fill: rgba(94,56,178,1);
-}
-.Rectangle_1522_cr {
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 349px;
+	width: 3170.618px;
+	height: 827.758px;
 	left: 0px;
-	top: 1086px;
-}
-#Group_9 {
-	position: absolute;
-	width: 1567px;
-	height: 238px;
-	left: 177px;
-	top: 1148px;
-	overflow: visible;
-}
-#MEE_I_A_ct {
-	left: 1px;
 	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 171px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(255,176,192,1);
+	transform: matrix(1,0,0,1,0,0);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_cu {
+#Path_8187 {
+	opacity: 0.74;
+	fill: transparent;
+	stroke: rgba(124,83,218,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_8187 {
+	overflow: visible;
+	position: absolute;
+	width: 697.002px;
+	height: 580.936px;
+	transform: matrix(1,0,0,1,134.7265,421.532) rotate(-6deg);
+	transform-origin: center;
 	left: 0px;
-	top: 85px;
-	position: absolute;
-	overflow: visible;
-	width: 863px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -2.5px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
+	top: 0px;
 }
-#Facebook_Instagram_TikTok_Mail_cv {
-	left: 1190px;
-	top: 3px;
-	position: absolute;
-	overflow: visible;
-	width: 378px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -2.5px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
+#Path_8188 {
+	opacity: 0.07;
+	fill: rgba(178,0,255,1);
 }
-#icons8_facebook_circled_32_cw {
+.Path_8188 {
+	overflow: visible;
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1190px;
-	top: 166px;
+	width: 726.022px;
+	height: 677.469px;
+	transform: matrix(1,0,0,1,82.1872,373.2651) rotate(49deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Saly-8 {
+	position: absolute;
+	width: 842px;
+	height: 842px;
+	left: 50.27px;
+	top: 279.718px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_cx {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1282px;
-	top: 166px;
-	overflow: visible;
-}
-#icons8_tiktok_32_cy {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1374px;
-	top: 166px;
-	overflow: visible;
-}
-#icons8_mail_32_cz {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1466px;
-	top: 166px;
-	overflow: visible;
-}
-#CHUYN_MC_c {
-	left: 619px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 168px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG_c {
-	left: 883px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 140px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: thuatngu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU_c {
-	left: 1330px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 240px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chiase.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#logo_ti_gin_c {
+#logo_ti_gin {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -305,25 +169,349 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_c {
-	left: 1119px;
-	top: 32px;
+#Group_15503 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1014px;
+	top: 467px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dacdiemsinhhoc.html;
+	cursor: pointer;
+}
+#Path_8192_bl {
+	fill: url(#Path_8192_bl);
+}
+.Path_8192_bl {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#c_im_sinh_hc {
+	left: 20px;
+	top: 48px;
 	position: absolute;
 	overflow: visible;
-	width: 115px;
+	width: 137px;
 	white-space: nowrap;
-	--web-animation: fadein 1s wind-up;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_15504 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1264px;
+	top: 467px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Podcast.html;
+	--web-action-target: gender.html;
 	cursor: pointer;
+}
+#Path_8198_bp {
+	fill: url(#Path_8198_bp);
+}
+.Path_8198_bp {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Gii {
+	left: 58px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_15505 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1514px;
+	top: 460px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: LGBT.html;
+	cursor: pointer;
+}
+#Path_8199_bt {
+	fill: url(#Path_8199_bt);
+}
+.Path_8199_bt {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#LGBT {
+	left: 50px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_15508 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1014px;
+	top: 758px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: muoisaucong.html;
+	cursor: pointer;
+}
+#Path_8202_bx {
+	fill: url(#Path_8202_bx);
+}
+.Path_8202_bx {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mi_su_cng {
+	left: 22px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_15507 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1264px;
+	top: 758px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baovebanthan.html;
+	cursor: pointer;
+}
+#Path_8201_b {
+	fill: url(#Path_8201_b);
+}
+.Path_8201_b {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bo_v_bn_thn {
+	left: 22px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_15506 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 1514px;
+	top: 751px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: tamly.html;
+	cursor: pointer;
+}
+#Path_8200_b {
+	fill: url(#Path_8200_b);
+}
+.Path_8200_b {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
+	overflow: visible;
+	position: absolute;
+	width: 220px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tm_l {
+	left: 39px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#CHUYN_MC {
+	left: 1190px;
+	top: 318px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
 	text-align: right;
-	font-family: Century Gothic, arial;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(124,83,218,1);
+}
+#Group_20 {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_c {
+#THUT_NG {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: donate.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Search_Bar {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -332,10 +520,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_c {
+#Rectangle_1515 {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_c {
+.Rectangle_1515 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -344,7 +532,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_c {
+#Search {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -352,10 +540,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_c {
+#Rectangle_176 {
 	fill: transparent;
 }
-.Rectangle_176_c {
+.Rectangle_176 {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -363,10 +551,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_c {
+#Path_99 {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_c {
+.Path_99 {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -375,23 +563,23 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__da {
+#Bn_ang_C_Thc_Mc_G_ {
 	left: 273px;
-	top: 14px;
+	top: 16px;
 	position: absolute;
 	overflow: visible;
-	width: 196px;
+	width: 206px;
 	white-space: nowrap;
 	line-height: 30px;
 	margin-top: -7px;
 	text-align: left;
-	font-family: Runda, arial;
+	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(34,34,34,1);
+	color: rgba(136,103,224,1);
 }
-#Microphone_db {
+#Microphone {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -399,10 +587,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_dc {
+#Rectangle_313 {
 	fill: transparent;
 }
-.Rectangle_313_dc {
+.Rectangle_313 {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -410,19 +598,19 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_dd {
+#Path_124 {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_dd {
+.Path_124 {
 	overflow: visible;
 	position: absolute;
-	width: 12.562px;
+	width: 12.563px;
 	height: 16px;
 	left: 2px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_de {
+#Line_11 {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -431,7 +619,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_de {
+.Line_11 {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -440,87 +628,105 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#NG_H_df {
-	left: 1666px;
-	top: 31px;
+#Group_15536 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 580px;
+	overflow: visible;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15535 {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 576px;
+	overflow: visible;
+}
+#MEE_I_A {
+	left: 1px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 102px;
+	width: 157px;
 	white-space: nowrap;
-	--web-animation: fadein 1s wind-up;
-	--web-action-type: page;
-	--web-action-target: ungho.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
+	text-align: left;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Line_13 {
-	fill: transparent;
-	stroke: rgba(255,255,255,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_13 {
-	overflow: visible;
+#Thng_qua_cc_d_n_ca_chng_mnh_Me {
+	left: 0px;
+	top: 80px;
 	position: absolute;
-	width: 170px;
-	height: 3px;
-	left: 619px;
-	top: 66.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n__dh {
-	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 347px;
-	top: 361px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: dacdiemsinhhoc.html;
-	cursor: pointer;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
 }
-#n__di {
+#Facebook_httpswwwfacebookcomxu {
+	left: 1050px;
+	top: 25px;
 	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 347px;
-	top: 727px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: muoisaucong.html;
-	cursor: pointer;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
 }
-#n__dj {
+#icons8_facebook_circled_32 {
 	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 1261px;
-	top: 726px;
+	width: 32px;
+	height: 32px;
+	left: 1050px;
+	top: 183px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: tamly.html;
-	cursor: pointer;
 }
-#n__dk {
+#icons8_instagram_logo_32 {
 	position: absolute;
-	width: 272px;
-	height: 272px;
-	left: 1261px;
-	top: 361px;
+	width: 32px;
+	height: 32px;
+	left: 1142px;
+	top: 183px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: lgbt.html;
-	cursor: pointer;
+}
+#icons8_tiktok_32 {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1234px;
+	top: 183px;
+	overflow: visible;
+}
+#icons8_mail_32 {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1326px;
+	top: 183px;
+	overflow: visible;
 }

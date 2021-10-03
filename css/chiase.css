@@ -1,14 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Chia Sẻ Cùng Cừu;
-	--web-view-id: Chia_S_Cng_Cu;
+	--web-view-name: Chia sẻ cùng Cừu;
+	--web-view-id: Chia_s_cng_Cu;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 :root {
-	--web-view-ids: Chia_S_Cng_Cu;
+	--web-view-ids: Chia_s_cng_Cu;
 }
 * {
 	margin: 0;
@@ -16,20 +15,18 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Chia_S_Cng_Cu {
+#Chia_s_cng_Cu {
 	position: absolute;
 	width: 1920px;
-	height: 1426px;
-	font-family: arial;
+	height: 1424px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Chia Sẻ Cùng Cừu;
-	--web-view-id: Chia_S_Cng_Cu;
+	--web-view-name: Chia sẻ cùng Cừu;
+	--web-view-id: Chia_s_cng_Cu;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
-	--web-page-font: arial;
 }
 @keyframes fadein {
 
@@ -41,385 +38,215 @@
 	}
 
 }
-#Background_trn_ia {
-	position: absolute;
-	width: 4550px;
-	height: 2560px;
-	left: -1317px;
-	top: -8px;
-	overflow: visible;
+#Path_8186_id {
+	opacity: 0.74;
+	fill: transparent;
+	stroke: rgba(231,160,254,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
 }
-#Group_13 {
-	position: absolute;
-	width: 1920px;
-	height: 343px;
-	left: 0px;
-	top: 1083px;
+.Path_8186_id {
 	overflow: visible;
-}
-#Rectangle_1522_ic {
-	fill: rgba(94,56,178,1);
-}
-.Rectangle_1522_ic {
 	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 343px;
+	width: 587.48px;
+	height: 454.713px;
+	transform: matrix(1,0,0,1,1579.2602,901.5336) rotate(33deg);
+	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
-#Group_8_id {
+#Saly-16 {
+	opacity: 0.9;
 	position: absolute;
-	width: 1567px;
-	height: 238px;
-	left: 177px;
-	top: 65px;
+	width: 992px;
+	height: 992px;
+	left: 3px;
+	top: 321px;
 	overflow: visible;
 }
-#MEE_I_A_ie {
+#Web_1920__1_if {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 578px;
+	overflow: visible;
+}
+#Group_15534 {
+	position: absolute;
+	width: 3518.466px;
+	height: 827.758px;
+	left: -509.156px;
+	top: -511.453px;
+	overflow: visible;
+}
+#Customer_Quote_ih {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
+	transform-origin: center;
+	position: absolute;
+	width: 3134.023px;
+	height: 556.728px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Subtraction_13_ii {
+	fill: rgba(176,97,255,1);
+}
+.Subtraction_13_ii {
+	overflow: visible;
+	position: absolute;
+	width: 3151.543px;
+	height: 665.765px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Customer_Quote_ij {
+	opacity: 0.72;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
+	transform-origin: center;
+	position: absolute;
+	width: 1993.065px;
+	height: 409.585px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Subtraction_13_ik {
+	fill: rgba(130,87,230,1);
+}
+.Subtraction_13_ik {
+	overflow: visible;
+	position: absolute;
+	width: 2033.909px;
+	height: 749.455px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Customer_Quote_il {
+	opacity: 0.5;
+	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
+	transform-origin: center;
+	position: absolute;
+	width: 3134.023px;
+	height: 556.728px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Subtraction_13_im {
+	fill: rgba(150,97,255,1);
+}
+.Subtraction_13_im {
+	overflow: visible;
+	position: absolute;
+	width: 3170.619px;
+	height: 827.758px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_10 {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 1149px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MEE_I_A_ip {
 	left: 1px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 171px;
+	width: 157px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Century Gothic, arial;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 40px;
-	color: rgba(255,176,192,1);
+	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_if {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_iq {
 	left: 0px;
-	top: 85px;
+	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 863px;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_httpswwwfacebookcomxu_ir {
+	left: 1050px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 534px;
 	white-space: nowrap;
 	line-height: 30px;
-	margin-top: -2.5px;
+	margin-top: -5px;
 	text-align: left;
-	font-family: Century Gothic, arial;
+	font-family: Merriweather Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
+	font-size: 20px;
+	color: rgba(255,255,255,1);
 }
-#Facebook_Instagram_TikTok_Mail_ig {
-	left: 1190px;
-	top: 3px;
-	position: absolute;
-	overflow: visible;
-	width: 378px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -2.5px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,176,192,1);
-}
-#icons8_facebook_circled_32_ih {
+#icons8_facebook_circled_32_is {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	left: 1190px;
-	top: 166px;
+	left: 1050px;
+	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ii {
+#icons8_instagram_logo_32_it {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	left: 1282px;
-	top: 166px;
+	left: 1142px;
+	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_ij {
+#icons8_tiktok_32_iu {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	left: 1374px;
-	top: 166px;
+	left: 1234px;
+	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_ik {
+#icons8_mail_32_iv {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	left: 1466px;
-	top: 166px;
+	left: 1326px;
+	top: 164px;
 	overflow: visible;
 }
-#Line_13_il {
-	fill: transparent;
-	stroke: rgba(255,255,255,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_13_il {
-	overflow: visible;
-	position: absolute;
-	width: 242.5px;
-	height: 3px;
-	left: 1330px;
-	top: 66.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Group_44 {
-	position: absolute;
-	width: 1259.468px;
-	height: 1444.061px;
-	left: -417.468px;
-	top: -219px;
-	overflow: visible;
-}
-#Group_28 {
-	position: absolute;
-	width: 1259.468px;
-	height: 1444.061px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Group_21 {
-	position: absolute;
-	width: 1259.468px;
-	height: 1444.061px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Group_42 {
-	position: absolute;
-	width: 1259.468px;
-	height: 1444.061px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Qa_cu_iq {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 1200px;
-	height: 1200px;
-	left: 59.468px;
-	top: 0px;
-	overflow: visible;
-}
-#Ko_ir {
-	mix-blend-mode: lighten;
-	position: absolute;
-	width: 1076.468px;
-	height: 1076.468px;
-	left: 0px;
-	top: 367.593px;
-	overflow: visible;
-}
-#CHIA_S_CNG_CU_is {
-	left: 697px;
-	top: 211px;
-	position: absolute;
-	overflow: visible;
-	width: 528px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 55px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU_it {
-	left: 1330px;
-	top: 30px;
-	position: absolute;
-	overflow: visible;
-	width: 240px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#PODCAST_iu {
-	left: 1119px;
-	top: 32px;
-	position: absolute;
-	overflow: visible;
-	width: 115px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Podcast.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#Search_Bar_iv {
-	opacity: 0.69;
-	position: absolute;
-	width: 740px;
-	height: 48px;
-	left: 644px;
-	top: 98px;
-	overflow: visible;
-}
-#Rectangle_1515_iw {
-	fill: rgba(255,255,255,1);
-}
-.Rectangle_1515_iw {
-	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
-	position: absolute;
-	overflow: visible;
-	width: 758px;
-	height: 66px;
-	left: 0px;
-	top: 0px;
-}
-#Search_ix {
-	position: absolute;
-	width: 16px;
-	height: 16px;
-	left: 18px;
-	top: 16px;
-	overflow: visible;
-}
-#Rectangle_176_iy {
-	fill: transparent;
-}
-.Rectangle_176_iy {
-	position: absolute;
-	overflow: visible;
-	width: 16px;
-	height: 16px;
-	left: 0px;
-	top: 0px;
-}
-#Path_99_iz {
-	fill: rgba(34,34,34,1);
-}
-.Path_99_iz {
-	overflow: visible;
-	position: absolute;
-	width: 15.9px;
-	height: 15.9px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Bn_ang_C_Thc_Mc_G__i {
-	left: 273px;
-	top: 14px;
-	position: absolute;
-	overflow: visible;
-	width: 196px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -7px;
-	text-align: left;
-	font-family: Runda, arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
-	color: rgba(34,34,34,1);
-}
-#Microphone_i {
-	position: absolute;
-	width: 16px;
-	height: 16px;
-	left: 708px;
-	top: 16px;
-	overflow: visible;
-}
-#Rectangle_313_i {
-	fill: transparent;
-}
-.Rectangle_313_i {
-	position: absolute;
-	overflow: visible;
-	width: 16px;
-	height: 16px;
-	left: 0px;
-	top: 0px;
-}
-#Path_124_i {
-	fill: rgba(34,34,34,1);
-}
-.Path_124_i {
-	overflow: visible;
-	position: absolute;
-	width: 12.562px;
-	height: 16px;
-	left: 2px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Line_11_i {
-	fill: transparent;
-	stroke: rgba(34,34,34,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_11_i {
-	overflow: visible;
-	position: absolute;
-	width: 1px;
-	height: 25.316px;
-	left: 43.5px;
-	top: 11.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#NG_H_i {
-	left: 1666px;
-	top: 31px;
-	position: absolute;
-	overflow: visible;
-	width: 102px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: ungho.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#n__t__thm_nt__v_cho_nhng_kin_t {
-	left: 233px;
-	top: 379px;
-	position: absolute;
-	overflow: visible;
-	width: 1456px;
-	white-space: nowrap;
-	line-height: 53px;
-	margin-top: -14px;
-	text-align: left;
-	font-family: Century Gothic, arial;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#logo_ti_gin_i {
+#logo_ti_gin_iw {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -431,39 +258,244 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#CHUYN_MC_i {
-	left: 619px;
-	top: 30px;
+#CHIA_S_CNG_CU_ix {
+	left: 872px;
+	top: 330px;
 	position: absolute;
 	overflow: visible;
-	width: 168px;
+	width: 459px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(124,83,218,1);
+}
+#n__t__thm_nt__v_cho_nhng_kin_t {
+	left: 872px;
+	top: 466px;
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	height: 454px;
+	line-height: 36px;
+	margin-top: -8.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(147,112,228,1);
+}
+#Group_20_iz {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_i {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: chuyenmuc.html;
 	cursor: pointer;
 	text-align: right;
-	font-family: Century Gothic, arial;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
 #THUT_NG_i {
-	left: 883px;
-	top: 30px;
+	left: 250px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 140px;
+	width: 133px;
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: thuatngu.html;
 	cursor: pointer;
 	text-align: right;
-	font-family: Century Gothic, arial;
+	font-family: Candara;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_i {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST_i {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H_i {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: donate.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Search_Bar_i {
+	opacity: 0.69;
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 644px;
+	top: 98px;
+	overflow: visible;
+}
+#Rectangle_1515_i {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1515_i {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Search_i {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_176_i {
+	fill: transparent;
+}
+.Rectangle_176_i {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_99_i {
+	fill: rgba(34,34,34,1);
+}
+.Path_99_i {
+	overflow: visible;
+	position: absolute;
+	width: 15.9px;
+	height: 15.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bn_ang_C_Thc_Mc_G__ja {
+	left: 273px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(136,103,224,1);
+}
+#Microphone_jb {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 708px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_313_jc {
+	fill: transparent;
+}
+.Rectangle_313_jc {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_124_jd {
+	fill: rgba(34,34,34,1);
+}
+.Path_124_jd {
+	overflow: visible;
+	position: absolute;
+	width: 12.562px;
+	height: 16px;
+	left: 2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11_je {
+	fill: transparent;
+	stroke: rgba(34,34,34,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11_je {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 25.316px;
+	left: 43.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
 }
