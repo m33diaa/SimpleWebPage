@@ -706,11 +706,11 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_4_b {
+#Path_4_c {
 	opacity: 0.5;
-	fill: url(#Path_4_b);
+	fill: url(#Path_4_c);
 }
-.Path_4_b {
+.Path_4_c {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -728,10 +728,10 @@
 	top: 1483.049px;
 	overflow: visible;
 }
-#Ellipse_9_e {
-	fill: url(#Ellipse_9_e);
+#Ellipse_9_g {
+	fill: url(#Ellipse_9_g);
 }
-.Ellipse_9_e {
+.Ellipse_9_g {
 	width: 22.421px;
 	height: 22.421px;
 	position: absolute;
@@ -1022,7 +1022,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: podcast.html;
+	--web-action-target: Podcast.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;

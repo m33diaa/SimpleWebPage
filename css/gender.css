@@ -612,7 +612,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: podcast.html;
+	--web-action-target: Podcast.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
