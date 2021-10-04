@@ -162,7 +162,7 @@
 #Group_15535_gw {
 	position: absolute;
 	width: 1583px;
-	height: 245px;
+	height: 215px;
 	left: 169px;
 	top: 576px;
 	overflow: visible;
@@ -186,7 +186,7 @@
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 678px;
+	width: 696px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
@@ -494,10 +494,18 @@
 	--web-action-target: dacdiemsinhhoc.html;
 	cursor: pointer;
 }
-#Path_8192_ho {
-	fill: url(#Path_8192_ho);
+#Group_15538 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
-.Path_8192_ho {
+#Path_8192_hp {
+	fill: url(#Path_8192_hp);
+}
+.Path_8192_hp {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
 	overflow: visible;
 	position: absolute;
@@ -507,7 +515,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#c_im_sinh_hc_hp {
+#c_im_sinh_hc_hq {
 	left: 20px;
 	top: 48px;
 	position: absolute;
@@ -533,10 +541,18 @@
 	--web-action-target: gender.html;
 	cursor: pointer;
 }
-#Path_8198_hs {
-	fill: url(#Path_8198_hs);
+#Group_15537 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
-.Path_8198_hs {
+#Path_8198_hu {
+	fill: url(#Path_8198_hu);
+}
+.Path_8198_hu {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
 	overflow: visible;
 	position: absolute;
@@ -546,7 +562,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Gii_ht {
+#Gii_hv {
 	left: 58px;
 	top: 61px;
 	position: absolute;
@@ -572,10 +588,18 @@
 	--web-action-target: lgbt.html;
 	cursor: pointer;
 }
-#Path_8199_hw {
-	fill: url(#Path_8199_hw);
+#Group_15539 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
-.Path_8199_hw {
+#Path_8199_hz {
+	fill: url(#Path_8199_hz);
+}
+.Path_8199_hz {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
 	overflow: visible;
 	position: absolute;
@@ -585,7 +609,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#LGBT_hx {
+#LGBT_h {
 	left: 50px;
 	top: 67px;
 	position: absolute;
@@ -595,7 +619,7 @@
 	text-align: center;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
@@ -610,6 +634,14 @@
 	--web-action-type: page;
 	--web-action-target: muoisaucong.html;
 	cursor: pointer;
+}
+#Group_15542 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
 #Path_8202_h {
 	fill: url(#Path_8202_h);
@@ -650,6 +682,14 @@
 	--web-action-target: baovebanthan.html;
 	cursor: pointer;
 }
+#Group_15541 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
 #Path_8201_h {
 	fill: url(#Path_8201_h);
 }
@@ -663,7 +703,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bo_v_bn_thn_h {
+#Bo_v_bn_thn_ia {
 	left: 22px;
 	top: 44px;
 	position: absolute;
@@ -689,10 +729,18 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#Path_8200_h {
-	fill: url(#Path_8200_h);
+#Group_15540 {
+	position: absolute;
+	width: 175px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
-.Path_8200_h {
+#Path_8200_ie {
+	fill: url(#Path_8200_ie);
+}
+.Path_8200_ie {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.42));
 	overflow: visible;
 	position: absolute;
@@ -702,7 +750,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Tm_l_h {
+#Tm_l_if {
 	left: 39px;
 	top: 67px;
 	position: absolute;
@@ -716,11 +764,11 @@
 	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
-#Path_8188_ia {
+#Path_8188_ig {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_ia {
+.Path_8188_ig {
 	overflow: visible;
 	position: absolute;
 	width: 726.022px;

@@ -46,7 +46,7 @@
 	top: 38px;
 	overflow: visible;
 }
-#Group_4_q {
+#Group_4_x {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -54,10 +54,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_r {
+#Path_125_b {
 	fill: rgba(0,70,127,1);
 }
-.Path_125_r {
+.Path_125_b {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -66,7 +66,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_s {
+#logo_ti_gin_b {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -78,7 +78,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_t {
+#icons8_back_48px_b {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -90,7 +90,7 @@
 	--web-action-target: baovebanthan.html;
 	cursor: pointer;
 }
-#Group_10_u {
+#Group_10_b {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -98,10 +98,10 @@
 	top: 5846px;
 	overflow: visible;
 }
-#Rectangle_1522_v {
+#Rectangle_1522_b {
 	fill: rgba(43,56,78,1);
 }
-.Rectangle_1522_v {
+.Rectangle_1522_b {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -109,15 +109,15 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_w {
+#Group_8_c {
 	position: absolute;
 	width: 1583px;
-	height: 245px;
+	height: 210px;
 	left: 169px;
 	top: 56px;
 	overflow: visible;
 }
-#MEE_I_A_x {
+#MEE_I_A_c {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -136,7 +136,7 @@
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 678px;
+	width: 696px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
@@ -163,7 +163,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_b {
+#icons8_facebook_circled_32_a {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -171,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_b {
+#icons8_instagram_logo_32_ {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -179,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_b {
+#icons8_tiktok_32_ {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -187,7 +187,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_c {
+#icons8_mail_32_a {
 	position: absolute;
 	width: 32px;
 	height: 32px;
