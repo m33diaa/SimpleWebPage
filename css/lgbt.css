@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: LGBT;
 	--web-view-id: LGBT;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -18,13 +16,11 @@
 #LGBT {
 	position: absolute;
 	width: 1920px;
-	height: 1424px;
+	height: 2276px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: LGBT;
 	--web-view-id: LGBT;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -38,110 +34,41 @@
 	}
 
 }
-#Path_8188_ob {
+#Header_km {
+	position: absolute;
+	width: 1920px;
+	height: 282px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Path_8188_kn {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_ob {
+.Path_8188_kn {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
 	height: 608.281px;
-	transform: matrix(1,0,0,1,833.0146,784.6113) rotate(40deg);
+	transform: matrix(1,0,0,1,955.0146,1659.8594) rotate(40deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_oc {
+#Web_1920__1_ko {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
 	left: 0px;
-	top: 581px;
+	top: 1424px;
 	overflow: visible;
 }
-#Group_15534_od {
-	position: absolute;
-	width: 3518.466px;
-	height: 827.758px;
-	left: -509.156px;
-	top: -511.453px;
-	overflow: visible;
-}
-#Customer_Quote_oe {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_of {
-	fill: rgba(176,97,255,1);
-}
-.Subtraction_13_of {
-	overflow: visible;
-	position: absolute;
-	width: 3151.543px;
-	height: 665.765px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_og {
-	opacity: 0.72;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
-	transform-origin: center;
-	position: absolute;
-	width: 1993.065px;
-	height: 409.585px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_oh {
-	fill: rgba(130,87,230,1);
-}
-.Subtraction_13_oh {
-	overflow: visible;
-	position: absolute;
-	width: 2033.909px;
-	height: 749.454px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_oi {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_oj {
-	fill: rgba(150,97,255,1);
-}
-.Subtraction_13_oj {
-	overflow: visible;
-	position: absolute;
-	width: 3170.619px;
-	height: 827.758px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_8203_ok {
+#Path_8203_kp {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_ok {
+.Path_8203_kp {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -151,7 +78,7 @@
 	left: 0px;
 	top: 0px;
 }
-#logo_ti_gin_ol {
+#logo_ti_gin_kq {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -160,10 +87,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index.html;
+	--web-action-target: main.html;
 	cursor: pointer;
 }
-#LGBT_om {
+#LGBT_kr {
 	left: 899px;
 	top: 264px;
 	position: absolute;
@@ -177,9 +104,9 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Group_3_on {
+#Group_3 {
 	opacity: 0.3;
-	transform: matrix(1,0,0,1,-149.7562,-83.4001) rotate(-32deg);
+	transform: matrix(1,0,0,1,100.3171,104.5999) rotate(-32deg);
 	transform-origin: center;
 	position: absolute;
 	width: 1108.202px;
@@ -188,7 +115,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_1_oo {
+#Path_1 {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -197,16 +124,16 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_1_oo {
+.Path_1 {
 	overflow: visible;
 	position: absolute;
-	width: 898.011px;
+	width: 898.012px;
 	height: 1010.633px;
 	left: 923.936px;
 	top: 669.102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2_op {
+#Path_2 {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -215,7 +142,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_2_op {
+.Path_2 {
 	overflow: visible;
 	position: absolute;
 	width: 740.066px;
@@ -224,7 +151,7 @@
 	top: 133.61px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_oq {
+#Path_3 {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -233,7 +160,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_3_oq {
+.Path_3 {
 	overflow: visible;
 	position: absolute;
 	width: 397.062px;
@@ -242,7 +169,7 @@
 	top: 815.447px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_2_or {
+#Ellipse_2 {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -251,7 +178,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Ellipse_2_or {
+.Ellipse_2 {
 	position: absolute;
 	overflow: visible;
 	width: 168.385px;
@@ -268,10 +195,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: nguoidongtinh.html;
+	--web-action-target: baiviet15.html;
 	cursor: pointer;
 }
-#Group_15495_ot {
+#Group_15495_ky {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -279,10 +206,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_ou {
+#Rectangle_1526_kz {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_ou {
+.Rectangle_1526_kz {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -305,7 +232,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_ow {
+#Line_12_k {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -314,7 +241,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ow {
+.Line_12_k {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -323,7 +250,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ox {
+#Vit_bnh_lun_k {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -354,10 +281,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: homophobia.html;
+	--web-action-target: baiviet16.html;
 	cursor: pointer;
 }
-#Group_15496_o {
+#Group_15496_k {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -365,10 +292,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_o {
+#Rectangle_1526_k {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_o {
+.Rectangle_1526_k {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -391,7 +318,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_o {
+#Line_12_la {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -400,7 +327,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_o {
+.Line_12_la {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -409,7 +336,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_o {
+#Vit_bnh_lun_la {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -440,13 +367,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: ditimchinhminh.html;
+	--web-action-target: baiviet14.html;
 	cursor: pointer;
 }
-#Rectangle_1526_pa {
+#Rectangle_1526_lc {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_pa {
+.Rectangle_1526_lc {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -455,7 +382,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Hnh_trnh_i_tm_chnh_mnh_o {
+#Hnh_trnh_i_tm_chnh_mnh_ld {
 	left: 20px;
 	top: 334px;
 	position: absolute;
@@ -469,7 +396,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_pa {
+#Line_12_le {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -478,7 +405,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_pa {
+.Line_12_le {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -487,7 +414,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_pa {
+#Vit_bnh_lun_lf {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -501,7 +428,7 @@
 	font-size: 20px;
 	color: rgba(147,112,228,1);
 }
-#n_i_tm_chnh_mnh_pb {
+#n_i_tm_chnh_mnh {
 	position: absolute;
 	width: 450px;
 	height: 278px;
@@ -509,15 +436,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_pc {
+#Group_8_lh {
 	position: absolute;
 	width: 1583px;
-	height: 210px;
+	height: 245px;
 	left: 169px;
-	top: 1153px;
+	top: 1996px;
 	overflow: visible;
 }
-#MEE_I_A_pd {
+#MEE_I_A_li {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -531,12 +458,12 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_pe {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_lj {
 	left: 0px;
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 696px;
+	width: 678px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
@@ -547,7 +474,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_pf {
+#Facebook_httpswwwfacebookcomxu_lk {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -563,7 +490,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_pg {
+#icons8_facebook_circled_32_ll {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -571,7 +498,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ph {
+#icons8_instagram_logo_32_lm {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -579,7 +506,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_pi {
+#icons8_tiktok_32_ln {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -587,7 +514,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_pj {
+#icons8_mail_32_lo {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -595,7 +522,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_pk {
+#Group_20_lp {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -603,7 +530,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_pl {
+#CHUYN_MC_lq {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -621,7 +548,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_pm {
+#THUT_NG_lr {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -639,7 +566,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_pn {
+#CHIA_S_CNG_CU_ls {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -648,7 +575,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chiase.html;
+	--web-action-target: share.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -657,7 +584,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_po {
+#PODCAST_lt {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -666,7 +593,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Podcast.html;
+	--web-action-target: podcast.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -675,7 +602,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_pp {
+#NG_H_lu {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -693,7 +620,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_pq {
+#Search_Bar_lv {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -702,10 +629,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_pr {
+#Rectangle_1515_lw {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_pr {
+.Rectangle_1515_lw {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -714,7 +641,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_ps {
+#Search_lx {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -722,10 +649,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_pt {
+#Rectangle_176_ly {
 	fill: transparent;
 }
-.Rectangle_176_pt {
+.Rectangle_176_ly {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -733,10 +660,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_pu {
+#Path_99_lz {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_pu {
+.Path_99_lz {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -745,7 +672,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__pv {
+#Bn_ang_C_Thc_Mc_G__l {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -761,7 +688,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_pw {
+#Microphone_l {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -769,10 +696,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_px {
+#Rectangle_313_l {
 	fill: transparent;
 }
-.Rectangle_313_px {
+.Rectangle_313_l {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -780,10 +707,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_py {
+#Path_124_l {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_py {
+.Path_124_l {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -792,7 +719,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_pz {
+#Line_11_l {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -801,7 +728,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_pz {
+.Line_11_l {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -809,4 +736,169 @@
 	left: 43.5px;
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#Group_15539 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 179px;
+	top: 1076px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet11.html;
+	cursor: pointer;
+}
+#Rectangle_1526_l {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_l {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Ngi_ng_tnh__vn_thnh_cng_y_thi {
+	left: 20px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_l {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_l {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_l {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#Scroll_Group_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 450px;
+	height: 280px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_Ngi_ng_tnh_vn_thnh_cng_y_thi {
+	position: absolute;
+	width: 452px;
+	height: 349px;
+	left: -2px;
+	top: -2px;
+	overflow: visible;
+}
+#Group_15540 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 735px;
+	top: 1076px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet10.html;
+	cursor: pointer;
+}
+#Rectangle_1526_md {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_md {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Nhng_tn_thng_tm_l_khi_LGBT_khn {
+	left: 20px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_mf {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_mf {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_mg {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Nhng_tn_thng_tm_l_khi_LGBT_k {
+	position: absolute;
+	width: 450px;
+	height: 283px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }

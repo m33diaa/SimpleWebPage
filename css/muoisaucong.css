@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: Mười sáu cộng;
 	--web-view-id: Mi_su_cng;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -23,8 +21,6 @@
 	overflow: hidden;
 	--web-view-name: Mười sáu cộng;
 	--web-view-id: Mi_su_cng;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -38,7 +34,15 @@
 	}
 
 }
-#Group_3_p {
+#Header_mk {
+	position: absolute;
+	width: 1920px;
+	height: 282px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Group_3_ml {
 	opacity: 0.3;
 	transform: matrix(1,0,0,1,414.3833,236.1676) rotate(242deg);
 	transform-origin: center;
@@ -49,7 +53,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_1_p {
+#Path_1_mm {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -58,7 +62,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_1_p {
+.Path_1_mm {
 	overflow: visible;
 	position: absolute;
 	width: 2057.097px;
@@ -67,7 +71,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2_p {
+#Path_2_mn {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -76,7 +80,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_2_p {
+.Path_2_mn {
 	overflow: visible;
 	position: absolute;
 	width: 1599.012px;
@@ -85,7 +89,7 @@
 	top: 250.498px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_p {
+#Path_3_mo {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -94,7 +98,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_3_p {
+.Path_3_mo {
 	overflow: visible;
 	position: absolute;
 	width: 1054.443px;
@@ -103,7 +107,7 @@
 	top: 802.201px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_2_p {
+#Ellipse_2_mp {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -112,7 +116,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Ellipse_2_p {
+.Ellipse_2_mp {
 	position: absolute;
 	overflow: visible;
 	width: 283.539px;
@@ -120,7 +124,7 @@
 	left: 577.077px;
 	top: 809.236px;
 }
-#Web_1920__1_p {
+#Web_1920__1_mq {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -128,88 +132,11 @@
 	top: 581px;
 	overflow: visible;
 }
-#Group_15534_p {
-	position: absolute;
-	width: 3518.466px;
-	height: 827.758px;
-	left: -509.156px;
-	top: -511.453px;
-	overflow: visible;
-}
-#Customer_Quote_p {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_qa {
-	fill: rgba(176,97,255,1);
-}
-.Subtraction_13_qa {
-	overflow: visible;
-	position: absolute;
-	width: 3151.543px;
-	height: 665.765px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_qb {
-	opacity: 0.72;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
-	transform-origin: center;
-	position: absolute;
-	width: 1993.065px;
-	height: 409.585px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_qc {
-	fill: rgba(130,87,230,1);
-}
-.Subtraction_13_qc {
-	overflow: visible;
-	position: absolute;
-	width: 2033.909px;
-	height: 749.454px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_qd {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_qe {
-	fill: rgba(150,97,255,1);
-}
-.Subtraction_13_qe {
-	overflow: visible;
-	position: absolute;
-	width: 3170.619px;
-	height: 827.758px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_8203_qf {
+#Path_8203_mr {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_qf {
+.Path_8203_mr {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -219,7 +146,7 @@
 	left: 0px;
 	top: 0px;
 }
-#logo_ti_gin_qg {
+#logo_ti_gin_ms {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -228,7 +155,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index.html;
+	--web-action-target: main.html;
 	cursor: pointer;
 }
 #MI_SU_CNG {
@@ -245,11 +172,11 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Path_8188_qi {
+#Path_8188_mu {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_qi {
+.Path_8188_mu {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -268,10 +195,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chuanbicholandau.html;
+	--web-action-target: baiviet19.html;
 	cursor: pointer;
 }
-#Group_15494_qk {
+#Group_15494_mw {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -279,10 +206,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_ql {
+#Rectangle_1526_mx {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_ql {
+.Rectangle_1526_mx {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -305,7 +232,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_qn {
+#Line_12_mz {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -314,7 +241,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_qn {
+.Line_12_mz {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -323,7 +250,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_qo {
+#Vit_bnh_lun_m {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -345,7 +272,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15495_qq {
+#Group_15495_m {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -354,13 +281,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chamsoccaube.html;
+	--web-action-target: baiviet17.html;
 	cursor: pointer;
 }
-#Rectangle_1526_qr {
+#Rectangle_1526_m {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_qr {
+.Rectangle_1526_m {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -383,7 +310,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_qt {
+#Line_12_m {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -392,7 +319,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_qt {
+.Line_12_m {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -401,7 +328,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_qu {
+#Vit_bnh_lun_na {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -423,7 +350,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15496_qw {
+#Group_15496_m {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -432,13 +359,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: tranhthaikhancap.html;
+	--web-action-target: baiviet18.html;
 	cursor: pointer;
 }
-#Rectangle_1526_qx {
+#Rectangle_1526_na {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_qx {
+.Rectangle_1526_na {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -461,7 +388,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_qz {
+#Line_12_nb {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -470,7 +397,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_qz {
+.Line_12_nb {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -479,7 +406,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_q {
+#Vit_bnh_lun_nc {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -501,15 +428,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_q {
+#Group_8_ne {
 	position: absolute;
 	width: 1583px;
-	height: 210px;
+	height: 245px;
 	left: 169px;
 	top: 1153px;
 	overflow: visible;
 }
-#MEE_I_A_q {
+#MEE_I_A_nf {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -523,12 +450,12 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_q {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_ng {
 	left: 0px;
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 696px;
+	width: 678px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
@@ -539,7 +466,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_q {
+#Facebook_httpswwwfacebookcomxu_nh {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -555,7 +482,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_q {
+#icons8_facebook_circled_32_ni {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -563,7 +490,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_q {
+#icons8_instagram_logo_32_nj {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -571,7 +498,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_q {
+#icons8_tiktok_32_nk {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -579,7 +506,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_q {
+#icons8_mail_32_nl {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -587,7 +514,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_ra {
+#Group_20_nm {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -595,7 +522,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_rb {
+#CHUYN_MC_nn {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -613,7 +540,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_rc {
+#THUT_NG_no {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -631,7 +558,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_rd {
+#CHIA_S_CNG_CU_np {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -640,7 +567,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chiase.html;
+	--web-action-target: share.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -649,7 +576,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_re {
+#PODCAST_nq {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -658,7 +585,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Podcast.html;
+	--web-action-target: podcast.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -667,7 +594,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_rf {
+#NG_H_nr {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -685,7 +612,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_rg {
+#Search_Bar_ns {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -694,10 +621,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_rh {
+#Rectangle_1515_nt {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_rh {
+.Rectangle_1515_nt {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -706,7 +633,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_ri {
+#Search_nu {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -714,10 +641,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_rj {
+#Rectangle_176_nv {
 	fill: transparent;
 }
-.Rectangle_176_rj {
+.Rectangle_176_nv {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -725,10 +652,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_rk {
+#Path_99_nw {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_rk {
+.Path_99_nw {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -737,7 +664,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__rl {
+#Bn_ang_C_Thc_Mc_G__nx {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -753,7 +680,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_rm {
+#Microphone_ny {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -761,10 +688,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_rn {
+#Rectangle_313_nz {
 	fill: transparent;
 }
-.Rectangle_313_rn {
+.Rectangle_313_nz {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -772,10 +699,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_ro {
+#Path_124_n {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_ro {
+.Path_124_n {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -784,7 +711,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_rp {
+#Line_11_n {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -793,7 +720,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_rp {
+.Line_11_n {
 	overflow: visible;
 	position: absolute;
 	width: 1px;

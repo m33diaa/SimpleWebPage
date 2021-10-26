@@ -1,0 +1,193 @@
+.mediaViewInfo {
+	--web-view-name: Chúng-ta-bắt-đầu-trở-thành-người-lớn-rồi-sao?;
+	--web-view-id: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao {
+	position: absolute;
+	width: 1920px;
+	height: 5903px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Chúng-ta-bắt-đầu-trở-thành-người-lớn-rồi-sao?;
+	--web-view-id: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_ {
+	position: absolute;
+	width: 1920px;
+	height: 6480px;
+	left: 0px;
+	top: 57px;
+	overflow: visible;
+}
+#Group_4_ {
+	position: absolute;
+	width: 1920px;
+	height: 169px;
+	left: 0px;
+	top: -47px;
+	overflow: visible;
+}
+#Path_125_ {
+	fill: rgba(31,101,102,1);
+}
+.Path_125_ {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_a {
+	position: absolute;
+	width: 169px;
+	height: 169px;
+	left: 875.5px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: main.html;
+	cursor: pointer;
+}
+#icons8_back_48px_b {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 80px;
+	top: 61px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: tamly.html;
+	cursor: pointer;
+}
+#Group_10_c {
+	position: absolute;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 5560px;
+	overflow: visible;
+}
+#Rectangle_1522_d {
+	fill: rgba(31,101,102,1);
+}
+.Rectangle_1522_d {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8_e {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 5609px;
+	overflow: visible;
+}
+#MEE_I_A_f {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_g {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_httpswwwfacebookcomxu_i {
+	left: 1050px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#icons8_facebook_circled_32_i {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1050px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_j {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1142px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_tiktok_32_k {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1234px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_mail_32_l {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1326px;
+	top: 164px;
+	overflow: visible;
+}

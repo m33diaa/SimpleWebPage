@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: Tâm lý;
 	--web-view-id: Tm_l;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -18,13 +16,11 @@
 #Tm_l {
 	position: absolute;
 	width: 1920px;
-	height: 1424px;
+	height: 2285px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Tâm lý;
 	--web-view-id: Tm_l;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -38,9 +34,17 @@
 	}
 
 }
-#Group_3_s {
+#Header_pj {
+	position: absolute;
+	width: 1920px;
+	height: 282px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Group_3_pk {
 	opacity: 0.3;
-	transform: matrix(1,0,0,1,-283.3556,278.6752) rotate(-32deg);
+	transform: matrix(1,0,0,1,-283.3556,278.6752) rotate(-18deg);
 	transform-origin: center;
 	position: absolute;
 	width: 566.712px;
@@ -49,7 +53,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_1_s {
+#Path_1_pl {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -58,16 +62,16 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_1_s {
+.Path_1_pl {
 	overflow: visible;
 	position: absolute;
-	width: 898.011px;
-	height: 1010.633px;
-	left: 46.624px;
+	width: 759.029px;
+	height: 986.319px;
+	left: 52.288px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2_s {
+#Path_2_pm {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -76,16 +80,16 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_2_s {
+.Path_2_pm {
 	overflow: visible;
 	position: absolute;
-	width: 740.066px;
-	height: 791.963px;
-	left: 79.735px;
-	top: 178.006px;
+	width: 648.108px;
+	height: 752.845px;
+	left: 46.497px;
+	top: 172.495px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_ta {
+#Path_3_pn {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -94,16 +98,16 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_3_ta {
+.Path_3_pn {
 	overflow: visible;
 	position: absolute;
-	width: 397.062px;
-	height: 510.319px;
-	left: 157.517px;
-	top: 369.843px;
+	width: 300.587px;
+	height: 529.161px;
+	left: 116.952px;
+	top: 311.203px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_2_tb {
+#Ellipse_2_po {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -112,118 +116,41 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Ellipse_2_tb {
+.Ellipse_2_po {
 	position: absolute;
 	overflow: visible;
-	width: 168.385px;
-	height: 147.672px;
-	left: 352.729px;
-	top: 283.793px;
+	width: 165.409px;
+	height: 123.608px;
+	left: 327.886px;
+	top: 273.815px;
 }
-#Path_8188_tc {
+#Path_8188_pp {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_tc {
+.Path_8188_pp {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
 	height: 608.281px;
-	transform: matrix(1,0,0,1,-131.9854,753.6113) rotate(40deg);
+	transform: matrix(1,0,0,1,-70.2554,1559.0617) rotate(40deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_td {
+#Web_1920__1_pq {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
 	left: 0px;
-	top: 581px;
+	top: 1422px;
 	overflow: visible;
 }
-#Group_15534_te {
-	position: absolute;
-	width: 3518.466px;
-	height: 827.758px;
-	left: -509.156px;
-	top: -511.453px;
-	overflow: visible;
-}
-#Customer_Quote_tf {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-80.3961,-501.9264) rotate(-2deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_tg {
-	fill: rgba(176,97,255,1);
-}
-.Subtraction_13_tg {
-	overflow: visible;
-	position: absolute;
-	width: 3151.543px;
-	height: 665.765px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_th {
-	opacity: 0.72;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,-6.5328,-427.4049) rotate(-10deg);
-	transform-origin: center;
-	position: absolute;
-	width: 1993.065px;
-	height: 409.585px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_ti {
-	fill: rgba(130,87,230,1);
-}
-.Subtraction_13_ti {
-	overflow: visible;
-	position: absolute;
-	width: 2033.91px;
-	height: 749.454px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Customer_Quote_tj {
-	opacity: 0.5;
-	transform: translate(89.156px, 643.453px) matrix(1,0,0,1,276.9889,-507.9379) rotate(5deg);
-	transform-origin: center;
-	position: absolute;
-	width: 3134.023px;
-	height: 556.728px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Subtraction_13_tk {
-	fill: rgba(150,97,255,1);
-}
-.Subtraction_13_tk {
-	overflow: visible;
-	position: absolute;
-	width: 3170.619px;
-	height: 827.758px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_8203_tl {
+#Path_8203_pr {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_tl {
+.Path_8203_pr {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -233,7 +160,7 @@
 	left: 0px;
 	top: 0px;
 }
-#logo_ti_gin_tm {
+#logo_ti_gin_ps {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -242,7 +169,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: index.html;
+	--web-action-target: main.html;
 	cursor: pointer;
 }
 #TM_L {
@@ -259,7 +186,7 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Group_15494_to {
+#Group_15494_pu {
 	position: absolute;
 	width: 450px;
 	height: 546px;
@@ -268,13 +195,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: trothanhnguoilon.html;
+	--web-action-target: baiviet20.html;
 	cursor: pointer;
 }
-#Rectangle_1526_tp {
+#Rectangle_1526_pv {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_tp {
+.Rectangle_1526_pv {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -297,7 +224,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_tr {
+#Line_12_px {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -306,7 +233,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_tr {
+.Line_12_px {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -315,7 +242,7 @@
 	top: 430.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ts {
+#Vit_bnh_lun_py {
 	left: 20px;
 	top: 461px;
 	position: absolute;
@@ -337,7 +264,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15495_tu {
+#Group_15495_p {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -346,13 +273,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chungta.html;
+	--web-action-target: baiviet21.html;
 	cursor: pointer;
 }
-#Rectangle_1526_tv {
+#Rectangle_1526_p {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_tv {
+.Rectangle_1526_p {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -375,7 +302,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_tx {
+#Line_12_p {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -384,7 +311,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_tx {
+.Line_12_p {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -393,7 +320,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ty {
+#Vit_bnh_lun_p {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -415,7 +342,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15496_t {
+#Group_15496_p {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -424,13 +351,13 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: sapiosexual.html;
+	--web-action-target: baiviet22.html;
 	cursor: pointer;
 }
-#Rectangle_1526_t {
+#Rectangle_1526_qa {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_t {
+.Rectangle_1526_qa {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -453,7 +380,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_t {
+#Line_12_qa {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -462,7 +389,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_t {
+.Line_12_qa {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -471,7 +398,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_t {
+#Vit_bnh_lun_qa {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -493,15 +420,15 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_t {
+#Group_8_qc {
 	position: absolute;
 	width: 1583px;
-	height: 210px;
+	height: 245px;
 	left: 169px;
-	top: 1153px;
+	top: 1994px;
 	overflow: visible;
 }
-#MEE_I_A_t {
+#MEE_I_A_qd {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -515,12 +442,12 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_t {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_qe {
 	left: 0px;
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 696px;
+	width: 678px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
@@ -531,7 +458,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_t {
+#Facebook_httpswwwfacebookcomxu_qf {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -547,7 +474,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_ua {
+#icons8_facebook_circled_32_qg {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -555,7 +482,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ub {
+#icons8_instagram_logo_32_qh {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -563,7 +490,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_uc {
+#icons8_tiktok_32_qi {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -571,7 +498,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_ud {
+#icons8_mail_32_qj {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -579,7 +506,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_ue {
+#Group_20_qk {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -587,7 +514,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_uf {
+#CHUYN_MC_ql {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -605,7 +532,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_ug {
+#THUT_NG_qm {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -623,7 +550,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_uh {
+#CHIA_S_CNG_CU_qn {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -632,7 +559,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: chiase.html;
+	--web-action-target: share.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -641,7 +568,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_ui {
+#PODCAST_qo {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -650,7 +577,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Podcast.html;
+	--web-action-target: podcast.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -659,7 +586,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_uj {
+#NG_H_qp {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -677,7 +604,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_uk {
+#Search_Bar_qq {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -686,10 +613,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_ul {
+#Rectangle_1515_qr {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_ul {
+.Rectangle_1515_qr {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -698,7 +625,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_um {
+#Search_qs {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -706,10 +633,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_un {
+#Rectangle_176_qt {
 	fill: transparent;
 }
-.Rectangle_176_un {
+.Rectangle_176_qt {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -717,10 +644,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_uo {
+#Path_99_qu {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_uo {
+.Path_99_qu {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -729,7 +656,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__up {
+#Bn_ang_C_Thc_Mc_G__qv {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -745,7 +672,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_uq {
+#Microphone_qw {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -753,10 +680,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_ur {
+#Rectangle_313_qx {
 	fill: transparent;
 }
-.Rectangle_313_ur {
+.Rectangle_313_qx {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -764,10 +691,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_us {
+#Path_124_qy {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_us {
+.Path_124_qy {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -776,7 +703,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_ut {
+#Line_11_qz {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -785,7 +712,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_ut {
+.Line_11_qz {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -793,4 +720,160 @@
 	left: 43.5px;
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#Group_15541 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 179px;
+	top: 1062px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet8.html;
+	cursor: pointer;
+}
+#Rectangle_1526_q {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_q {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Ngh_thut_Liu_thuc_cha_lnh_tm_l_q {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_q {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_q {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_q {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Ngh_thut_Liu_thuc_cha_lnh_tm_q {
+	position: absolute;
+	width: 450px;
+	height: 284px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15542 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 735px;
+	top: 1062px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet12.html;
+	cursor: pointer;
+}
+#Rectangle_1526_ra {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_ra {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Trm_cm_bn_c_ang_phi_chu_ng_Phn {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_ra {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_ra {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_ra {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Trm_cm_bn_c_ang_phi_chu_ng_P {
+	position: absolute;
+	width: 450px;
+	height: 285px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
