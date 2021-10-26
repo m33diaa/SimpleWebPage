@@ -34,7 +34,7 @@
 	}
 
 }
-#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_ {
+#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_c {
 	position: absolute;
 	width: 1920px;
 	height: 6480px;
@@ -42,7 +42,7 @@
 	top: 57px;
 	overflow: visible;
 }
-#Group_4_ {
+#Group_4_d {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -50,10 +50,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_ {
+#Path_125_e {
 	fill: rgba(31,101,102,1);
 }
-.Path_125_ {
+.Path_125_e {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -62,7 +62,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_a {
+#logo_ti_gin_f {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -71,10 +71,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_b {
+#icons8_back_48px_g {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -86,7 +86,7 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#Group_10_c {
+#Group_10_h {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -94,10 +94,10 @@
 	top: 5560px;
 	overflow: visible;
 }
-#Rectangle_1522_d {
+#Rectangle_1522_i {
 	fill: rgba(31,101,102,1);
 }
-.Rectangle_1522_d {
+.Rectangle_1522_i {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +105,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_e {
+#Group_8_j {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -113,7 +113,7 @@
 	top: 5609px;
 	overflow: visible;
 }
-#MEE_I_A_f {
+#MEE_I_A_k {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +127,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_g {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_l {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -143,7 +143,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_i {
+#Facebook_httpswwwfacebookcomxu_m {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -159,7 +159,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_i {
+#icons8_facebook_circled_32_n {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +167,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_j {
+#icons8_instagram_logo_32_o {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +175,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_k {
+#icons8_tiktok_32_p {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +183,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_l {
+#icons8_mail_32_q {
 	position: absolute;
 	width: 32px;
 	height: 32px;

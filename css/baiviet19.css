@@ -50,10 +50,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_s {
+#Path_125_ {
 	fill: rgba(105,20,20,1);
 }
-.Path_125_s {
+.Path_125_ {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -62,7 +62,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_t {
+#logo_ti_gin_ {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -71,10 +71,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_v {
+#icons8_back_48px_ {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -86,7 +86,7 @@
 	--web-action-target: muoisaucong.html;
 	cursor: pointer;
 }
-#Group_10_v {
+#Group_10_ {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -94,10 +94,10 @@
 	top: 7070px;
 	overflow: visible;
 }
-#Rectangle_1522_w {
+#Rectangle_1522_ {
 	fill: rgba(105,20,20,1);
 }
-.Rectangle_1522_w {
+.Rectangle_1522_ {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;

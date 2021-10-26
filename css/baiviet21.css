@@ -34,7 +34,7 @@
 	}
 
 }
-#Chng_ta_u_rt_tuyt_o {
+#Chng_ta_u_rt_tuyt_t {
 	position: absolute;
 	width: 1920px;
 	height: 6480px;
@@ -42,7 +42,7 @@
 	top: 70px;
 	overflow: visible;
 }
-#Group_4_p {
+#Group_4_u {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -50,10 +50,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_q {
+#Path_125_w {
 	fill: rgba(31,101,102,1);
 }
-.Path_125_q {
+.Path_125_w {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -62,7 +62,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_r {
+#logo_ti_gin_w {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -71,10 +71,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_s {
+#icons8_back_48px_a {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -86,7 +86,7 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#Group_10_t {
+#Group_10_a {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -94,10 +94,10 @@
 	top: 5560px;
 	overflow: visible;
 }
-#Rectangle_1522_v {
+#Rectangle_1522_a {
 	fill: rgba(3,148,144,1);
 }
-.Rectangle_1522_v {
+.Rectangle_1522_a {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +105,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_w {
+#Group_8_a {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -113,7 +113,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_w {
+#MEE_I_A_a {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +127,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_x {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_a {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -167,7 +167,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_a {
+#icons8_instagram_logo_32_b {
 	position: absolute;
 	width: 32px;
 	height: 32px;

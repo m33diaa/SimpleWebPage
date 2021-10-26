@@ -42,10 +42,10 @@
 	top: 72px;
 	overflow: visible;
 }
-#Path_125_yz {
+#Path_125_y {
 	fill: rgba(76,78,145,1);
 }
-.Path_125_yz {
+.Path_125_y {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -63,7 +63,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #icons8_back_48px_y {
@@ -105,7 +105,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_y {
+#MEE_I_A_za {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -119,7 +119,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_y {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_zb {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -135,7 +135,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_y {
+#Facebook_httpswwwfacebookcomxu_zc {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -151,7 +151,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_y {
+#icons8_facebook_circled_32_zd {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -159,7 +159,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_y {
+#icons8_instagram_logo_32_ze {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +167,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_za {
+#icons8_tiktok_32_zf {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +175,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_zb {
+#icons8_mail_32_zg {
 	position: absolute;
 	width: 32px;
 	height: 32px;

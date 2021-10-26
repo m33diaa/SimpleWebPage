@@ -34,7 +34,7 @@
 	}
 
 }
-#Header_re {
+#Header_rj {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -42,7 +42,7 @@
 	top: -1px;
 	overflow: visible;
 }
-#Web_1920__1_rf {
+#Web_1920__1_rk {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -50,7 +50,7 @@
 	top: 581px;
 	overflow: visible;
 }
-#logo_ti_gin_rg {
+#logo_ti_gin_rl {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -59,10 +59,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#NG_H_rh {
+#NG_H_rm {
 	left: 881px;
 	top: 289px;
 	position: absolute;
@@ -76,11 +76,11 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Path_8189_ri {
+#Path_8189_rn {
 	opacity: 0.07;
 	fill: rgba(169,59,253,1);
 }
-.Path_8189_ri {
+.Path_8189_rn {
 	overflow: visible;
 	position: absolute;
 	width: 450.306px;
@@ -90,10 +90,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Ellipse_14_rk {
-	fill: url(#Ellipse_14_rk);
+#Ellipse_14_rp {
+	fill: url(#Ellipse_14_rp);
 }
-.Ellipse_14_rk {
+.Ellipse_14_rp {
 	filter: drop-shadow(10px 10px 10px rgba(160, 82, 176, 0.549));
 	position: absolute;
 	overflow: visible;
@@ -102,7 +102,7 @@
 	left: 1229px;
 	top: 490px;
 }
-#Saly-15_rl {
+#Saly-15_rq {
 	position: absolute;
 	width: 448px;
 	height: 796px;
@@ -110,7 +110,7 @@
 	top: 217px;
 	overflow: visible;
 }
-#Group_15490_rm {
+#Group_15490_rr {
 	mix-blend-mode: normal;
 	position: absolute;
 	width: 653px;
@@ -119,7 +119,7 @@
 	top: 560px;
 	overflow: visible;
 }
-#Saly-1_rn {
+#Saly-1_rs {
 	position: absolute;
 	width: 653px;
 	height: 577px;
@@ -127,7 +127,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15491_ro {
+#Group_15491_rt {
 	mix-blend-mode: normal;
 	position: absolute;
 	width: 430px;
@@ -136,7 +136,7 @@
 	top: 704px;
 	overflow: visible;
 }
-#Saly-1_rp {
+#Saly-1_ru {
 	position: absolute;
 	width: 430px;
 	height: 380px;
@@ -152,7 +152,7 @@
 	top: 1149px;
 	overflow: visible;
 }
-#MEE_I_A_rr {
+#MEE_I_A_rw {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -166,7 +166,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_rs {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_rx {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -182,7 +182,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_rt {
+#Facebook_httpswwwfacebookcomxu_ry {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -198,7 +198,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_ru {
+#icons8_facebook_circled_32_rz {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -206,7 +206,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_rv {
+#icons8_instagram_logo_32_r {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -214,7 +214,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_rw {
+#icons8_tiktok_32_r {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -222,7 +222,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_rx {
+#icons8_mail_32_r {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -230,7 +230,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_ry {
+#Group_20_r {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -238,7 +238,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_rz {
+#CHUYN_MC_r {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -333,10 +333,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_r {
+#Rectangle_1515_sa {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_r {
+.Rectangle_1515_sa {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -345,7 +345,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_r {
+#Search_sb {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -353,10 +353,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_r {
+#Rectangle_176_sc {
 	fill: transparent;
 }
-.Rectangle_176_r {
+.Rectangle_176_sc {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -364,10 +364,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_r {
+#Path_99_sd {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_r {
+.Path_99_sd {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -376,7 +376,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__r {
+#Bn_ang_C_Thc_Mc_G__se {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -392,7 +392,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_sa {
+#Microphone_sf {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -400,10 +400,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_sb {
+#Rectangle_313_sg {
 	fill: transparent;
 }
-.Rectangle_313_sb {
+.Rectangle_313_sg {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -411,10 +411,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_sc {
+#Path_124_sh {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_sc {
+.Path_124_sh {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -423,7 +423,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_sd {
+#Line_11_si {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -432,7 +432,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_sd {
+.Line_11_si {
 	overflow: visible;
 	position: absolute;
 	width: 1px;

@@ -34,7 +34,7 @@
 	}
 
 }
-#Scroll_Group_1_f {
+#Scroll_Group_1_gd {
 	mix-blend-mode: normal;
 	transform: matrix(1,0,0,1,-166.6887,-253.8755) rotate(200deg);
 	transform-origin: center;
@@ -45,7 +45,7 @@
 	top: 0px;
 	overflow: hidden;
 }
-#Web_1920__2_f {
+#Web_1920__2_ge {
 	position: absolute;
 	width: 2790.924px;
 	height: 2268.357px;
@@ -53,7 +53,7 @@
 	top: -532.486px;
 	overflow: visible;
 }
-#Header_ga {
+#Header_gf {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -61,11 +61,11 @@
 	top: -1px;
 	overflow: visible;
 }
-#Path_8188_gb {
+#Path_8188_gg {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_gb {
+.Path_8188_gg {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -75,7 +75,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_gc {
+#Web_1920__1_gh {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -83,7 +83,7 @@
 	top: 581px;
 	overflow: visible;
 }
-#logo_ti_gin_gd {
+#logo_ti_gin_gi {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -92,10 +92,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#PODCAST_ge {
+#PODCAST_gj {
 	left: 846px;
 	top: 289px;
 	position: absolute;
@@ -109,7 +109,7 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Group_10_gf {
+#Group_10_gk {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -117,7 +117,7 @@
 	top: 1149px;
 	overflow: visible;
 }
-#Group_8_gg {
+#Group_8_gl {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -125,7 +125,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#MEE_I_A_gh {
+#MEE_I_A_gm {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -139,7 +139,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_gi {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_gn {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -155,7 +155,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_gj {
+#Facebook_httpswwwfacebookcomxu_go {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -171,7 +171,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_gk {
+#icons8_facebook_circled_32_gp {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -179,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_gl {
+#icons8_instagram_logo_32_gq {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -187,7 +187,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_gm {
+#icons8_tiktok_32_gr {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -195,7 +195,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_gn {
+#icons8_mail_32_gs {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -203,7 +203,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_go {
+#Group_20_gt {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -211,7 +211,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_gp {
+#CHUYN_MC_gu {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -229,7 +229,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_gq {
+#THUT_NG_gv {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -247,7 +247,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_gr {
+#CHIA_S_CNG_CU_gw {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -265,7 +265,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_gs {
+#PODCAST_gx {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -279,7 +279,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_gt {
+#NG_H_gy {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -297,7 +297,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_gu {
+#Search_Bar_gz {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -306,10 +306,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_gv {
+#Rectangle_1515_g {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_gv {
+.Rectangle_1515_g {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -318,7 +318,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_gw {
+#Search_g {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -326,10 +326,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_gx {
+#Rectangle_176_g {
 	fill: transparent;
 }
-.Rectangle_176_gx {
+.Rectangle_176_g {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -337,10 +337,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_gy {
+#Path_99_g {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_gy {
+.Path_99_g {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -349,7 +349,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__gz {
+#Bn_ang_C_Thc_Mc_G__g {
 	left: 273px;
 	top: 16px;
 	position: absolute;

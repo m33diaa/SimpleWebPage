@@ -42,10 +42,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_125_tt {
+#Path_125_ty {
 	fill: rgba(67,99,174,1);
 }
-.Path_125_tt {
+.Path_125_ty {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -54,7 +54,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_tu {
+#logo_ti_gin_tz {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -63,10 +63,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_tv {
+#icons8_back_48px_t {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -78,7 +78,7 @@
 	--web-action-target: gioi.html;
 	cursor: pointer;
 }
-#Group_10_tw {
+#Group_10_t {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -86,10 +86,10 @@
 	top: 5993px;
 	overflow: visible;
 }
-#Rectangle_1522_tx {
+#Rectangle_1522_t {
 	fill: rgba(68,100,174,1);
 }
-.Rectangle_1522_tx {
+.Rectangle_1522_t {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -97,7 +97,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_ty {
+#Group_8_t {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -105,7 +105,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_tz {
+#MEE_I_A_t {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -175,7 +175,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_t {
+#icons8_mail_32_ua {
 	position: absolute;
 	width: 32px;
 	height: 32px;

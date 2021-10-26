@@ -42,10 +42,10 @@
 	top: 75px;
 	overflow: visible;
 }
-#Path_125_t {
+#Path_125_ue {
 	fill: rgba(96,168,144,1);
 }
-.Path_125_t {
+.Path_125_ue {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -54,7 +54,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_ua {
+#logo_ti_gin_uf {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -63,10 +63,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_ub {
+#icons8_back_48px_ug {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -78,7 +78,7 @@
 	--web-action-target: gioi.html;
 	cursor: pointer;
 }
-#Group_10_uc {
+#Group_10_uh {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -86,10 +86,10 @@
 	top: 6381px;
 	overflow: visible;
 }
-#Rectangle_1522_ud {
+#Rectangle_1522_ui {
 	fill: rgba(96,168,144,1);
 }
-.Rectangle_1522_ud {
+.Rectangle_1522_ui {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -97,7 +97,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_ue {
+#Group_8_uj {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -105,7 +105,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_uf {
+#MEE_I_A_uk {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -119,7 +119,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_ug {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_ul {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -135,7 +135,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_uh {
+#Facebook_httpswwwfacebookcomxu_um {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -151,7 +151,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_ui {
+#icons8_facebook_circled_32_un {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -159,7 +159,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_uj {
+#icons8_instagram_logo_32_uo {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +167,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_uk {
+#icons8_tiktok_32_up {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +175,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_ul {
+#icons8_mail_32_uq {
 	position: absolute;
 	width: 32px;
 	height: 32px;

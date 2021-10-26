@@ -34,7 +34,7 @@
 	}
 
 }
-#Header_ip {
+#Header_iu {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -42,11 +42,11 @@
 	top: -1px;
 	overflow: visible;
 }
-#Path_8188_iq {
+#Path_8188_iv {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_iq {
+.Path_8188_iv {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -56,7 +56,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_ir {
+#Web_1920__1_iw {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -64,7 +64,7 @@
 	top: 1424px;
 	overflow: visible;
 }
-#Path_8187_is {
+#Path_8187_ix {
 	opacity: 0.2;
 	fill: transparent;
 	stroke: rgba(124,83,218,1);
@@ -74,7 +74,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_8187_is {
+.Path_8187_ix {
 	overflow: visible;
 	position: absolute;
 	width: 684.127px;
@@ -84,11 +84,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_8203_it {
+#Path_8203_iy {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_it {
+.Path_8203_iy {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -98,7 +98,7 @@
 	left: 0px;
 	top: 0px;
 }
-#logo_ti_gin_iu {
+#logo_ti_gin_iz {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -107,7 +107,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #GII {
@@ -144,10 +144,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_iy {
+#Rectangle_1526_i {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_iy {
+.Rectangle_1526_i {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -230,10 +230,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_i {
+#Rectangle_1526_ja {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_i {
+.Rectangle_1526_ja {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -256,7 +256,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_ja {
+#Line_12_jc {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -265,7 +265,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ja {
+.Line_12_jc {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -274,7 +274,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ja {
+#Vit_bnh_lun_jd {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -308,7 +308,7 @@
 	--web-action-target: baiviet4.html;
 	cursor: pointer;
 }
-#Group_15494_jb {
+#Group_15494_jg {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -316,10 +316,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_jc {
+#Rectangle_1526_jh {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_jc {
+.Rectangle_1526_jh {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -342,7 +342,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_je {
+#Line_12_jj {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -351,7 +351,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_je {
+.Line_12_jj {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -360,7 +360,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_jf {
+#Vit_bnh_lun_jk {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -382,7 +382,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_jh {
+#Group_8_jm {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -390,7 +390,7 @@
 	top: 1996px;
 	overflow: visible;
 }
-#MEE_I_A_ji {
+#MEE_I_A_jn {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -404,7 +404,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_jj {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_jo {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -420,7 +420,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_jk {
+#Facebook_httpswwwfacebookcomxu_jp {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -436,7 +436,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_jl {
+#icons8_facebook_circled_32_jq {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -444,7 +444,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_jm {
+#icons8_instagram_logo_32_jr {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -452,7 +452,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_jn {
+#icons8_tiktok_32_js {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -460,7 +460,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_jo {
+#icons8_mail_32_jt {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -468,7 +468,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_jp {
+#Group_20_ju {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -476,7 +476,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_jq {
+#CHUYN_MC_jv {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -494,7 +494,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_jr {
+#THUT_NG_jw {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -512,7 +512,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_js {
+#CHIA_S_CNG_CU_jx {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -530,7 +530,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_jt {
+#PODCAST_jy {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -548,7 +548,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_ju {
+#NG_H_jz {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -566,7 +566,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_jv {
+#Search_Bar_j {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -575,10 +575,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_jw {
+#Rectangle_1515_j {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_jw {
+.Rectangle_1515_j {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -587,7 +587,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_jx {
+#Search_j {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -595,10 +595,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_jy {
+#Rectangle_176_j {
 	fill: transparent;
 }
-.Rectangle_176_jy {
+.Rectangle_176_j {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -606,10 +606,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_jz {
+#Path_99_j {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_jz {
+.Path_99_j {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -695,7 +695,7 @@
 	--web-action-target: baiviet13.html;
 	cursor: pointer;
 }
-#Group_15494_j {
+#Group_15494_kb {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -703,10 +703,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_j {
+#Rectangle_1526_kc {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_j {
+.Rectangle_1526_kc {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -729,7 +729,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_j {
+#Line_12_ke {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -738,7 +738,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_j {
+.Line_12_ke {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -747,7 +747,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ka {
+#Vit_bnh_lun_kf {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -770,7 +770,7 @@
 	top: 0px;
 	overflow: hidden;
 }
-#n_Pink_Gradient_Modern_Fashion_kc {
+#n_Pink_Gradient_Modern_Fashion_kh {
 	position: absolute;
 	width: 450px;
 	height: 323px;
@@ -790,7 +790,7 @@
 	--web-action-target: baiviet7.html;
 	cursor: pointer;
 }
-#Group_15494_ke {
+#Group_15494_kj {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -798,10 +798,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_kf {
+#Rectangle_1526_kk {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_kf {
+.Rectangle_1526_kk {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -824,7 +824,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_kh {
+#Line_12_km {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -833,7 +833,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_kh {
+.Line_12_km {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -842,7 +842,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_ki {
+#Vit_bnh_lun_kn {
 	left: 20px;
 	top: 460px;
 	position: absolute;

@@ -34,7 +34,7 @@
 	}
 
 }
-#Sapiosexual_ {
+#Sapiosexual_a {
 	position: absolute;
 	width: 1920px;
 	height: 6480px;
@@ -42,7 +42,7 @@
 	top: 67px;
 	overflow: visible;
 }
-#Group_4_a {
+#Group_4_b {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -50,10 +50,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_a {
+#Path_125_c {
 	fill: rgba(43,43,87,1);
 }
-.Path_125_a {
+.Path_125_c {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -62,7 +62,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_ {
+#logo_ti_gin_d {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -71,10 +71,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: main.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_ {
+#icons8_back_48px_e {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -86,7 +86,7 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#Group_10_a {
+#Group_10_f {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -94,10 +94,10 @@
 	top: 5561px;
 	overflow: visible;
 }
-#Rectangle_1522_b {
+#Rectangle_1522_g {
 	fill: rgba(255,107,94,1);
 }
-.Rectangle_1522_b {
+.Rectangle_1522_g {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +105,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_c {
+#Group_8_i {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -113,7 +113,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_d {
+#MEE_I_A_i {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +127,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_e {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_j {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -143,7 +143,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_f {
+#Facebook_httpswwwfacebookcomxu_k {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -159,7 +159,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_g {
+#icons8_facebook_circled_32_l {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +167,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_i {
+#icons8_instagram_logo_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +175,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_i {
+#icons8_tiktok_32_n {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +183,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_j {
+#icons8_mail_32_o {
 	position: absolute;
 	width: 32px;
 	height: 32px;
