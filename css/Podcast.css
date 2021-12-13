@@ -38,25 +38,6 @@
 	}
 
 }
-#Scroll_Group_1 {
-	mix-blend-mode: normal;
-	transform: matrix(1,0,0,1,-166.6887,-253.8755) rotate(200deg);
-	transform-origin: center;
-	position: absolute;
-	width: 716.4px;
-	height: 1085.751px;
-	left: 0px;
-	top: 0px;
-	overflow: hidden;
-}
-#Web_1920__2 {
-	position: absolute;
-	width: 2790.924px;
-	height: 2268.357px;
-	left: -698.235px;
-	top: -532.486px;
-	overflow: visible;
-}
 #Header {
 	position: absolute;
 	width: 1920px;
@@ -79,6 +60,14 @@
 	left: 0px;
 	top: 0px;
 }
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
+}
 #PODCAST {
 	left: 846px;
 	top: 289px;
@@ -92,14 +81,6 @@
 	font-weight: bold;
 	font-size: 55px;
 	color: rgba(124,83,218,1);
-}
-#Web_1920__1 {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 581px;
-	overflow: visible;
 }
 #Group_10 {
 	position: absolute;
@@ -374,7 +355,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_cc {
+#PODCAST_ca {
 	left: 491px;
 	top: 0px;
 	position: absolute;

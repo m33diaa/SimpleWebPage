@@ -38,7 +38,7 @@
 	}
 
 }
-#Header_m {
+#Header_ma {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -46,7 +46,7 @@
 	top: -1px;
 	overflow: visible;
 }
-#Group_3_m {
+#Group_3_mb {
 	opacity: 0.3;
 	transform: matrix(1,0,0,1,414.3833,236.1676) rotate(242deg);
 	transform-origin: center;
@@ -57,7 +57,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Path_1_na {
+#Path_1_mc {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -66,7 +66,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_1_na {
+.Path_1_mc {
 	overflow: visible;
 	position: absolute;
 	width: 2057.097px;
@@ -75,7 +75,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2_nb {
+#Path_2_md {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -84,7 +84,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_2_nb {
+.Path_2_md {
 	overflow: visible;
 	position: absolute;
 	width: 1599.012px;
@@ -93,7 +93,7 @@
 	top: 250.498px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_3_nc {
+#Path_3_me {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -102,7 +102,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_3_nc {
+.Path_3_me {
 	overflow: visible;
 	position: absolute;
 	width: 1054.443px;
@@ -111,7 +111,7 @@
 	top: 802.201px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_2_nd {
+#Ellipse_2_mf {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(147,112,228,1);
 	stroke-width: 4px;
@@ -120,7 +120,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Ellipse_2_nd {
+.Ellipse_2_mf {
 	position: absolute;
 	overflow: visible;
 	width: 283.539px;
@@ -128,7 +128,7 @@
 	left: 577.077px;
 	top: 809.236px;
 }
-#Web_1920__1_ne {
+#Web_1920__1_mg {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -136,11 +136,11 @@
 	top: 581px;
 	overflow: visible;
 }
-#Path_8203_nf {
+#Path_8203_mh {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_nf {
+.Path_8203_mh {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -164,11 +164,11 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Path_8188_nh {
+#Path_8188_mj {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_nh {
+.Path_8188_mj {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -190,7 +190,7 @@
 	--web-action-target: baiviet23.html;
 	cursor: pointer;
 }
-#Group_15494_nj {
+#Group_15494_ml {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -198,10 +198,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_nk {
+#Rectangle_1526_mm {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_nk {
+.Rectangle_1526_mm {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -224,7 +224,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_nm {
+#Line_12_mo {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -233,7 +233,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_nm {
+.Line_12_mo {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -242,7 +242,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_nn {
+#Vit_bnh_lun_mp {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -264,7 +264,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15495_np {
+#Group_15495_mr {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -276,10 +276,10 @@
 	--web-action-target: baiviet21.html;
 	cursor: pointer;
 }
-#Rectangle_1526_nq {
+#Rectangle_1526_ms {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_nq {
+.Rectangle_1526_ms {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -302,7 +302,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_ns {
+#Line_12_mu {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -311,7 +311,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ns {
+.Line_12_mu {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -320,7 +320,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_nt {
+#Vit_bnh_lun_mv {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -342,7 +342,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15496_nv {
+#Group_15496_mx {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -354,10 +354,10 @@
 	--web-action-target: baiviet22.html;
 	cursor: pointer;
 }
-#Rectangle_1526_nw {
+#Rectangle_1526_my {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_nw {
+.Rectangle_1526_my {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -380,7 +380,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_ny {
+#Line_12_m {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -389,7 +389,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ny {
+.Line_12_m {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -398,7 +398,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_nz {
+#Vit_bnh_lun_m {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -420,7 +420,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_n {
+#Group_8_m {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -428,7 +428,7 @@
 	top: 1153px;
 	overflow: visible;
 }
-#MEE_I_A_n {
+#MEE_I_A_m {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -442,7 +442,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_n {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_m {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -458,7 +458,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_n {
+#Facebook_httpswwwfacebookcomxu_m {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -474,7 +474,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_n {
+#icons8_facebook_circled_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -482,7 +482,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_n {
+#icons8_instagram_logo_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -490,7 +490,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_n {
+#icons8_tiktok_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -498,7 +498,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_n {
+#icons8_mail_32_na {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -506,7 +506,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Search_Bar_n {
+#Search_Bar_nb {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -515,10 +515,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_oa {
+#Rectangle_1515_nc {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_oa {
+.Rectangle_1515_nc {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -527,7 +527,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_ob {
+#Search_nd {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -535,10 +535,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_oc {
+#Rectangle_176_ne {
 	fill: transparent;
 }
-.Rectangle_176_oc {
+.Rectangle_176_ne {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -546,10 +546,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_od {
+#Path_99_nf {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_od {
+.Path_99_nf {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -558,7 +558,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__oe {
+#Bn_ang_C_Thc_Mc_G__ng {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -574,7 +574,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_of {
+#Microphone_nh {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -582,10 +582,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_og {
+#Rectangle_313_ni {
 	fill: transparent;
 }
-.Rectangle_313_og {
+.Rectangle_313_ni {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -593,10 +593,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_oh {
+#Path_124_nj {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_oh {
+.Path_124_nj {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -605,7 +605,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_oi {
+#Line_11_nk {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -614,7 +614,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_oi {
+.Line_11_nk {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -623,7 +623,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_oj {
+#logo_ti_gin_nl {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -635,7 +635,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Group_20_ok {
+#Group_20_nm {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -643,7 +643,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_ol {
+#CHUYN_MC_nn {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -661,7 +661,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_om {
+#THUT_NG_no {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -679,7 +679,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_on {
+#CHIA_S_CNG_CU_np {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -697,7 +697,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_oo {
+#PODCAST_nq {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -715,7 +715,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_op {
+#NG_H_nr {
 	left: 1040px;
 	top: 1px;
 	position: absolute;

@@ -1008,8 +1008,8 @@
 	position: absolute;
 	width: 1128px;
 	height: 32px;
-	left: 639px;
-	top: 33px;
+	left: 613px;
+	top: 42px;
 	overflow: visible;
 }
 #CHUYN_MC {
@@ -1075,7 +1075,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: podcast.html;
+	--web-action-target: chiase.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
