@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Podcast;
 	--web-view-id: Podcast;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -21,6 +23,8 @@
 	overflow: hidden;
 	--web-view-name: Podcast;
 	--web-view-id: Podcast;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,7 +38,7 @@
 	}
 
 }
-#Scroll_Group_1_gd {
+#Scroll_Group_1_gi {
 	mix-blend-mode: normal;
 	transform: matrix(1,0,0,1,-166.6887,-253.8755) rotate(200deg);
 	transform-origin: center;
@@ -45,7 +49,7 @@
 	top: 0px;
 	overflow: hidden;
 }
-#Web_1920__2_ge {
+#Web_1920__2_gj {
 	position: absolute;
 	width: 2790.924px;
 	height: 2268.357px;
@@ -53,7 +57,7 @@
 	top: -532.486px;
 	overflow: visible;
 }
-#Header_gf {
+#Header_gk {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -61,11 +65,11 @@
 	top: -1px;
 	overflow: visible;
 }
-#Path_8188_gg {
+#Path_8188_gl {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_gg {
+.Path_8188_gl {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -75,7 +79,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_gh {
+#Web_1920__1_gm {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -83,19 +87,7 @@
 	top: 581px;
 	overflow: visible;
 }
-#logo_ti_gin_gi {
-	position: absolute;
-	width: 291px;
-	height: 291px;
-	left: 123px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-}
-#PODCAST_gj {
+#PODCAST_gn {
 	left: 846px;
 	top: 289px;
 	position: absolute;
@@ -109,7 +101,7 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Group_10_gk {
+#Group_10_go {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -117,7 +109,7 @@
 	top: 1149px;
 	overflow: visible;
 }
-#Group_8_gl {
+#Group_8_gp {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -125,7 +117,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#MEE_I_A_gm {
+#MEE_I_A_gq {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -139,7 +131,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_gn {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_gr {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -155,7 +147,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_go {
+#Facebook_httpswwwfacebookcomxu_gs {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -171,7 +163,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_gp {
+#icons8_facebook_circled_32_gt {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -179,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_gq {
+#icons8_instagram_logo_32_gu {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -187,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_gr {
+#icons8_tiktok_32_gv {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -195,7 +187,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_gs {
+#icons8_mail_32_gw {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -203,101 +195,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_gt {
-	position: absolute;
-	width: 1128px;
-	height: 32px;
-	left: 639px;
-	top: 33px;
-	overflow: visible;
-}
-#CHUYN_MC_gu {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 148px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chuyenmuc.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG_gv {
-	left: 250px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 133px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: thuatngu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU_gw {
-	left: 722px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 209px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: share.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#PODCAST_gx {
-	left: 491px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 104px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#NG_H_gy {
-	left: 1040px;
-	top: 1px;
-	position: absolute;
-	overflow: visible;
-	width: 89px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: donate.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#Search_Bar_gz {
+#Search_Bar_gx {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -306,10 +204,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_g {
+#Rectangle_1515_gy {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_g {
+.Rectangle_1515_gy {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -318,7 +216,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_g {
+#Search_gz {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -413,4 +311,110 @@
 	left: 43.5px;
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_g {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Group_20_g {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_g {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_ha {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_hb {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST_hc {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H_hd {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ungho.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
 }

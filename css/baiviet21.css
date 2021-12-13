@@ -1,11 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Chúng-ta-đều-rất-tuyệt;
-	--web-view-id: Chng-ta-u-rt-tuyt;
+	--web-view-name: Mình-nên-chăm-sóc-cậu-bé-bao-nhiêu-lần-một-tuần-nhỉ?;
+	--web-view-id: Mnh-nn-chm-sc-cu-b-bao-nhiu-ln-mt-tun-nh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Chng-ta-u-rt-tuyt;
+	--web-view-ids: Mnh-nn-chm-sc-cu-b-bao-nhiu-ln-mt-tun-nh;
 }
 * {
 	margin: 0;
@@ -13,14 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Chng-ta-u-rt-tuyt {
+#Mnh-nn-chm-sc-cu-b-bao-nhiu-ln-mt-tun-nh {
 	position: absolute;
 	width: 1920px;
-	height: 5903px;
+	height: 3648px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Chúng-ta-đều-rất-tuyệt;
-	--web-view-id: Chng-ta-u-rt-tuyt;
+	--web-view-name: Mình-nên-chăm-sóc-cậu-bé-bao-nhiêu-lần-một-tuần-nhỉ?;
+	--web-view-id: Mnh-nn-chm-sc-cu-b-bao-nhiu-ln-mt-tun-nh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,70 +38,62 @@
 	}
 
 }
-#Chng_ta_u_rt_tuyt_t {
+#Mnh_nn_chm_sc_cu_b_bao_nhiu_ln_m {
 	position: absolute;
 	width: 1920px;
-	height: 6480px;
+	height: 5000px;
 	left: 0px;
-	top: 70px;
+	top: 75px;
 	overflow: visible;
 }
-#Group_4_u {
-	position: absolute;
-	width: 1920px;
-	height: 169px;
-	left: 0px;
-	top: -47px;
-	overflow: visible;
+#Path_125_n {
+	fill: rgba(5,74,127,1);
 }
-#Path_125_w {
-	fill: rgba(31,101,102,1);
-}
-.Path_125_w {
+.Path_125_n {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
 	height: 75px;
 	left: 0px;
-	top: 47px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_w {
+#logo_ti_gin_o {
 	position: absolute;
 	width: 169px;
 	height: 169px;
 	left: 875.5px;
-	top: 0px;
+	top: -47px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_a {
+#icons8_back_48px_p {
 	position: absolute;
 	width: 48px;
 	height: 48px;
 	left: 80px;
-	top: 61px;
+	top: 14px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: tamly.html;
+	--web-action-target: muoisaucong.html;
 	cursor: pointer;
 }
-#Group_10_a {
+#Group_10_q {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 5560px;
+	top: 3306px;
 	overflow: visible;
 }
-#Rectangle_1522_a {
-	fill: rgba(3,148,144,1);
+#Rectangle_1522_r {
+	fill: rgba(5,74,127,1);
 }
-.Rectangle_1522_a {
+.Rectangle_1522_r {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +101,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_a {
+#Group_8_s {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -113,7 +109,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_a {
+#MEE_I_A_u {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +123,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_a {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_u {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -143,7 +139,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_a {
+#Facebook_httpswwwfacebookcomxu_v {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -159,7 +155,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_a {
+#icons8_facebook_circled_32_y {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +163,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_b {
+#icons8_instagram_logo_32_y {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_a {
+#icons8_tiktok_32_y {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_a {
+#icons8_mail_32_z {
 	position: absolute;
 	width: 32px;
 	height: 32px;

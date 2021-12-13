@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Thuật ngữ;
 	--web-view-id: Thut_ng;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -21,6 +23,8 @@
 	overflow: hidden;
 	--web-view-name: Thuật ngữ;
 	--web-view-id: Thut_ng;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,7 +38,26 @@
 	}
 
 }
-#Path_8187_r {
+#Scroll_Group_1_e {
+	mix-blend-mode: color-burn;
+	transform: matrix(1,0,0,1,-115.2282,-273.7045) rotate(200deg);
+	transform-origin: center;
+	position: absolute;
+	width: 716.4px;
+	height: 1085.751px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Web_1920__2_f {
+	position: absolute;
+	width: 2516.533px;
+	height: 2168.487px;
+	left: -698.235px;
+	top: -532.486px;
+	overflow: visible;
+}
+#Path_8187_g {
 	opacity: 0.74;
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
@@ -44,7 +67,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_8187_r {
+.Path_8187_g {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -54,7 +77,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_8186_s {
+#Path_8186_h {
 	opacity: 0.74;
 	fill: transparent;
 	stroke: rgba(255,255,255,1);
@@ -64,7 +87,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_8186_s {
+.Path_8186_h {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -74,7 +97,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_t {
+#Web_1920__1_i {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -82,7 +105,7 @@
 	top: 2034px;
 	overflow: visible;
 }
-#THUT_NG_u {
+#THUT_NG_j {
 	left: 815px;
 	top: 262px;
 	position: absolute;
@@ -95,18 +118,6 @@
 	font-weight: bold;
 	font-size: 55px;
 	color: rgba(255,255,255,1);
-}
-#logo_ti_gin_b {
-	position: absolute;
-	width: 291px;
-	height: 291px;
-	left: 123px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
 }
 #A {
 	left: 200px;
@@ -528,11 +539,11 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Path_8188_q {
+#Path_8188_e {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_q {
+.Path_8188_e {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -550,7 +561,7 @@
 	top: 2611px;
 	overflow: visible;
 }
-#Group_8_u {
+#Group_8_i {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -558,7 +569,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#MEE_I_A_x {
+#MEE_I_A_k {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -572,7 +583,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_x {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_k {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -588,7 +599,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_y {
+#Facebook_httpswwwfacebookcomxu_m {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -604,7 +615,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_y {
+#icons8_facebook_circled_32_m {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -612,7 +623,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_y {
+#icons8_instagram_logo_32_o {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -620,7 +631,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_y {
+#icons8_tiktok_32_o {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -628,7 +639,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_z {
+#icons8_mail_32_p {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -636,7 +647,136 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_ {
+#Search_Bar_o {
+	opacity: 0.69;
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 644px;
+	top: 98px;
+	overflow: visible;
+}
+#Rectangle_1515_p {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1515_p {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Search_r {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_176_r {
+	fill: transparent;
+}
+.Rectangle_176_r {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_99_t {
+	fill: rgba(34,34,34,1);
+}
+.Path_99_t {
+	overflow: visible;
+	position: absolute;
+	width: 15.9px;
+	height: 15.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bn_ang_C_Thc_Mc_G__t {
+	left: 273px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(136,103,224,1);
+}
+#Microphone_u {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 708px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_313_v {
+	fill: transparent;
+}
+.Rectangle_313_v {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_124_w {
+	fill: rgba(34,34,34,1);
+}
+.Path_124_w {
+	overflow: visible;
+	position: absolute;
+	width: 12.562px;
+	height: 16px;
+	left: 2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11_x {
+	fill: transparent;
+	stroke: rgba(34,34,34,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11_x {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 25.316px;
+	left: 43.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_n {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Group_20_z {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -685,7 +825,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: share.html;
+	--web-action-target: chiase.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -721,7 +861,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: donate.html;
+	--web-action-target: ungho.html;
 	cursor: pointer;
 	text-align: right;
 	font-family: Candara;
@@ -729,140 +869,4 @@
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
-}
-#Search_Bar_ {
-	opacity: 0.69;
-	position: absolute;
-	width: 740px;
-	height: 48px;
-	left: 644px;
-	top: 98px;
-	overflow: visible;
-}
-#Rectangle_1515_ {
-	fill: rgba(255,255,255,1);
-}
-.Rectangle_1515_ {
-	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
-	position: absolute;
-	overflow: visible;
-	width: 758px;
-	height: 66px;
-	left: 0px;
-	top: 0px;
-}
-#Search_ {
-	position: absolute;
-	width: 16px;
-	height: 16px;
-	left: 18px;
-	top: 16px;
-	overflow: visible;
-}
-#Rectangle_176_ {
-	fill: transparent;
-}
-.Rectangle_176_ {
-	position: absolute;
-	overflow: visible;
-	width: 16px;
-	height: 16px;
-	left: 0px;
-	top: 0px;
-}
-#Path_99_a {
-	fill: rgba(34,34,34,1);
-}
-.Path_99_a {
-	overflow: visible;
-	position: absolute;
-	width: 15.9px;
-	height: 15.9px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Bn_ang_C_Thc_Mc_G__b {
-	left: 273px;
-	top: 16px;
-	position: absolute;
-	overflow: visible;
-	width: 206px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -7px;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 16px;
-	color: rgba(136,103,224,1);
-}
-#Microphone_c {
-	position: absolute;
-	width: 16px;
-	height: 16px;
-	left: 708px;
-	top: 16px;
-	overflow: visible;
-}
-#Rectangle_313_d {
-	fill: transparent;
-}
-.Rectangle_313_d {
-	position: absolute;
-	overflow: visible;
-	width: 16px;
-	height: 16px;
-	left: 0px;
-	top: 0px;
-}
-#Path_124_e {
-	fill: rgba(34,34,34,1);
-}
-.Path_124_e {
-	overflow: visible;
-	position: absolute;
-	width: 12.562px;
-	height: 16px;
-	left: 2px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Line_11_f {
-	fill: transparent;
-	stroke: rgba(34,34,34,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_11_f {
-	overflow: visible;
-	position: absolute;
-	width: 1px;
-	height: 25.316px;
-	left: 43.5px;
-	top: 11.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Scroll_Group_1_g {
-	mix-blend-mode: color-burn;
-	transform: matrix(1,0,0,1,-115.2282,-273.7045) rotate(200deg);
-	transform-origin: center;
-	position: absolute;
-	width: 716.4px;
-	height: 1085.751px;
-	left: 0px;
-	top: 0px;
-	overflow: hidden;
-}
-#Web_1920__2_h {
-	position: absolute;
-	width: 2516.533px;
-	height: 2168.487px;
-	left: -698.235px;
-	top: -532.486px;
-	overflow: visible;
 }

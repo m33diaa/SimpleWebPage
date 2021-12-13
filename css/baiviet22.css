@@ -1,11 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Sapiosexual-Mình-thích-cậu-vì-cậu-rất-thông-minh!;
-	--web-view-id: Sapiosexual-Mnh-thch-cu-v-cu-rt-thng-minh;
+	--web-view-name: Đừng-xem-tránh-thai-khẩn-cấp-như-một-biện-pháp-được-tính-trước;
+	--web-view-id: ng-xem-trnh-thai-khn-cp-nh-mt-bin-php-c-tnh-trc;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Sapiosexual-Mnh-thch-cu-v-cu-rt-thng-minh;
+	--web-view-ids: ng-xem-trnh-thai-khn-cp-nh-mt-bin-php-c-tnh-trc;
 }
 * {
 	margin: 0;
@@ -13,14 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Sapiosexual-Mnh-thch-cu-v-cu-rt-thng-minh {
+#ng-xem-trnh-thai-khn-cp-nh-mt-bin-php-c-tnh-trc {
 	position: absolute;
 	width: 1920px;
-	height: 5903px;
+	height: 4774px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Sapiosexual-Mình-thích-cậu-vì-cậu-rất-thông-minh!;
-	--web-view-id: Sapiosexual-Mnh-thch-cu-v-cu-rt-thng-minh;
+	--web-view-name: Đừng-xem-tránh-thai-khẩn-cấp-như-một-biện-pháp-được-tính-trước;
+	--web-view-id: ng-xem-trnh-thai-khn-cp-nh-mt-bin-php-c-tnh-trc;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,70 +38,62 @@
 	}
 
 }
-#Sapiosexual_a {
+#ng_xem_trnh_thai_khn_cp_nh_mt__ {
 	position: absolute;
 	width: 1920px;
-	height: 6480px;
+	height: 5000px;
 	left: 0px;
-	top: 67px;
+	top: 75px;
 	overflow: visible;
 }
-#Group_4_b {
-	position: absolute;
-	width: 1920px;
-	height: 169px;
-	left: 0px;
-	top: -47px;
-	overflow: visible;
+#Path_125_a {
+	fill: rgba(184,154,211,1);
 }
-#Path_125_c {
-	fill: rgba(43,43,87,1);
-}
-.Path_125_c {
+.Path_125_a {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
 	height: 75px;
 	left: 0px;
-	top: 47px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_d {
+#logo_ti_gin_b {
 	position: absolute;
 	width: 169px;
 	height: 169px;
 	left: 875.5px;
-	top: 0px;
+	top: -47px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_e {
+#icons8_back_48px_b {
 	position: absolute;
 	width: 48px;
 	height: 48px;
 	left: 80px;
-	top: 61px;
+	top: 14px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: tamly.html;
+	--web-action-target: muoisaucong.html;
 	cursor: pointer;
 }
-#Group_10_f {
+#Group_10_c {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 5561px;
+	top: 4462px;
 	overflow: visible;
 }
-#Rectangle_1522_g {
-	fill: rgba(255,107,94,1);
+#Rectangle_1522_a {
+	fill: rgba(109,200,191,1);
 }
-.Rectangle_1522_g {
+.Rectangle_1522_a {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,7 +101,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_i {
+#Group_8_a {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -113,7 +109,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_i {
+#MEE_I_A_a {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +123,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_j {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_a {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -143,7 +139,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_k {
+#Facebook_httpswwwfacebookcomxu_b {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -159,7 +155,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_l {
+#icons8_facebook_circled_32_c {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +163,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_m {
+#icons8_instagram_logo_32_d {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_n {
+#icons8_tiktok_32_f {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_o {
+#icons8_mail_32_f {
 	position: absolute;
 	width: 32px;
 	height: 32px;

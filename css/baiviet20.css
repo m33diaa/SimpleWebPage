@@ -1,11 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Chúng-ta-bắt-đầu-trở-thành-người-lớn-rồi-sao?;
-	--web-view-id: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+	--web-view-name: Internalized-Homophobia-Khi-bạn-tự-kì-thị-chính-mình;
+	--web-view-id: Internalized-Homophobia-Khi-bn-t-k-th-chnh-mnh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+	--web-view-ids: Internalized-Homophobia-Khi-bn-t-k-th-chnh-mnh;
 }
 * {
 	margin: 0;
@@ -13,14 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao {
+#Internalized-Homophobia-Khi-bn-t-k-th-chnh-mnh {
 	position: absolute;
 	width: 1920px;
-	height: 5903px;
+	height: 5498px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Chúng-ta-bắt-đầu-trở-thành-người-lớn-rồi-sao?;
-	--web-view-id: Chng-ta-bt-u-tr-thnh-ngi-ln-ri-sao;
+	--web-view-name: Internalized-Homophobia-Khi-bạn-tự-kì-thị-chính-mình;
+	--web-view-id: Internalized-Homophobia-Khi-bn-t-k-th-chnh-mnh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,70 +38,62 @@
 	}
 
 }
-#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_c {
+#Internalized_Homophobia_Khi_bn_ {
 	position: absolute;
 	width: 1920px;
 	height: 6480px;
 	left: 0px;
-	top: 57px;
+	top: 63px;
 	overflow: visible;
 }
-#Group_4_d {
-	position: absolute;
-	width: 1920px;
-	height: 169px;
-	left: 0px;
-	top: -47px;
-	overflow: visible;
+#Path_125_ {
+	fill: rgba(5,74,127,1);
 }
-#Path_125_e {
-	fill: rgba(31,101,102,1);
-}
-.Path_125_e {
+.Path_125_ {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
 	height: 75px;
 	left: 0px;
-	top: 47px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_f {
+#logo_ti_gin_a {
 	position: absolute;
 	width: 169px;
 	height: 169px;
 	left: 875.5px;
-	top: 0px;
+	top: -47px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_g {
+#icons8_back_48px_a {
 	position: absolute;
 	width: 48px;
 	height: 48px;
 	left: 80px;
-	top: 61px;
+	top: 14px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: tamly.html;
+	--web-action-target: lgbt.html;
 	cursor: pointer;
 }
-#Group_10_h {
+#Group_10_b {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 5560px;
+	top: 5155px;
 	overflow: visible;
 }
-#Rectangle_1522_i {
-	fill: rgba(31,101,102,1);
+#Rectangle_1522_b {
+	fill: rgba(5,74,127,1);
 }
-.Rectangle_1522_i {
+.Rectangle_1522_b {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -105,15 +101,15 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_j {
+#Group_8_c {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
 	left: 169px;
-	top: 5609px;
+	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_k {
+#MEE_I_A_d {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -127,7 +123,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_l {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_e {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -143,7 +139,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_m {
+#Facebook_httpswwwfacebookcomxu_f {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -159,7 +155,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_n {
+#icons8_facebook_circled_32_g {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +163,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_o {
+#icons8_instagram_logo_32_h {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_p {
+#icons8_tiktok_32_i {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -183,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_q {
+#icons8_mail_32_j {
 	position: absolute;
 	width: 32px;
 	height: 32px;

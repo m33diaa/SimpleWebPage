@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Giới;
 	--web-view-id: Gii;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -21,6 +23,8 @@
 	overflow: hidden;
 	--web-view-name: Giới;
 	--web-view-id: Gii;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,7 +38,7 @@
 	}
 
 }
-#Header_iu {
+#Header_jd {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -42,11 +46,11 @@
 	top: -1px;
 	overflow: visible;
 }
-#Path_8188_iv {
+#Path_8188_je {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_iv {
+.Path_8188_je {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -56,7 +60,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1_iw {
+#Web_1920__1_jf {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -64,7 +68,7 @@
 	top: 1424px;
 	overflow: visible;
 }
-#Path_8187_ix {
+#Path_8187_jg {
 	opacity: 0.2;
 	fill: transparent;
 	stroke: rgba(124,83,218,1);
@@ -74,7 +78,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_8187_ix {
+.Path_8187_jg {
 	overflow: visible;
 	position: absolute;
 	width: 684.127px;
@@ -84,11 +88,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_8203_iy {
+#Path_8203_jh {
 	opacity: 0.26;
 	fill: rgba(255,205,249,1);
 }
-.Path_8203_iy {
+.Path_8203_jh {
 	overflow: visible;
 	position: absolute;
 	width: 490.318px;
@@ -97,18 +101,6 @@
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
-}
-#logo_ti_gin_iz {
-	position: absolute;
-	width: 291px;
-	height: 291px;
-	left: 123px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
 }
 #GII {
 	left: 907px;
@@ -133,7 +125,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: baiviet6.html;
+	--web-action-target: baiviet8.html;
 	cursor: pointer;
 }
 #Group_15495 {
@@ -144,10 +136,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_i {
+#Rectangle_1526_jl {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_i {
+.Rectangle_1526_jl {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -170,7 +162,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_i {
+#Line_12_jn {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -179,7 +171,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_i {
+.Line_12_jn {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -188,7 +180,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_i {
+#Vit_bnh_lun_jo {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -219,10 +211,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: baiviet5.html;
+	--web-action-target: baiviet7.html;
 	cursor: pointer;
 }
-#Group_15496_i {
+#Group_15496_jr {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -230,10 +222,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_ja {
+#Rectangle_1526_js {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_ja {
+.Rectangle_1526_js {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -256,7 +248,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_jc {
+#Line_12_ju {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -265,7 +257,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_jc {
+.Line_12_ju {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -274,7 +266,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_jd {
+#Vit_bnh_lun_jv {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -305,10 +297,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: baiviet4.html;
+	--web-action-target: baiviet6.html;
 	cursor: pointer;
 }
-#Group_15494_jg {
+#Group_15494_jy {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -316,10 +308,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_jh {
+#Rectangle_1526_jz {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_jh {
+.Rectangle_1526_jz {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -342,7 +334,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_jj {
+#Line_12_j {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -351,7 +343,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_jj {
+.Line_12_j {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -360,7 +352,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_jk {
+#Vit_bnh_lun_j {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -382,7 +374,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_8_jm {
+#Group_8_j {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -390,7 +382,7 @@
 	top: 1996px;
 	overflow: visible;
 }
-#MEE_I_A_jn {
+#MEE_I_A_j {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -404,7 +396,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_jo {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_j {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -420,7 +412,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_jp {
+#Facebook_httpswwwfacebookcomxu_j {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -436,7 +428,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_jq {
+#icons8_facebook_circled_32_j {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -444,7 +436,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_jr {
+#icons8_instagram_logo_32_j {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -452,7 +444,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_js {
+#icons8_tiktok_32_ka {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -460,7 +452,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_jt {
+#icons8_mail_32_kb {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -468,105 +460,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#Group_20_ju {
-	position: absolute;
-	width: 1128px;
-	height: 32px;
-	left: 639px;
-	top: 33px;
-	overflow: visible;
-}
-#CHUYN_MC_jv {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 148px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: chuyenmuc.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#THUT_NG_jw {
-	left: 250px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 133px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: thuatngu.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#CHIA_S_CNG_CU_jx {
-	left: 722px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 209px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: share.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#PODCAST_jy {
-	left: 491px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 104px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: podcast.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#NG_H_jz {
-	left: 1040px;
-	top: 1px;
-	position: absolute;
-	overflow: visible;
-	width: 89px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: donate.html;
-	cursor: pointer;
-	text-align: right;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 25px;
-	color: rgba(255,255,255,1);
-}
-#Search_Bar_j {
+#Search_Bar_kc {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -575,10 +469,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_j {
+#Rectangle_1515_kd {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_j {
+.Rectangle_1515_kd {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -587,7 +481,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_j {
+#Search_ke {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -595,10 +489,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_j {
+#Rectangle_176_kf {
 	fill: transparent;
 }
-.Rectangle_176_j {
+.Rectangle_176_kf {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -606,10 +500,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_j {
+#Path_99_kg {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_j {
+.Path_99_kg {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -618,7 +512,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__j {
+#Bn_ang_C_Thc_Mc_G__kh {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -634,7 +528,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_j {
+#Microphone_ki {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -642,10 +536,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_j {
+#Rectangle_313_kj {
 	fill: transparent;
 }
-.Rectangle_313_j {
+.Rectangle_313_kj {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -653,10 +547,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_j {
+#Path_124_kk {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_j {
+.Path_124_kk {
 	overflow: visible;
 	position: absolute;
 	width: 12.562px;
@@ -665,7 +559,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_j {
+#Line_11_kl {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -674,7 +568,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_j {
+.Line_11_kl {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -692,10 +586,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: baiviet13.html;
+	--web-action-target: baiviet17.html;
 	cursor: pointer;
 }
-#Group_15494_kb {
+#Group_15494_kn {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -703,10 +597,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_kc {
+#Rectangle_1526_ko {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_kc {
+.Rectangle_1526_ko {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -729,7 +623,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_ke {
+#Line_12_kq {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -738,7 +632,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_ke {
+.Line_12_kq {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -747,7 +641,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_kf {
+#Vit_bnh_lun_kr {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -770,7 +664,7 @@
 	top: 0px;
 	overflow: hidden;
 }
-#n_Pink_Gradient_Modern_Fashion_kh {
+#n_Pink_Gradient_Modern_Fashion_kt {
 	position: absolute;
 	width: 450px;
 	height: 323px;
@@ -787,10 +681,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: baiviet7.html;
+	--web-action-target: baiviet9.html;
 	cursor: pointer;
 }
-#Group_15494_kj {
+#Group_15494_kv {
 	position: absolute;
 	width: 450px;
 	height: 545px;
@@ -798,10 +692,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_kk {
+#Rectangle_1526_kw {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_kk {
+.Rectangle_1526_kw {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -824,7 +718,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_km {
+#Line_12_ky {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -833,7 +727,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_km {
+.Line_12_ky {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -842,7 +736,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_kn {
+#Vit_bnh_lun_kz {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -863,4 +757,114 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+#logo_ti_gin_k {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Group_20_k {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_k {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_k {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_k {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST_k {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H_k {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ungho.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
 }

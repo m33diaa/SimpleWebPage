@@ -1,11 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Giới-Giới-tính-Bản-dạng-Giới-Xu-hướng-tính-dục;
-	--web-view-id: Gii-Gii-tnh-Bn-dng-Gii-Xu-hng-tnh-dc;
+	--web-view-name: Để -bao-cao-su-trong-ví-túi-quần-có-khiến-bao-bị-thủng – 1;
+	--web-view-id: n_-bao-cao-su-trong-v-ti-qun-c-khin-bao-b-thng__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Gii-Gii-tnh-Bn-dng-Gii-Xu-hng-tnh-dc;
+	--web-view-ids: n_-bao-cao-su-trong-v-ti-qun-c-khin-bao-b-thng__1;
 }
 * {
 	margin: 0;
@@ -13,14 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Gii-Gii-tnh-Bn-dng-Gii-Xu-hng-tnh-dc {
+#n_-bao-cao-su-trong-v-ti-qun-c-khin-bao-b-thng__1 {
 	position: absolute;
 	width: 1920px;
-	height: 6724px;
+	height: 3500px;
 	background-color: rgba(255,176,192,1);
 	overflow: hidden;
-	--web-view-name: Giới-Giới-tính-Bản-dạng-Giới-Xu-hướng-tính-dục;
-	--web-view-id: Gii-Gii-tnh-Bn-dng-Gii-Xu-hng-tnh-dc;
+	--web-view-name: Để -bao-cao-su-trong-ví-túi-quần-có-khiến-bao-bị-thủng – 1;
+	--web-view-id: n_-bao-cao-su-trong-v-ti-qun-c-khin-bao-b-thng__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,62 +38,26 @@
 	}
 
 }
-#Xanh_l_ng_k_Bin_i_Kh_hu_Mi_trn {
+#bai_6_FINAL {
 	position: absolute;
 	width: 1920px;
-	height: 8000px;
+	height: 3999px;
 	left: 0px;
 	top: 75px;
 	overflow: visible;
 }
-#Path_125_ue {
-	fill: rgba(96,168,144,1);
-}
-.Path_125_ue {
-	overflow: visible;
-	position: absolute;
-	width: 1920px;
-	height: 75px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#logo_ti_gin_uf {
-	position: absolute;
-	width: 169px;
-	height: 169px;
-	left: 875.5px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-}
-#icons8_back_48px_ug {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 80px;
-	top: 14px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: gioi.html;
-	cursor: pointer;
-}
-#Group_10_uh {
+#Group_10_u {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 6381px;
+	top: 3157px;
 	overflow: visible;
 }
-#Rectangle_1522_ui {
-	fill: rgba(96,168,144,1);
+#Rectangle_1522_va {
+	fill: rgba(255,176,0,1);
 }
-.Rectangle_1522_ui {
+.Rectangle_1522_va {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -97,7 +65,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_uj {
+#Group_8_vb {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -105,7 +73,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_uk {
+#MEE_I_A_vc {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -119,7 +87,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_ul {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_vd {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -135,7 +103,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_um {
+#Facebook_httpswwwfacebookcomxu_ve {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -151,7 +119,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_un {
+#icons8_facebook_circled_32_vf {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -159,7 +127,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_uo {
+#icons8_instagram_logo_32_vg {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +135,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_up {
+#icons8_tiktok_32_vh {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,11 +143,43 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_uq {
+#icons8_mail_32_vi {
 	position: absolute;
 	width: 32px;
 	height: 32px;
 	left: 1326px;
 	top: 164px;
 	overflow: visible;
+}
+#Path_125_vj {
+	fill: rgba(255,176,0,1);
+}
+.Path_125_vj {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_vk {
+	position: absolute;
+	width: 169px;
+	height: 169px;
+	left: 875.5px;
+	top: -47px;
+	overflow: visible;
+}
+#icons8_back_48px_vl {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 80px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dacdiemsinhhoc.html;
+	cursor: pointer;
 }

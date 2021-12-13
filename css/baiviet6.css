@@ -1,11 +1,13 @@
 .mediaViewInfo {
-	--web-view-name: Những-hiểu-lầm-thường-gặp-về-người-chuyển-giới;
-	--web-view-id: Nhng-hiu-lm-thng-gp-v-ngi-chuyn-gii;
+	--web-view-name: Hiểu-về-Xu-hướng-cảm-xúc-và-Xu-hướng-tính-dục;
+	--web-view-id: Hiu-v-Xu-hng-cm-xc-v-Xu-hng-tnh-dc;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Nhng-hiu-lm-thng-gp-v-ngi-chuyn-gii;
+	--web-view-ids: Hiu-v-Xu-hng-cm-xc-v-Xu-hng-tnh-dc;
 }
 * {
 	margin: 0;
@@ -13,14 +15,16 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Nhng-hiu-lm-thng-gp-v-ngi-chuyn-gii {
+#Hiu-v-Xu-hng-cm-xc-v-Xu-hng-tnh-dc {
 	position: absolute;
 	width: 1920px;
-	height: 4734px;
+	height: 6336px;
 	background-color: rgba(255,176,192,1);
 	overflow: hidden;
-	--web-view-name: Những-hiểu-lầm-thường-gặp-về-người-chuyển-giới;
-	--web-view-id: Nhng-hiu-lm-thng-gp-v-ngi-chuyn-gii;
+	--web-view-name: Hiểu-về-Xu-hướng-cảm-xúc-và-Xu-hướng-tính-dục;
+	--web-view-id: Hiu-v-Xu-hng-cm-xc-v-Xu-hng-tnh-dc;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,10 +38,18 @@
 	}
 
 }
-#Path_125_ut {
-	fill: rgba(86,177,222,1);
+#Bi_Web_-_Gii {
+	position: absolute;
+	width: 1920px;
+	height: 9600px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
 }
-.Path_125_ut {
+#Path_125_vp {
+	fill: rgba(67,99,174,1);
+}
+.Path_125_vp {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -46,7 +58,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_uu {
+#logo_ti_gin_vq {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -58,7 +70,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_uv {
+#icons8_back_48px_vr {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -70,26 +82,18 @@
 	--web-action-target: gioi.html;
 	cursor: pointer;
 }
-#NHNG_HIU_LM_THNG_GP {
-	position: absolute;
-	width: 1920px;
-	height: 5000px;
-	left: 0px;
-	top: 75px;
-	overflow: visible;
-}
-#Group_10_ux {
+#Group_10_vs {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 4390px;
+	top: 5993px;
 	overflow: visible;
 }
-#Rectangle_1522_uy {
-	fill: rgba(86,177,222,1);
+#Rectangle_1522_vt {
+	fill: rgba(68,100,174,1);
 }
-.Rectangle_1522_uy {
+.Rectangle_1522_vt {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -97,7 +101,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_uz {
+#Group_8_vu {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -105,7 +109,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_u {
+#MEE_I_A_vv {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -119,7 +123,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_u {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_vw {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -135,7 +139,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_u {
+#Facebook_httpswwwfacebookcomxu_vx {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -151,7 +155,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_u {
+#icons8_facebook_circled_32_vy {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -159,7 +163,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_u {
+#icons8_instagram_logo_32_vz {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +171,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_u {
+#icons8_tiktok_32_v {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,7 +179,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_u {
+#icons8_mail_32_v {
 	position: absolute;
 	width: 32px;
 	height: 32px;

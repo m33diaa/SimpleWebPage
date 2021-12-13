@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Xuất-tinh-nhiều-có-gây-nguy-hiểm?;
 	--web-view-id: Xut-tinh-nhiu-c-gy-nguy-him;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -16,11 +18,13 @@
 #Xut-tinh-nhiu-c-gy-nguy-him {
 	position: absolute;
 	width: 1920px;
-	height: 4735px;
+	height: 4524px;
 	background-color: rgba(255,176,192,1);
 	overflow: hidden;
 	--web-view-name: Xuất-tinh-nhiều-có-gây-nguy-hiểm?;
 	--web-view-id: Xut-tinh-nhiu-c-gy-nguy-him;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -39,57 +43,21 @@
 	width: 1920px;
 	height: 5000px;
 	left: 0px;
-	top: 53px;
+	top: 75px;
 	overflow: visible;
 }
-#Path_125_ti {
-	fill: rgba(5,44,105,1);
-}
-.Path_125_ti {
-	overflow: visible;
-	position: absolute;
-	width: 1920px;
-	height: 75px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#logo_ti_gin_tj {
-	position: absolute;
-	width: 169px;
-	height: 169px;
-	left: 875.5px;
-	top: -47px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-}
-#icons8_back_48px_tk {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 80px;
-	top: 14px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: dacdiemsinhhoc.html;
-	cursor: pointer;
-}
-#Group_10_tl {
+#Group_10_ud {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
 	left: 0px;
-	top: 4391px;
+	top: 4183px;
 	overflow: visible;
 }
-#Rectangle_1522_tm {
+#Rectangle_1522_ue {
 	fill: rgba(5,44,105,1);
 }
-.Rectangle_1522_tm {
+.Rectangle_1522_ue {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -97,7 +65,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_tn {
+#Group_8_uf {
 	position: absolute;
 	width: 1583px;
 	height: 245px;
@@ -105,7 +73,7 @@
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_to {
+#MEE_I_A_ug {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -119,7 +87,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_tp {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_uh {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -135,7 +103,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_tq {
+#Facebook_httpswwwfacebookcomxu_ui {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
@@ -151,7 +119,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_tr {
+#icons8_facebook_circled_32_uj {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -159,7 +127,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_ts {
+#icons8_instagram_logo_32_uk {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -167,7 +135,7 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_tiktok_32_tt {
+#icons8_tiktok_32_ul {
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -175,11 +143,47 @@
 	top: 164px;
 	overflow: visible;
 }
-#icons8_mail_32_tu {
+#icons8_mail_32_um {
 	position: absolute;
 	width: 32px;
 	height: 32px;
 	left: 1326px;
 	top: 164px;
 	overflow: visible;
+}
+#Path_125_un {
+	fill: rgba(5,44,105,1);
+}
+.Path_125_un {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_uo {
+	position: absolute;
+	width: 169px;
+	height: 169px;
+	left: 875.5px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#icons8_back_48px_up {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 80px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dacdiemsinhhoc.html;
+	cursor: pointer;
 }
