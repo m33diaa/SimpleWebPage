@@ -79,14 +79,6 @@
 	left: 0px;
 	top: 0px;
 }
-#Web_1920__1 {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 581px;
-	overflow: visible;
-}
 #PODCAST {
 	left: 846px;
 	top: 289px;
@@ -100,6 +92,14 @@
 	font-weight: bold;
 	font-size: 55px;
 	color: rgba(124,83,218,1);
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
 }
 #Group_10 {
 	position: absolute;
