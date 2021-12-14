@@ -1,0 +1,189 @@
+.mediaViewInfo {
+	--web-view-name: Mẹ-ơi-Con-là-người-đồng-tính;
+	--web-view-id: M-i-Con-l-ngi-ng-tnh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: M-i-Con-l-ngi-ng-tnh;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#M-i-Con-l-ngi-ng-tnh {
+	position: absolute;
+	width: 1920px;
+	height: 6834px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Mẹ-ơi-Con-là-người-đồng-tính;
+	--web-view-id: M-i-Con-l-ngi-ng-tnh;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#M_i_con_l_ngi_ng_tnh {
+	position: absolute;
+	width: 1920px;
+	height: 6480px;
+	left: 0px;
+	top: 72px;
+	overflow: visible;
+}
+#Path_125_p {
+	fill: rgba(76,78,145,1);
+}
+.Path_125_p {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_ti_gin_q {
+	position: absolute;
+	width: 169px;
+	height: 169px;
+	left: 875.5px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#icons8_back_48px_r {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 80px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: lgbt.html;
+	cursor: pointer;
+}
+#Group_10_s {
+	position: absolute;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 6491px;
+	overflow: visible;
+}
+#Rectangle_1522_t {
+	fill: rgba(76,78,145,1);
+}
+.Rectangle_1522_t {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+}
+#Group_8_a {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 49px;
+	overflow: visible;
+}
+#MEE_I_A_x {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_x {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_httpswwwfacebookcomxu_x {
+	left: 1050px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#icons8_facebook_circled_32_y {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1050px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_a {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1142px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_tiktok_32_a {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1234px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_mail_32_a {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1326px;
+	top: 164px;
+	overflow: visible;
+}

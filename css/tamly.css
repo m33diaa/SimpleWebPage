@@ -1,0 +1,1039 @@
+.mediaViewInfo {
+	--web-view-name: Tâm lý;
+	--web-view-id: Tm_l;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Tm_l;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Tm_l {
+	position: absolute;
+	width: 1920px;
+	height: 2753px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Tâm lý;
+	--web-view-id: Tm_l;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Header_p {
+	position: absolute;
+	width: 1920px;
+	height: 282px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Group_3_p {
+	opacity: 0.3;
+	transform: matrix(1,0,0,1,-283.3556,278.6752) rotate(-18deg);
+	transform-origin: center;
+	position: absolute;
+	width: 566.712px;
+	height: 866.65px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1_p {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_1_p {
+	overflow: visible;
+	position: absolute;
+	width: 759.029px;
+	height: 986.319px;
+	left: 52.288px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_p {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_2_p {
+	overflow: visible;
+	position: absolute;
+	width: 648.108px;
+	height: 752.845px;
+	left: 46.497px;
+	top: 172.495px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_p {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_3_p {
+	overflow: visible;
+	position: absolute;
+	width: 300.587px;
+	height: 529.161px;
+	left: 116.952px;
+	top: 311.203px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_2_qa {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(147,112,228,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_2_qa {
+	position: absolute;
+	overflow: visible;
+	width: 165.409px;
+	height: 123.608px;
+	left: 327.886px;
+	top: 273.815px;
+}
+#Path_8188_qb {
+	opacity: 0.07;
+	fill: rgba(178,0,255,1);
+}
+.Path_8188_qb {
+	overflow: visible;
+	position: absolute;
+	width: 587.48px;
+	height: 608.281px;
+	transform: matrix(1,0,0,1,-293.74,1729.9153) rotate(147deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Web_1920__1_qc {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1909px;
+	overflow: visible;
+}
+#Path_8203_qd {
+	opacity: 0.26;
+	fill: rgba(255,205,249,1);
+}
+.Path_8203_qd {
+	overflow: visible;
+	position: absolute;
+	width: 490.318px;
+	height: 501.965px;
+	transform: matrix(1,0,0,1,1755.1578,90.328) rotate(-37deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#TM_L {
+	left: 872px;
+	top: 264px;
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(124,83,218,1);
+}
+#Group_15494_qf {
+	position: absolute;
+	width: 450px;
+	height: 546px;
+	left: 179px;
+	top: 424px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet24.html;
+	cursor: pointer;
+}
+#Rectangle_1526_qg {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_qg {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 1px;
+}
+#Chng_ta_bt_u_tr_thnh_ngi_ln_ri {
+	left: 20px;
+	top: 317px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_qi {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_qi {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 430.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_qj {
+	left: 20px;
+	top: 461px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#Chng_ta_bt_u_tr_thnh_ngoi_ln_r {
+	position: absolute;
+	width: 450px;
+	height: 278px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15495_ql {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 735px;
+	top: 425px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet25.html;
+	cursor: pointer;
+}
+#Rectangle_1526_qm {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_qm {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Chng_ta_u_rt_tuyt {
+	left: 20px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_qo {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_qo {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_qp {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Chng_ta_u_rt_tuyt {
+	position: absolute;
+	width: 450px;
+	height: 278px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15496_qr {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 1291px;
+	top: 425px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet26.html;
+	cursor: pointer;
+}
+#Rectangle_1526_qs {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_qs {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Sapiosexual_-_Mnh_thch_cu_v_cu {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_qu {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_qu {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_qv {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#Sapiosexual {
+	position: absolute;
+	width: 450px;
+	height: 279px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_8_qx {
+	position: absolute;
+	width: 1583px;
+	height: 245px;
+	left: 169px;
+	top: 2481px;
+	overflow: visible;
+}
+#MEE_I_A_qy {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_qz {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 678px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_httpswwwfacebookcomxu_q {
+	left: 1050px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 534px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#icons8_facebook_circled_32_q {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1050px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_instagram_logo_32_q {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1142px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_tiktok_32_q {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1234px;
+	top: 164px;
+	overflow: visible;
+}
+#icons8_mail_32_q {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1326px;
+	top: 164px;
+	overflow: visible;
+}
+#Search_Bar_q {
+	opacity: 0.69;
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 644px;
+	top: 98px;
+	overflow: visible;
+}
+#Rectangle_1515_q {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1515_q {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Search_q {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 18px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_176_q {
+	fill: transparent;
+}
+.Rectangle_176_q {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_99_q {
+	fill: rgba(34,34,34,1);
+}
+.Path_99_q {
+	overflow: visible;
+	position: absolute;
+	width: 15.9px;
+	height: 15.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bn_ang_C_Thc_Mc_G__ra {
+	left: 273px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(136,103,224,1);
+}
+#Microphone_rb {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 708px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_313_rc {
+	fill: transparent;
+}
+.Rectangle_313_rc {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+#Path_124_rd {
+	fill: rgba(34,34,34,1);
+}
+.Path_124_rd {
+	overflow: visible;
+	position: absolute;
+	width: 12.562px;
+	height: 16px;
+	left: 2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11_re {
+	fill: transparent;
+	stroke: rgba(34,34,34,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11_re {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 25.316px;
+	left: 43.5px;
+	top: 11.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_15541 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 179px;
+	top: 1062px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet10.html;
+	cursor: pointer;
+}
+#Rectangle_1526_rg {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_rg {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Ngh_thut_Liu_thuc_cha_lnh_tm_l_rh {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_ri {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_ri {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_rj {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Ngh_thut_Liu_thuc_cha_lnh_tm_rk {
+	position: absolute;
+	width: 450px;
+	height: 284px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15542 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 735px;
+	top: 1062px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet14.html;
+	cursor: pointer;
+}
+#Rectangle_1526_rm {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_rm {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Trm_cm_bn_c_ang_phi_chu_ng_Phn {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_ro {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_ro {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_rp {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n_Trm_cm_bn_c_ang_phi_chu_ng_P {
+	position: absolute;
+	width: 450px;
+	height: 285px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15546 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 1291px;
+	top: 1062px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet15.html;
+	cursor: pointer;
+}
+#Rectangle_1526_rs {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_rs {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#Ti_chn_ngnh_ny_v_mi_ngi_cng_th {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_ru {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_ru {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_rv {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#TI_CHN_NGNH_NY_V_MI_NGI_CNG_TH {
+	position: absolute;
+	width: 450px;
+	height: 281px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15547 {
+	position: absolute;
+	width: 450px;
+	height: 545px;
+	left: 179px;
+	top: 1699px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baiviet16.html;
+	cursor: pointer;
+}
+#Rectangle_1526_ry {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1526_ry {
+	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	height: 590px;
+	left: 0px;
+	top: 0px;
+}
+#n__thc_phm_xoa_du_tm_trng_bn {
+	left: 20px;
+	top: 316px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(147,112,228,1);
+}
+#Line_12_r {
+	fill: transparent;
+	stroke: rgba(147,112,228,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12_r {
+	overflow: visible;
+	position: absolute;
+	width: 244px;
+	height: 2px;
+	left: 20.5px;
+	top: 429.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vit_bnh_lun_r {
+	left: 20px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
+}
+#n__THC_PHM_XOA_DU_T_M_TRNG_BN_ {
+	position: absolute;
+	width: 450px;
+	height: 281px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#logo_ti_gin_r {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 123px;
+	top: -47px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Group_20_r {
+	position: absolute;
+	width: 1128px;
+	height: 32px;
+	left: 639px;
+	top: 33px;
+	overflow: visible;
+}
+#CHUYN_MC_r {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chuyenmuc.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#THUT_NG_r {
+	left: 250px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: thuatngu.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CHIA_S_CNG_CU_r {
+	left: 722px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: chiase.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#PODCAST_r {
+	left: 491px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: podcast.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#NG_H_r {
+	left: 1040px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ungho.html;
+	cursor: pointer;
+	text-align: right;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
