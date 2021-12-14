@@ -38,7 +38,7 @@
 	}
 
 }
-#Header_he {
+#Header_hn {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
@@ -46,7 +46,7 @@
 	top: -1px;
 	overflow: visible;
 }
-#Scroll_Group_1_hf {
+#Scroll_Group_1_ho {
 	mix-blend-mode: normal;
 	transform: matrix(1,0,0,1,-358.1995,387.2724) rotate(200deg);
 	transform-origin: center;
@@ -57,7 +57,7 @@
 	top: 0px;
 	overflow: hidden;
 }
-#Web_1920__2_hg {
+#Web_1920__2_hp {
 	position: absolute;
 	width: 2516.531px;
 	height: 2168.487px;
@@ -65,11 +65,11 @@
 	top: -532.486px;
 	overflow: visible;
 }
-#Path_8188_hh {
+#Path_8188_hq {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_hh {
+.Path_8188_hq {
 	overflow: visible;
 	position: absolute;
 	width: 587.48px;
@@ -78,14 +78,6 @@
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
-}
-#Web_1920__1_hi {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 1421px;
-	overflow: visible;
 }
 #Group_15509 {
 	position: absolute;
@@ -99,10 +91,10 @@
 	--web-action-target: baiviet2.html;
 	cursor: pointer;
 }
-#Rectangle_1526_hk {
+#Rectangle_1526_hs {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_hk {
+.Rectangle_1526_hs {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -165,7 +157,7 @@
 	left: 0px;
 	top: 0px;
 }
-#C_IM_SINH_HC_hp {
+#C_IM_SINH_HC_hx {
 	left: 718px;
 	top: 264px;
 	position: absolute;
@@ -213,10 +205,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_ht {
+#Rectangle_1526_h {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_ht {
+.Rectangle_1526_h {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -239,7 +231,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_hv {
+#Line_12_h {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -248,7 +240,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_hv {
+.Line_12_h {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -257,7 +249,7 @@
 	top: 430.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_hw {
+#Vit_bnh_lun_h {
 	left: 20px;
 	top: 461px;
 	position: absolute;
@@ -299,10 +291,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1526_h {
+#Rectangle_1526_ia {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1526_h {
+.Rectangle_1526_ia {
 	filter: drop-shadow(3px 3px 15px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	overflow: visible;
@@ -333,7 +325,7 @@
 	font-size: 26px;
 	color: rgba(147,112,228,1);
 }
-#Line_12_h {
+#Line_12_ib {
 	fill: transparent;
 	stroke: rgba(147,112,228,1);
 	stroke-width: 2px;
@@ -342,7 +334,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_12_h {
+.Line_12_ib {
 	overflow: visible;
 	position: absolute;
 	width: 244px;
@@ -351,7 +343,7 @@
 	top: 429.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Vit_bnh_lun_h {
+#Vit_bnh_lun_ic {
 	left: 20px;
 	top: 460px;
 	position: absolute;
@@ -372,92 +364,6 @@
 	height: 75.103px;
 	left: 133.686px;
 	top: 105.949px;
-	overflow: visible;
-}
-#Group_8_h {
-	position: absolute;
-	width: 1583px;
-	height: 245px;
-	left: 169px;
-	top: 1993px;
-	overflow: visible;
-}
-#MEE_I_A_h {
-	left: 1px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 157px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_h {
-	left: 0px;
-	top: 80px;
-	position: absolute;
-	overflow: visible;
-	width: 678px;
-	white-space: nowrap;
-	line-height: 35px;
-	margin-top: -7.5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#Facebook_httpswwwfacebookcomxu_h {
-	left: 1050px;
-	top: 6px;
-	position: absolute;
-	overflow: visible;
-	width: 534px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#icons8_facebook_circled_32_ia {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1050px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_instagram_logo_32_ib {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1142px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_tiktok_32_ic {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1234px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_mail_32_id {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1326px;
-	top: 164px;
 	overflow: visible;
 }
 #Search_Bar_ie {
@@ -858,4 +764,123 @@
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
+}
+#Group_15553_i {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 1424px;
+	overflow: visible;
+}
+#Group_15552_ja {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_1920__1_jb {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15551_jc {
+	position: absolute;
+	width: 1476px;
+	height: 245px;
+	left: 169px;
+	top: 576px;
+	overflow: visible;
+}
+#MEE_I_A_jd {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_je {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_wwwfacebookcomxusotha_jf {
+	left: 1050px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 427px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_15550_jg {
+	position: absolute;
+	width: 194px;
+	height: 36px;
+	left: 1051px;
+	top: 187px;
+	overflow: visible;
+}
+#Rectangle_1528_jh {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1529_ji {
+	position: absolute;
+	width: 35px;
+	height: 36px;
+	left: 53px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1530_jj {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 107px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1531_jk {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 160px;
+	top: 0px;
+	overflow: visible;
 }

@@ -860,14 +860,14 @@
 	top: 2326px;
 	position: absolute;
 	overflow: visible;
-	width: 807px;
+	width: 781px;
 	white-space: nowrap;
 	line-height: 51px;
 	margin-top: -12.5px;
 	text-align: left;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 26px;
 	color: rgba(173,125,248,1);
 }
@@ -886,100 +886,6 @@
 	height: 1080px;
 	left: 0px;
 	top: -296px;
-	overflow: visible;
-}
-#Web_1920__1 {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 2729px;
-	overflow: visible;
-}
-#Group_15535 {
-	position: absolute;
-	width: 1583px;
-	height: 245px;
-	left: 169px;
-	top: 3305px;
-	overflow: visible;
-}
-#MEE_I_A {
-	left: 1px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 157px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#Thng_qua_cc_d_n_ca_chng_mnh_Me {
-	left: 0px;
-	top: 80px;
-	position: absolute;
-	overflow: visible;
-	width: 678px;
-	white-space: nowrap;
-	line-height: 35px;
-	margin-top: -7.5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#Facebook_httpswwwfacebookcomxu {
-	left: 1050px;
-	top: 25px;
-	position: absolute;
-	overflow: visible;
-	width: 534px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#icons8_facebook_circled_32 {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1050px;
-	top: 183px;
-	overflow: visible;
-}
-#icons8_instagram_logo_32 {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1142px;
-	top: 183px;
-	overflow: visible;
-}
-#icons8_tiktok_32 {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1234px;
-	top: 183px;
-	overflow: visible;
-}
-#icons8_mail_32 {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1326px;
-	top: 183px;
 	overflow: visible;
 }
 #n_0_nh_ngha_thng_gp_nht_v__Gii {
@@ -1101,4 +1007,123 @@
 	font-weight: bold;
 	font-size: 25px;
 	color: rgba(255,255,255,1);
+}
+#Group_15553 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2729px;
+	overflow: visible;
+}
+#Group_15552 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15551 {
+	position: absolute;
+	width: 1476px;
+	height: 245px;
+	left: 169px;
+	top: 576px;
+	overflow: visible;
+}
+#MEE_I_A {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_wwwfacebookcomxusotha {
+	left: 1050px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 427px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_15550 {
+	position: absolute;
+	width: 194px;
+	height: 36px;
+	left: 1051px;
+	top: 187px;
+	overflow: visible;
+}
+#Rectangle_1528 {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1529 {
+	position: absolute;
+	width: 35px;
+	height: 36px;
+	left: 53px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1530 {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 107px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1531 {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 160px;
+	top: 0px;
+	overflow: visible;
 }

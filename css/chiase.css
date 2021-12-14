@@ -38,33 +38,13 @@
 	}
 
 }
-#Header_fk {
+#Header_fp {
 	position: absolute;
 	width: 1920px;
 	height: 282px;
 	left: 0px;
 	top: -1px;
 	overflow: visible;
-}
-#Path_8186_fl {
-	opacity: 0.74;
-	fill: transparent;
-	stroke: rgba(231,160,254,1);
-	stroke-width: 4px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 10;
-	shape-rendering: auto;
-}
-.Path_8186_fl {
-	overflow: visible;
-	position: absolute;
-	width: 587.48px;
-	height: 454.713px;
-	transform: matrix(1,0,0,1,1579.2602,901.5336) rotate(33deg);
-	transform-origin: center;
-	left: 0px;
-	top: 0px;
 }
 #Saly-16 {
 	opacity: 0.9;
@@ -75,109 +55,27 @@
 	top: 321px;
 	overflow: visible;
 }
-#Web_1920__1_fn {
-	position: absolute;
-	width: 1920px;
-	height: 1080px;
-	left: 0px;
-	top: 578px;
-	overflow: visible;
+#Path_8186_fr {
+	opacity: 0.74;
+	fill: transparent;
+	stroke: rgba(231,160,254,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
 }
-#Group_10 {
-	position: absolute;
-	width: 1583px;
-	height: 245px;
-	left: 169px;
-	top: 1149px;
+.Path_8186_fr {
 	overflow: visible;
-}
-#Group_8 {
 	position: absolute;
-	width: 1583px;
-	height: 245px;
+	width: 587.48px;
+	height: 454.713px;
+	transform: matrix(1,0,0,1,1579.2602,901.5336) rotate(33deg);
+	transform-origin: center;
 	left: 0px;
 	top: 0px;
-	overflow: visible;
 }
-#MEE_I_A_fq {
-	left: 1px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 157px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Candara;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 40px;
-	color: rgba(255,255,255,1);
-}
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_fr {
-	left: 0px;
-	top: 80px;
-	position: absolute;
-	overflow: visible;
-	width: 678px;
-	white-space: nowrap;
-	line-height: 35px;
-	margin-top: -7.5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#Facebook_httpswwwfacebookcomxu_fs {
-	left: 1050px;
-	top: 6px;
-	position: absolute;
-	overflow: visible;
-	width: 534px;
-	white-space: nowrap;
-	line-height: 30px;
-	margin-top: -5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
-	color: rgba(255,255,255,1);
-}
-#icons8_facebook_circled_32_ft {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1050px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_instagram_logo_32_fu {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1142px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_tiktok_32_fv {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1234px;
-	top: 164px;
-	overflow: visible;
-}
-#icons8_mail_32_fw {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1326px;
-	top: 164px;
-	overflow: visible;
-}
-#CHIA_S_CNG_CU_fx {
+#CHIA_S_CNG_CU_fs {
 	left: 872px;
 	top: 330px;
 	position: absolute;
@@ -191,23 +89,7 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#n__t__thm_nt__v_cho_nhng_kin_t {
-	left: 872px;
-	top: 466px;
-	position: absolute;
-	overflow: visible;
-	width: 881px;
-	height: 454px;
-	line-height: 36px;
-	margin-top: -8.5px;
-	text-align: left;
-	font-family: Merriweather Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 19px;
-	color: rgba(147,112,228,1);
-}
-#Search_Bar_fz {
+#Search_Bar_ft {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -216,10 +98,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_f {
+#Rectangle_1515_fu {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_f {
+.Rectangle_1515_fu {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -228,7 +110,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_f {
+#Search_fv {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -236,10 +118,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_f {
+#Rectangle_176_fw {
 	fill: transparent;
 }
-.Rectangle_176_f {
+.Rectangle_176_fw {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -247,10 +129,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_f {
+#Path_99_fx {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_f {
+.Path_99_fx {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -259,7 +141,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__f {
+#Bn_ang_C_Thc_Mc_G__fy {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -275,7 +157,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_f {
+#Microphone_fz {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -332,7 +214,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_ga {
+#CHUYN_MC_f {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -350,7 +232,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_gb {
+#THUT_NG_f {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -368,7 +250,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_gc {
+#CHIA_S_CNG_CU_f {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -382,7 +264,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_gd {
+#PODCAST_f {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -400,7 +282,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_ge {
+#NG_H_f {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -418,7 +300,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#logo_ti_gin_gf {
+#logo_ti_gin_f {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -429,4 +311,139 @@
 	--web-action-type: page;
 	--web-action-target: index.html;
 	cursor: pointer;
+}
+#Group_15553_ga {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
+}
+#Group_15552_gb {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_1920__1_gc {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15551_gd {
+	position: absolute;
+	width: 1476px;
+	height: 245px;
+	left: 169px;
+	top: 576px;
+	overflow: visible;
+}
+#MEE_I_A_ge {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_gf {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Facebook_wwwfacebookcomxusotha_gg {
+	left: 1050px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 427px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_15550_gh {
+	position: absolute;
+	width: 194px;
+	height: 36px;
+	left: 1051px;
+	top: 187px;
+	overflow: visible;
+}
+#Rectangle_1528_gi {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1529_gj {
+	position: absolute;
+	width: 35px;
+	height: 36px;
+	left: 53px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1530_gk {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 107px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1531_gl {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 160px;
+	top: 0px;
+	overflow: visible;
+}
+#n__t__thm_nt__v_cho_nhng_kin_t {
+	left: 872px;
+	top: 466px;
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	height: 462px;
+	line-height: 36px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Merriweather Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(147,112,228,1);
 }
