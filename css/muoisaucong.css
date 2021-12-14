@@ -639,6 +639,21 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
+#CHUYN_MC_os:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#THUT_NG_ot:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#CHIA_S_CNG_CU_ou:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#PODCAST_ov:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#NG_H_ow:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
 #Group_15553_ox {
 	position: absolute;
 	width: 1920px;

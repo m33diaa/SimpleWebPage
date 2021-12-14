@@ -46,7 +46,7 @@
 	top: -1px;
 	overflow: visible;
 }
-#Path_8187_ek {
+#Path_8187 {
 	opacity: 0.74;
 	fill: transparent;
 	stroke: rgba(124,83,218,1);
@@ -56,7 +56,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.Path_8187_ek {
+.Path_8187 {
 	overflow: visible;
 	position: absolute;
 	width: 697.002px;
@@ -66,11 +66,11 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_8188_el {
+#Path_8188 {
 	opacity: 0.07;
 	fill: rgba(178,0,255,1);
 }
-.Path_8188_el {
+.Path_8188 {
 	overflow: visible;
 	position: absolute;
 	width: 726.022px;
@@ -88,7 +88,7 @@
 	top: 279.718px;
 	overflow: visible;
 }
-#logo_ti_gin_en {
+#logo_ti_gin {
 	position: absolute;
 	width: 291px;
 	height: 291px;
@@ -100,7 +100,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#CHUYN_MC_eo {
+#CHUYN_MC {
 	left: 1190px;
 	top: 318px;
 	position: absolute;
@@ -114,7 +114,7 @@
 	font-size: 55px;
 	color: rgba(124,83,218,1);
 }
-#Group_20_ep {
+#Group_20 {
 	position: absolute;
 	width: 1128px;
 	height: 32px;
@@ -122,8 +122,7 @@
 	top: 33px;
 	overflow: visible;
 }
-#CHUYN_MC_eq {
-	filter: drop-shadow(1px 2px 0px rgba(0, 0, 0, 0.161));
+#CHUYN_MC_bq {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -137,7 +136,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#THUT_NG_er {
+#THUT_NG {
 	left: 250px;
 	top: 0px;
 	position: absolute;
@@ -155,7 +154,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#CHIA_S_CNG_CU_es {
+#CHIA_S_CNG_CU {
 	left: 722px;
 	top: 0px;
 	position: absolute;
@@ -173,7 +172,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#PODCAST_et {
+#PODCAST {
 	left: 491px;
 	top: 0px;
 	position: absolute;
@@ -191,7 +190,7 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#NG_H_eu {
+#NG_H {
 	left: 1040px;
 	top: 1px;
 	position: absolute;
@@ -209,7 +208,22 @@
 	font-size: 25px;
 	color: rgba(255,255,255,1);
 }
-#Search_Bar_ev {
+#CHUYN_MC_bq:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#THUT_NG:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#CHIA_S_CNG_CU:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#PODCAST:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#NG_H:hover {
+	text-shadow: 1px 2px 6px #525252;
+}
+#Search_Bar {
 	opacity: 0.69;
 	position: absolute;
 	width: 740px;
@@ -218,10 +232,10 @@
 	top: 98px;
 	overflow: visible;
 }
-#Rectangle_1515_ew {
+#Rectangle_1515 {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_1515_ew {
+.Rectangle_1515 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
 	position: absolute;
 	overflow: visible;
@@ -230,7 +244,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Search_ex {
+#Search {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -238,10 +252,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_176_ey {
+#Rectangle_176 {
 	fill: transparent;
 }
-.Rectangle_176_ey {
+.Rectangle_176 {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -249,10 +263,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_99_ez {
+#Path_99 {
 	fill: rgba(34,34,34,1);
 }
-.Path_99_ez {
+.Path_99 {
 	overflow: visible;
 	position: absolute;
 	width: 15.9px;
@@ -261,7 +275,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Bn_ang_C_Thc_Mc_G__e {
+#Bn_ang_C_Thc_Mc_G_ {
 	left: 273px;
 	top: 16px;
 	position: absolute;
@@ -277,7 +291,7 @@
 	font-size: 16px;
 	color: rgba(136,103,224,1);
 }
-#Microphone_e {
+#Microphone {
 	position: absolute;
 	width: 16px;
 	height: 16px;
@@ -285,10 +299,10 @@
 	top: 16px;
 	overflow: visible;
 }
-#Rectangle_313_e {
+#Rectangle_313 {
 	fill: transparent;
 }
-.Rectangle_313_e {
+.Rectangle_313 {
 	position: absolute;
 	overflow: visible;
 	width: 16px;
@@ -296,10 +310,10 @@
 	left: 0px;
 	top: 0px;
 }
-#Path_124_e {
+#Path_124 {
 	fill: rgba(34,34,34,1);
 }
-.Path_124_e {
+.Path_124 {
 	overflow: visible;
 	position: absolute;
 	width: 12.563px;
@@ -308,7 +322,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_11_e {
+#Line_11 {
 	fill: transparent;
 	stroke: rgba(34,34,34,1);
 	stroke-width: 1px;
@@ -317,7 +331,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_11_e {
+.Line_11 {
 	overflow: visible;
 	position: absolute;
 	width: 1px;
@@ -326,79 +340,7 @@
 	top: 11.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Image_3 {
-	position: absolute;
-	width: 176px;
-	height: 172px;
-	left: 1013px;
-	top: 467px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: dacdiemsinhhoc.html;
-	cursor: pointer;
-}
-#Image_4 {
-	position: absolute;
-	width: 177px;
-	height: 172px;
-	left: 1262px;
-	top: 467px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: gioi.html;
-	cursor: pointer;
-}
-#Image_5 {
-	position: absolute;
-	width: 177px;
-	height: 172px;
-	left: 1512px;
-	top: 467px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: lgbt.html;
-	cursor: pointer;
-}
-#Image_6 {
-	position: absolute;
-	width: 176px;
-	height: 171px;
-	left: 1013px;
-	top: 758px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: muoisaucong.html;
-	cursor: pointer;
-}
-#Image_7 {
-	position: absolute;
-	width: 176px;
-	height: 171px;
-	left: 1263px;
-	top: 758px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: baovebanthan.html;
-	cursor: pointer;
-}
-#Image_8 {
-	position: absolute;
-	width: 177px;
-	height: 171px;
-	left: 1513px;
-	top: 758px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: tamly.html;
-	cursor: pointer;
-}
-#Group_15553_fb {
+#Group_15553 {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -406,7 +348,7 @@
 	top: 565px;
 	overflow: visible;
 }
-#Group_15552_fc {
+#Group_15552 {
 	mix-blend-mode: normal;
 	position: absolute;
 	width: 1920px;
@@ -415,7 +357,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Web_1920__1_fd {
+#Web_1920__1 {
 	position: absolute;
 	width: 1920px;
 	height: 1080px;
@@ -423,7 +365,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Group_15551_fe {
+#Group_15551 {
 	position: absolute;
 	width: 1476px;
 	height: 245px;
@@ -431,7 +373,7 @@
 	top: 576px;
 	overflow: visible;
 }
-#MEE_I_A_ff {
+#MEE_I_A {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -445,7 +387,7 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_fg {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me {
 	left: 0px;
 	top: 80px;
 	position: absolute;
@@ -461,7 +403,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_wwwfacebookcomxusotha_fh {
+#Facebook_wwwfacebookcomxusotha {
 	left: 1050px;
 	top: 25px;
 	position: absolute;
@@ -477,7 +419,7 @@
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Group_15550_fi {
+#Group_15550 {
 	position: absolute;
 	width: 194px;
 	height: 36px;
@@ -485,7 +427,7 @@
 	top: 187px;
 	overflow: visible;
 }
-#Rectangle_1528_fj {
+#Rectangle_1528 {
 	position: absolute;
 	width: 34px;
 	height: 36px;
@@ -493,7 +435,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1529_fk {
+#Rectangle_1529 {
 	position: absolute;
 	width: 35px;
 	height: 36px;
@@ -501,7 +443,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1530_fl {
+#Rectangle_1530 {
 	position: absolute;
 	width: 34px;
 	height: 36px;
@@ -509,11 +451,91 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_1531_fm {
+#Rectangle_1531 {
 	position: absolute;
 	width: 34px;
 	height: 36px;
 	left: 160px;
 	top: 0px;
 	overflow: visible;
+}
+#Group_15582 {
+	position: absolute;
+	width: 677px;
+	height: 462px;
+	left: 1013px;
+	top: 467px;
+	overflow: visible;
+}
+#Image_3 {
+	position: absolute;
+	width: 176px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: dacdiemsinhhoc.html;
+	cursor: pointer;
+}
+#Image_4 {
+	position: absolute;
+	width: 177px;
+	height: 172px;
+	left: 249px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: gioi.html;
+	cursor: pointer;
+}
+#Image_5 {
+	position: absolute;
+	width: 177px;
+	height: 172px;
+	left: 499px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: lgbt.html;
+	cursor: pointer;
+}
+#Image_6 {
+	position: absolute;
+	width: 176px;
+	height: 171px;
+	left: 0px;
+	top: 291px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: muoisaucong.html;
+	cursor: pointer;
+}
+#Image_7 {
+	position: absolute;
+	width: 176px;
+	height: 171px;
+	left: 250px;
+	top: 291px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: baovebanthan.html;
+	cursor: pointer;
+}
+#Image_8 {
+	position: absolute;
+	width: 177px;
+	height: 171px;
+	left: 500px;
+	top: 291px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: tamly.html;
+	cursor: pointer;
 }
