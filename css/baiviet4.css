@@ -46,7 +46,7 @@
 	top: 75px;
 	overflow: visible;
 }
-#Group_10_vt {
+#Group_10_v {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -54,10 +54,18 @@
 	top: 2312px;
 	overflow: visible;
 }
-#Rectangle_1522_vu {
+#Group_15559 {
+	position: absolute;
+	width: 1920px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1522_v {
 	fill: rgba(142,53,119,1);
 }
-.Rectangle_1522_vu {
+.Rectangle_1522_v {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -65,15 +73,15 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_vv {
+#Group_8_wa {
 	position: absolute;
-	width: 1583px;
+	width: 1485px;
 	height: 245px;
-	left: 169px;
+	left: 218px;
 	top: 49px;
 	overflow: visible;
 }
-#MEE_I_A_vw {
+#MEE_I_A_wb {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -87,74 +95,82 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_vx {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_wc {
 	left: 0px;
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 678px;
+	width: 651px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
 	text-align: left;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_vy {
+#Facebook_wwwfacebookcomxusotha_wd {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
 	overflow: visible;
-	width: 534px;
+	width: 436px;
 	white-space: nowrap;
 	line-height: 30px;
 	margin-top: -5px;
 	text-align: left;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_vz {
+#Group_15550_we {
 	position: absolute;
-	width: 32px;
-	height: 32px;
+	width: 194px;
+	height: 36px;
 	left: 1050px;
-	top: 164px;
+	top: 163px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_v {
+#Rectangle_1528_wf {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1142px;
-	top: 164px;
+	width: 34px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-#icons8_tiktok_32_v {
+#Rectangle_1529_wg {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1234px;
-	top: 164px;
+	width: 35px;
+	height: 36px;
+	left: 53px;
+	top: 0px;
 	overflow: visible;
 }
-#icons8_mail_32_v {
+#Rectangle_1530_wh {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1326px;
-	top: 164px;
+	width: 34px;
+	height: 36px;
+	left: 107px;
+	top: 0px;
 	overflow: visible;
 }
-#Path_125_v {
+#Rectangle_1531_wi {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 160px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_125_wj {
 	fill: rgba(77,36,112,1);
 }
-.Path_125_v {
+.Path_125_wj {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -163,7 +179,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_v {
+#logo_ti_gin_wk {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -171,7 +187,7 @@
 	top: -47px;
 	overflow: visible;
 }
-#icons8_back_48px_v {
+#icons8_back_48px_wl {
 	position: absolute;
 	width: 48px;
 	height: 48px;

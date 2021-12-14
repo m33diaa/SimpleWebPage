@@ -38,7 +38,7 @@
 	}
 
 }
-#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_z {
+#Chng_ta_bt_u_tr_thnh_ngoi_ln_r_c {
 	position: absolute;
 	width: 1920px;
 	height: 6480px;
@@ -46,7 +46,7 @@
 	top: 57px;
 	overflow: visible;
 }
-#Group_4_ {
+#Group_4_d {
 	position: absolute;
 	width: 1920px;
 	height: 169px;
@@ -54,10 +54,10 @@
 	top: -47px;
 	overflow: visible;
 }
-#Path_125_d {
+#Path_125_j {
 	fill: rgba(31,101,102,1);
 }
-.Path_125_d {
+.Path_125_j {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -66,7 +66,7 @@
 	top: 47px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#logo_ti_gin_e {
+#logo_ti_gin_q {
 	position: absolute;
 	width: 169px;
 	height: 169px;
@@ -78,7 +78,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#icons8_back_48px_e {
+#icons8_back_48px_l {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -90,7 +90,7 @@
 	--web-action-target: tamly.html;
 	cursor: pointer;
 }
-#Group_10_f {
+#Group_10_m {
 	position: absolute;
 	width: 1920px;
 	height: 343px;
@@ -98,10 +98,10 @@
 	top: 5560px;
 	overflow: visible;
 }
-#Rectangle_1522_d {
+#Rectangle_1522_i {
 	fill: rgba(31,101,102,1);
 }
-.Rectangle_1522_d {
+.Rectangle_1522_i {
 	position: absolute;
 	overflow: visible;
 	width: 1920px;
@@ -109,15 +109,15 @@
 	left: 0px;
 	top: 0px;
 }
-#Group_8_d {
+#Group_15575_j {
 	position: absolute;
-	width: 1583px;
+	width: 1485px;
 	height: 245px;
-	left: 169px;
+	left: 218px;
 	top: 5609px;
 	overflow: visible;
 }
-#MEE_I_A_c {
+#MEE_I_A_k {
 	left: 1px;
 	top: 0px;
 	position: absolute;
@@ -131,67 +131,75 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Thng_qua_cc_d_n_ca_chng_mnh_Me_d {
+#Thng_qua_cc_d_n_ca_chng_mnh_Me_l {
 	left: 0px;
 	top: 80px;
 	position: absolute;
 	overflow: visible;
-	width: 678px;
+	width: 651px;
 	white-space: nowrap;
 	line-height: 35px;
 	margin-top: -7.5px;
 	text-align: left;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#Facebook_httpswwwfacebookcomxu_d {
+#Facebook_wwwfacebookcomxusotha_m {
 	left: 1050px;
 	top: 6px;
 	position: absolute;
 	overflow: visible;
-	width: 534px;
+	width: 436px;
 	white-space: nowrap;
 	line-height: 30px;
 	margin-top: -5px;
 	text-align: left;
 	font-family: Merriweather Sans;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(255,255,255,1);
 }
-#icons8_facebook_circled_32_e {
+#Group_15550_n {
 	position: absolute;
-	width: 32px;
-	height: 32px;
+	width: 194px;
+	height: 36px;
 	left: 1050px;
-	top: 164px;
+	top: 163px;
 	overflow: visible;
 }
-#icons8_instagram_logo_32_c {
+#Rectangle_1528_u {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1142px;
-	top: 164px;
+	width: 34px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
-#icons8_tiktok_32_d {
+#Rectangle_1529_v {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1234px;
-	top: 164px;
+	width: 35px;
+	height: 36px;
+	left: 53px;
+	top: 0px;
 	overflow: visible;
 }
-#icons8_mail_32_d {
+#Rectangle_1530_q {
 	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 1326px;
-	top: 164px;
+	width: 34px;
+	height: 36px;
+	left: 107px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1531_r {
+	position: absolute;
+	width: 34px;
+	height: 36px;
+	left: 160px;
+	top: 0px;
 	overflow: visible;
 }
